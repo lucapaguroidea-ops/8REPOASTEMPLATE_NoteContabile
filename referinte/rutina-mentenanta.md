@@ -18,10 +18,10 @@ afectate și publică modificările pe branch. Astfel promisiunea repo-ului —
 |-----------|---------|
 | Nume | Mentenanță legislativă note contabile (lunar) |
 | Tip | Routine (trigger programat) Claude Code Remote |
-| Recurență (cron) | `0 7 1 * *` — ziua 1 a fiecărei luni, ora 07:00 UTC (≈ 09:00/10:00 ora României) |
+| Recurență (cron) | `0 4 1 * *` — ziua 1 a fiecărei luni, ora 04:00 UTC (≈ 06:00 iarna / 07:00 vara, ora României) |
 | Țintă | Sesiunea Claude Code a acestui repo (reia conversația existentă, cu context) |
 | Trigger ID | `trig_01JQhv3xDMWRSaVcPUgnRbSW` |
-| Stare | **ACTIVĂ** (creată la 15.07.2026; prima rulare programată: 01.08.2026, 07:00 UTC) |
+| Stare | **ACTIVĂ** (creată la 15.07.2026; prima rulare programată: 01.08.2026, 04:00 UTC) |
 
 ## Ce face rutina la fiecare rulare (prompt-ul definit)
 
@@ -65,10 +65,13 @@ Ce face Claude în spate (pașii tehnici, ca să fie reproductibili):
    (format `trig_...`).
 2. Pentru **schimbarea recurenței**: `update_trigger` cu `trigger_id` și noul
    `cron_expression`. Exemple utile:
-   - lunar (actual): `0 7 1 * *`
-   - săptămânal, lunea: `0 7 * * 1`
-   - trimestrial (1 ian/apr/iul/oct): `0 7 1 1,4,7,10 *`
-   - bilunar (1 și 15): `0 7 1,15 * *`
+   - lunar (actual): `0 4 1 * *`
+   - săptămânal, lunea: `0 4 * * 1`
+   - trimestrial (1 ian/apr/iul/oct): `0 4 1 1,4,7,10 *`
+   - bilunar (1 și 15): `0 4 1,15 * *`
+
+   (primul câmp = minutul, al doilea = ora în **UTC**; păstrează ora `4` dacă
+   vrei doar să schimbi frecvența, sau schimb-o dacă vrei altă oră.)
 3. Pentru **pauză/repornire**: `update_trigger` cu `enabled: false` / `true`.
 4. Pentru **rulare imediată**, în afara programului: `fire_trigger`.
 5. Pentru **ștergere definitivă**: `delete_trigger`.
@@ -90,3 +93,10 @@ La orice schimbare, **actualizează și acest fișier** (tabelul „Configurați
   pe branch prin git, dar nu poate crea/comenta pull request-uri — dacă va fi
   nevoie de asta, se face manual sau se recreează rutina dintr-o sesiune cu
   conectorii necesari.
+
+## Istoric modificări ale rutinei
+
+| Data | Modificare |
+|------|------------|
+| 2026-07-15 | Creare rutină, cron `0 7 1 * *` (lunar, 07:00 UTC) |
+| 2026-07-15 | Ora de rulare schimbată la 04:00 UTC — cron `0 4 1 * *` (lunar, ziua 1) |
