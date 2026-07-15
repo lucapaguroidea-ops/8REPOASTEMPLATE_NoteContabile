@@ -18,7 +18,9 @@ nu trecem la faza următoare lăsând în urmă note nefinalizate sau neverifica
 ## Faza 1 — Notele de bază (monografiile uzuale)
 
 Se adaugă notele folosite lunar de aproape orice firmă, în această ordine de
-prioritate (fiecare cu temei legal citat și exemplu cifric):
+prioritate (fiecare cu temei legal citat și exemplu cifric). **Faza 1 este
+completă** — toate notele de bază și extinderile fiscale sunt scrise și
+verificate.
 
 - [x] Achiziții de bunuri și servicii cu TVA (facturi furnizori, 4426) — NC-002
 - [x] Vânzări de bunuri și servicii cu TVA (facturi clienți, 4427) — NC-003
@@ -37,8 +39,8 @@ prioritate (fiecare cu temei legal citat și exemplu cifric):
 - [x] Leasing financiar și operațional — NC-015
 - [x] Livrări intracomunitare și export — NC-021
 - [x] Avansuri de trezorerie și deconturi — NC-022
-- [ ] Importul de bunuri (TVA în vamă / taxare inversă cu certificat)
-- [ ] Vânzări la distanță intracomunitare B2C (regimul OSS)
+- [x] Importul de bunuri (TVA în vamă / taxare inversă cu certificat) — NC-023
+- [x] Vânzări la distanță intracomunitare B2C (regimul OSS) — NC-024
 
 ## Faza 2 — Procesele ordonate
 
