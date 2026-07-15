@@ -1,5 +1,27 @@
 # Convențiile notelor contabile
 
+## Secțiuni
+
+Notele sunt organizate pe secțiuni, cu locații separate:
+
+| Secțiune | Locație | Conținut |
+|----------|---------|----------|
+| **De bază** | direct în `note/` | Monografiile generale (NC-001 → NC-025): TVA, salarii de bază, stocuri, imobilizări, închideri, capitaluri |
+| **Salarii — specializare** | `note/salarii-specializare/` | Aprofundări pe zona salarială: beneficii și plafonul 33%, avantaje în natură, deduceri, CO, part-time |
+
+Regulile secțiunilor:
+
+- **Id-urile `NC-###` rămân globale și unice** în tot repo-ul, indiferent de
+  secțiune — secțiunea e doar organizare pe disc.
+- Notele din secțiuni specializate poartă în frontmatter câmpul suplimentar
+  `sectiune:` (ex. `sectiune: salarii-specializare`); notele de bază nu au
+  câmpul.
+- Notele de bază **rămân în `note/`** — nu se mută în secțiuni; o secțiune nouă
+  se creează doar pentru aprofundări pe un domeniu (cum s-a făcut pentru
+  salarii).
+- Linkurile dintre note țin cont de nivel (`../NC-###-...md` din secțiune către
+  bază).
+
 ## Denumire fișiere
 
 `NC-###-slug.md` — id numeric unic, incremental, urmat de un slug scurt și

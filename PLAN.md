@@ -42,6 +42,19 @@ verificate.
 - [x] Importul de bunuri (TVA în vamă / taxare inversă cu certificat) — NC-023
 - [x] Vânzări la distanță intracomunitare B2C (regimul OSS) — NC-024
 
+## Faza 1b — Salarii: specializare (secțiunea `note/salarii-specializare/`)
+
+Aprofundări pe zona salarială, într-o secțiune separată — notele de bază rămân
+în `note/`:
+
+- [x] Beneficii extrasalariale: plafonul 33% + tichete de masă — NC-026
+- [x] Avantajul mașinii de serviciu (1,7%/lună; neimpozabil la regim 50%) — NC-027
+- [x] Deducerea personală de bază și suplimentară — NC-028
+- [x] Concediul de odihnă și datoria pentru CO neefectuat — NC-029
+- [x] Contracte part-time: suprataxarea la baza minimă — NC-030
+- [ ] Zilieri, contracte de mandat, drepturi de autor (regimuri speciale)
+- [ ] Salariați detașați / clauza de mobilitate în detaliu
+
 ## Faza 2 — Procesele ordonate
 
 - [x] Completarea procesului `procese/inchidere-luna.md` cu toate notele din Faza 1,

@@ -111,6 +111,27 @@ M.Of. 1203/24.12.2025), **OUG 156/2024**, **OUG 138/2024**.
 - **Prima zi de concediu medical nu se plătește** în perioada
   **01.02.2026–31.12.2027** (măsură temporară).
 
+**Beneficii și particularități salariale** (verificat 2026-07-15, pentru
+secțiunea `note/salarii-specializare/`):
+
+- **Plafonul de 33%** din salariul de bază (art. 76^1 CF) cu limitele proprii:
+  pensii facultative **400 €/an**, asigurări medicale **400 €/an**, abonamente
+  sportive **100 €/an** (CAEN 9311–9313), creșă/grădiniță **1.500 lei/lună/copil**,
+  chirie 20% din minim, hrană max. un salariu minim/lună — detalii NC-026.
+- **Tichete de masă: max. 45 lei** (Legea 201/2025, drepturi nov. 2025 –
+  sept. 2026); impozit 10% + CASS 10%, fără CAS/CAM; nu intră în coșul de 33%.
+- **Avantajul auto**: 1,7%/lună din valoarea de intrare, proporțional cu km
+  personali; **neimpozabil** pentru vehiculele pe regimul de deducere 50%
+  (art. 76 alin. (4) lit. ț) CF) — detalii NC-027.
+- **Deducerea personală** (art. 77): plafon salariul minim + 2.000 lei
+  (**6.325 lei** din 01.07.2026); de bază 20%–45% din minim după persoanele în
+  întreținere; suplimentar **15% × minim pentru tinerii ≤26** (648,75 lei) și
+  **100 lei/copil** — detalii NC-028.
+- **Part-time**: CAS/CASS cel puțin la baza minimă — **4.125 lei din 01.07.2026**
+  (minim 4.325 − 200 neimpozabil; 3.750 lei în sem. I); diferența în sarcina
+  angajatorului; excepții: elevi/studenți ≤26, pensionari, dizabilități, cumul ≥
+  minim cu declarație lunară — detalii NC-030.
+
 **Termene anuale** (verificat 2026-07-15): D101 pentru anul 2025 — **25 iunie
 2026** ([CECCAR](https://ceccar.ro/ro/?p=24729)); situațiile financiare 2025 —
 31 mai 2026 (OMF 2036/2025), exclusiv electronic.
@@ -262,4 +283,5 @@ următoare (ex.: 25.07.2026 — sâmbătă → 27.07.2026).
 | 2026-07-15 | Verificare țintită pentru NC-013 (concedii medicale) și termenele anuale | Confirmate: procente progresive 55/65/75% și CASS pe indemnizații din 01.08.2025 (Legea 141/2025); prima zi neplătită 01.02.2026–31.12.2027; D101 pentru 2025 scadent 25.06.2026 (CECCAR/ANAF) |
 | 2026-07-15 | Verificare țintită pentru NC-017 (ajustări creanțe) | Confirmat pe art. 26 CF: ajustările pentru creanțe sunt deductibile în limita a 30% (lit. c: >270 zile, negarantate, neafiliat) și 100% doar la faliment/insolvență prin hotărâre (lit. j) — regula rămâne în vigoare în 2026 |
 | 2026-07-15 | Verificare țintită pentru NC-023 (import) și NC-024 (OSS) | Confirmate: certificatul de amânare TVA în vamă (art. 326 CF) — condiții cumulative, prag import ≥50 mil. lei/6 luni, procedura DVN prin OAVR 3168/2025 (din 17.11.2025); plafonul OSS de 10.000 EUR (≈46.337 lei) neschimbat pentru 2026 (art. 278^1 CF), decont D398 trimestrial |
+| 2026-07-15 | Verificare țintită pentru secțiunea salarii-specializare (NC-026 → NC-030) | Confirmate: plafonul 33% cu limitele proprii (400€/400€/100€/1.500 lei), tichete max. 45 lei (Legea 201/2025, până în sept. 2026), avantaj auto 1,7%/lună + neimpozabil la regim 50% (art. 76(4) ț)), deducerea personală recalculată la minimul din iulie (plafon 6.325 lei, tineri 648,75 lei), part-time bază minimă 4.125 lei din 01.07.2026 |
 | 2026-07-15 | Workflow de curățare a elementelor „⚠ de reconfirmat": 30 de elemente, 6 agenți + contra-verificare adversarială | 25 confirmate, 5 corectate. Corecții majore: (1) plafonul mijloacelor fixe e 5.000 lei din 25.02.2026 (OUG 8/2026), nu 2.500 lei; (2) dobânda din leasingul financiar NU e scutită de TVA (norme pct. 52 la art. 292(2)(a)); (3) capitalul minim SRL reintrodus (Legea 239/2025: 500/5.000 lei); (4) CASS pe concedii medicale e din 01.01.2024 (OUG 115/2023), nu 01.08.2025; (5) impozitul pe câștigul din lichidare 16% vine din Legea 239/2025, nu 141/2025. Un singur element rămas „⚠": CASS pensii >3.000 lei (irelevant pentru monografii). Notă: contra-verificarea elementului „diurnă" a eșuat tehnic — concluzia (57,50 lei/zi intern) e susținută de surse multiple concordante, dar fără contra-verificare adversarială |
