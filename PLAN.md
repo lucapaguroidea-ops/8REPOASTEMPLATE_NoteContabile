@@ -53,8 +53,11 @@ verificate.
       diferențele (NC-016), ajustări de depreciere (NC-017), provizioane
       (NC-018), reevaluarea imobilizărilor (NC-019), situațiile financiare
       (NC-020)
-- [ ] Alte procese pe măsură ce apar nevoi (ex.: înființare firmă, lichidare,
-      trecere micro → profit)
+- [x] Grupa de procese **speciale** (ocazionale), separată de cele recurente,
+      în `procese/speciale/`: înființare firmă, trecere micro → profit,
+      lichidare voluntară — cu nota nouă NC-025 (capitalul social)
+- [ ] Alte procese speciale pe măsură ce apar nevoi (ex.: fuziune, divizare,
+      suspendare activitate)
 
 ## Faza 3 — Mentenanța legislativă (permanentă)
 
