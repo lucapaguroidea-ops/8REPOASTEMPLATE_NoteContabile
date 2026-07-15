@@ -11,7 +11,7 @@ Procesele sunt organizate în două grupe, cu locații separate:
 | Grupă | Locație | Natura | Procese |
 |-------|---------|--------|---------|
 | **Recurente** (de bază) | direct în `procese/` | se execută periodic, la nesfârșit | [`inchidere-luna.md`](inchidere-luna.md) (lunar), [`inchidere-an.md`](inchidere-an.md) (anual) |
-| **Speciale** (ocazionale) | `procese/speciale/` | evenimente punctuale din viața firmei | [`infiintare-firma.md`](speciale/infiintare-firma.md), [`trecere-micro-profit.md`](speciale/trecere-micro-profit.md), [`lichidare-firma.md`](speciale/lichidare-firma.md) |
+| **Speciale** (ocazionale) | `procese/speciale/` | evenimente punctuale din viața firmei | [`infiintare-firma.md`](speciale/infiintare-firma.md), [`trecere-micro-profit.md`](speciale/trecere-micro-profit.md), [`suspendare-activitate.md`](speciale/suspendare-activitate.md), [`fuziune-divizare.md`](speciale/fuziune-divizare.md), [`lichidare-firma.md`](speciale/lichidare-firma.md) |
 
 Notele rămân **toate împreună** în `note/`, indiferent de procesele din care fac
 parte — o notă poate servi simultan procese recurente și speciale (ex. NC-016

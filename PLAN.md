@@ -52,8 +52,12 @@ Aprofundări pe zona salarială, într-o secțiune separată — notele de bază
 - [x] Deducerea personală de bază și suplimentară — NC-028
 - [x] Concediul de odihnă și datoria pentru CO neefectuat — NC-029
 - [x] Contracte part-time: suprataxarea la baza minimă — NC-030
-- [ ] Zilieri, contracte de mandat, drepturi de autor (regimuri speciale)
-- [ ] Salariați detașați / clauza de mobilitate în detaliu
+- [x] Zilieri, contracte de mandat, drepturi de autor — NC-031
+- [x] Delegare, detașare și clauza de mobilitate — NC-032
+
+**Faza 1b este completă.** Candidat viitor identificat (se deschide la prima
+speță): detașarea transnațională (Legea 16/2017) și regimul șoferilor de
+transport internațional.
 
 ## Faza 2 — Procesele ordonate
 
@@ -69,8 +73,11 @@ Aprofundări pe zona salarială, într-o secțiune separată — notele de bază
 - [x] Grupa de procese **speciale** (ocazionale), separată de cele recurente,
       în `procese/speciale/`: înființare firmă, trecere micro → profit,
       lichidare voluntară — cu nota nouă NC-025 (capitalul social)
-- [ ] Alte procese speciale pe măsură ce apar nevoi (ex.: fuziune, divizare,
-      suspendare activitate)
+- [x] Candidații din grupa specială, finalizați: **suspendarea temporară a
+      activității** (regim derogatoriu de declarare, max. 3 ani) și
+      **fuziunea/divizarea** (Legea 31/1990 + OMFP 897/2015)
+- [ ] Alte procese speciale pe măsură ce apar nevoi; nota cu monografia
+      completă a fuziunii prin absorbție (OMFP 897/2015) — la prima aplicare
 
 ## Faza 3 — Mentenanța legislativă (permanentă)
 
