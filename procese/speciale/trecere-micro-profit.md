@@ -19,8 +19,16 @@ conformare.
 ## Termene și temeiuri asociate
 
 - Plafonul de 100.000 € și cota micro 1%: OUG 156/2024, OUG 89/2025 — verificate;
-  vezi `referinte/cadru-legislativ.md`, secțiunea 2.
-- ⚠ În curs de verificare (workflow): confirmarea momentului exact al trecerii
-  (începutul trimestrului depășirii) și termenul de depunere a mențiunilor D700.
+  vezi `referinte/cadru-legislativ.md`, secțiunea 2. Plafonul se calculează la
+  cursul de schimb de la închiderea exercițiului precedent.
+- **Momentul trecerii** (verificat 2026-07-15): impozitul pe profit (16%) se
+  datorează **începând cu trimestrul depășirii plafonului** (art. 52 alin. (1)
+  CF), pe veniturile și cheltuielile realizate din acel trimestru — fără
+  recalcul pentru trimestrele anterioare, unde impozitul micro rămâne definitiv.
+  Aceeași regulă la pierderea condiției de salariat sau nedepunerea la termen a
+  situațiilor financiare.
+- **Notificarea ANAF**: mențiuni prin **D700, în 15 zile de la data producerii
+  evenimentului** (verificat 2026-07-15 pe
+  [material ANAF](https://static.anaf.ro/static/10/Cluj/cj_micro_26nov2025.pdf)).
 - Atenție: din 2026 plafonul de 100.000 € face trecerea mult mai frecventă —
   monitorizarea de la pasul 1 este lunară în practică, nu doar trimestrială.

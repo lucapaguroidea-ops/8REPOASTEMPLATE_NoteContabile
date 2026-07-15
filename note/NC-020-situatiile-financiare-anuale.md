@@ -61,9 +61,12 @@ Nu se aplică.
 - Semnare: administratorul și persoana care întocmește (director economic /
   contabil-șef / persoană autorizată — membru CECCAR sau contract cu firmă de
   contabilitate), cf. art. 10 și 28 din Legea 82/1991.
-- **Audit statutar** obligatoriu la depășirea criteriilor legale de mărime —
-  ⚠ pragurile de audit (distincte de categoriile de mai sus) de reconfirmat la
-  prima entitate vizată.
+- **Audit statutar** (verificat 2026-07-15): obligatoriu pentru entitățile
+  mijlocii și mari și pentru cele care depășesc, în două exerciții consecutive,
+  cel puțin două din pragurile de la pct. 563 alin. (2) OMFP 1802/2014 —
+  **16.000.000 lei total active / 32.000.000 lei cifră de afaceri netă /
+  50 salariați** (praguri NEmodificate de OMF 4164/2024, care a schimbat doar
+  criteriile de mărime ale entităților).
 - Raportarea de durabilitate (CSRD, OMF 85/2024) — aplicare etapizată, amânată
   parțial prin OMF 1421/2025 („stop-the-clock") — ⚠ relevantă doar pentru
   entitățile mari; de verificat la caz.

@@ -24,7 +24,13 @@ cu toate obligațiile de înregistrare bifate în ordinea corectă.
   și Legea 265/2022 privind Registrul Comerțului.
 - Regimul fiscal inițial (micro implicit dacă îndeplinește condițiile, altfel
   profit): starea la zi în `referinte/cadru-legislativ.md` (secțiunea 2).
-- Plafonul de scutire de TVA și opțiunea de înregistrare: vezi
-  `referinte/cadru-legislativ.md` (⚠ plafonul curent — în curs de verificare).
-- Registrul unic de control: ⚠ termenul de achiziție de la înregistrarea
-  fiscală — în curs de verificare.
+- Plafonul de scutire de TVA: **395.000 lei** (OG 22/2025, de la 01.09.2025 —
+  verificat 2026-07-15); înregistrarea în scopuri de TVA se solicită cel târziu
+  la data depășirii, iar factura care depășește plafonul se taxează integral.
+  Detalii în `referinte/cadru-legislativ.md`, secțiunea 2.
+- **Registrul unic de control** (verificat 2026-07-15): se achiziționează de la
+  organul fiscal teritorial în **30 de zile de la înregistrare** (Legea
+  252/2003); câte un registru și pentru fiecare sediu secundar înregistrat
+  fiscal; amendă 500–1.000 lei pentru neachiziționare.
+- **Capitalul social minim** (Legea 239/2025): 500 lei pentru SRL nou-înființate —
+  detalii în [NC-025](../../note/NC-025-capitalul-social.md).

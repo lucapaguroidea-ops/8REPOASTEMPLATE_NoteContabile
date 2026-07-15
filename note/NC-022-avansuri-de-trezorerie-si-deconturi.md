@@ -55,19 +55,21 @@ restituie diferența.
 | 1 | 542 | 5311 | 1.500 lei | Acordare avans |
 | 2 | 625 | 542 | 1.000 lei | Cazare + transport (bazele) |
 | 3 | 4426 | 542 | 130 lei | TVA (88 + 42) |
-| 4 | 625 | 542 | diurna cf. calcul | Diurna — vezi ⚠ plafon la secț. 5 |
+| 4 | 625 | 542 | diurna cf. calcul | Diurna — plafon 57,50 lei/zi intern, vezi secț. 5 |
 | 5 | 5311 | 542 | restul | Restituirea diferenței |
 
 ## 5. Temei legal și conformitate
 
 - Funcțiunea contului 542 și documentele (ordin de deplasare, decont):
   OMFP 1802/2014 + OMFP 2634/2015.
-- **Diurna**: neimpozabilă în limita a **2,5 × nivelul legal pentru instituții
-  publice**, plafonată suplimentar la 3 salarii de bază pe lună raportate la
-  zilele lucrate (art. 76 CF) — ⚠ **valorile absolute ale diurnei legale de
-  reconfirmat la prima deplasare** (nivelul pentru instituții publice se
-  actualizează prin HG); peste plafon devine venit salarial (impozit +
-  contribuții).
+- **Diurna** (verificat 2026-07-15 pe surse concordante; notă: contra-verificarea
+  adversarială a acestui element a eșuat tehnic — de retestat la prima speță):
+  neimpozabilă în limita a **2,5 × nivelul legal pentru instituții publice** —
+  intern: 23 lei/zi (OMF 1235/2023) → **plafon 57,50 lei/zi**; extern: pe țări,
+  cf. HG 518/1995 (majoritatea statelor UE: 35 EUR → **plafon 87,5 EUR/zi**) —
+  plafonată suplimentar la **3 salarii de bază** prorata pe zilele de deplasare
+  (art. 76 alin. (2) lit. k) CF). Se aplică limita cea mai mică; depășirea e
+  venit asimilat salariilor (impozit 10% + CAS + CASS + CAM).
 - Cazarea la 11% (cotă redusă în vigoare, Legea 141/2025) — TVA deductibilă pe
   factura pe numele firmei.
 - Numerarul din casierie pentru avansuri respectă plafoanele Legii 70/2015

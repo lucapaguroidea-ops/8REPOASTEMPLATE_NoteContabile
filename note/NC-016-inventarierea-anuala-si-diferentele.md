@@ -87,8 +87,11 @@ la valoarea de înlocuire de 1.200 lei + TVA 21%; plus de materii prime 300 lei.
   majoră — ⚠ verifică încadrarea concretă în norme la fiecare caz.
 - Compensarea plusurilor cu minusurile: permisă doar pentru sortimente
   confundabile, în aceeași gestiune și perioadă (OMFP 2861/2009).
-- Perisabilități: limitele din HG 831/2004 — ⚠ de reconfirmat actul în vigoare
-  la prima aplicare.
+- Perisabilități: limitele din **HG 831/2004 — în vigoare la iulie 2026**
+  (verificat 2026-07-15); deductibile fiscal doar în limitele din anexe
+  (art. 25 alin. (3) lit. d) CF), aplicate între două inventarieri, la nivelul
+  întregii activități; depășirile sunt nedeductibile.
+  [Text](https://legislatie.just.ro/Public/DetaliiDocument/52623)
 
 ## 6. Erori frecvente și atenționări
 

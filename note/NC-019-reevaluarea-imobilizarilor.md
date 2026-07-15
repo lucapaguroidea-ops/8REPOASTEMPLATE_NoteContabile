@@ -72,11 +72,14 @@ amortizare, sau integral la cedare.
   destinației** (art. 26 alin. (5)–(9) CF); deductibilitatea amortizării
   fiscale aferente surplusului are reguli proprii (art. 7 și 28 CF).
   Diferențele contabil–fiscal se urmăresc în registrul de evidență fiscală.
-- **Impozitul pe clădiri (PJ)**: valoarea impozabilă se raportează la valoarea
-  din evidențe/rapoarte de evaluare conform art. 460 CF — ⚠ regimul a fost
-  modificat în pachetele fiscale 2025–2026 (impozitul minim pe clădiri /
-  recalcularea valorilor impozabile); de verificat regulile locale în vigoare
-  înainte de a decide frecvența reevaluării.
+- **Impozitul pe clădiri (PJ)** — verificat 2026-07-15: pentru 2026 rămân
+  regulile clasice ale art. 460 CF — cote **0,08%–0,2%** (rezidențial) și
+  **0,2%–1,3%** (nerezidențial) pe valoarea impozabilă; **actualizarea valorii
+  impozabile prin raport de evaluare o dată la 5 ani rămâne obligatorie**, sub
+  sancțiunea cotei majorate de **5%** (art. 460 alin. (8)). Atenție: de la
+  **01.01.2027**, clădirile rezidențiale ale PJ trec la impozitare ca
+  nerezidențiale (Legea 239/2025, amânată prin OUG 78/2025) — motiv suplimentar
+  de a planifica reevaluarea clădirilor în 2026.
 - Descreșterea se recunoaște întâi din rezerva activului respectiv (105
   analitic **per activ**), nu din rezerva altor active.
 

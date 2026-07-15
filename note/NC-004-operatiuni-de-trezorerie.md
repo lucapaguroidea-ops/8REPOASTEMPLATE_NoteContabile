@@ -68,9 +68,15 @@ comision 25 lei; ridicare numerar 2.000 lei (ajunge în casierie în aceeași zi
 
 - Funcțiunea conturilor clasa 5: OMFP 1802/2014.
 - Registrul de casă se întocmește zilnic, în ziua operațiunilor (OMFP 2634/2015).
-- Operațiunile cu numerar sunt plafonate prin Legea 70/2015 — ⚠ de reconfirmat
-  plafoanele exacte în vigoare (au fost modificate prin Legea 296/2023 și acte
-  ulterioare) înainte de a fi citate într-o notă dedicată casieriei.
+- **Plafoanele de numerar** (Legea 70/2015, verificat 2026-07-15 pe
+  [material ANAF din ian. 2026](https://static.anaf.ro/static/10/Cluj/cj_discipl_fin_23ian2026.pdf)):
+  încasări de la PJ/PFA — **5.000 lei/persoană/zi**; plăți către PJ/PFA —
+  **5.000 lei/persoană/zi**, în limita unui **plafon total de plăți de
+  10.000 lei/zi** (10.000 lei pentru cash & carry); încasări/plăți cu persoane
+  fizice — **10.000 lei/persoană/zi**; avansuri spre decontare —
+  **5.000 lei/persoană/zi**; **sold maxim de casierie 50.000 lei** la finele
+  zilei (din 2026 per casierie, cf. Legea 239/2025; excedentul se depune în
+  2 zile lucrătoare). Sancțiune: **25% din suma care depășește plafonul**.
 - Conturile în valută (5124, 5314) se reevaluează la finele lunii — vezi
   [NC-008](NC-008-reevaluarea-elementelor-monetare-in-valuta.md).
 

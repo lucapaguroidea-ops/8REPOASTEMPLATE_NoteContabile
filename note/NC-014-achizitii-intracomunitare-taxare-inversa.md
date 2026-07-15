@@ -73,10 +73,16 @@ nelucrătoare), D394 nu (doar operațiuni naționale).
   exact la prima speță de facturi întârziate.
 - Taxarea inversă prin decont: art. 326 CF — evidențierea taxei ca deductibilă
   și colectată în același decont; efect de numerar zero cu deducere integrală.
-- Taxarea inversă internă (art. 331 CF): lista operațiunilor (cereale, masă
-  lemnoasă, deșeuri, certificate verzi, energie/gaze către comercianți etc.)
-  are **termene de valabilitate prelungite periodic** — ⚠ de verificat
-  valabilitatea măsurii pe operațiunea concretă înainte de aplicare.
+- Taxarea inversă internă (art. 331 CF — verificat 2026-07-15): măsuri
+  **permanente** (fără termen): deșeuri/materii prime secundare, masă lemnoasă,
+  construcții/terenuri, aur de investiții; măsuri **temporare, valabile până la
+  31.12.2026** (OUG 85/2022 / Directiva UE 2022/890): cereale și plante tehnice,
+  certificate de emisii GES, energie electrică și gaze către comercianți,
+  certificate verzi, telefoane mobile, microprocesoare, console/tablete/laptopuri
+  (ultimele trei doar la facturi ≥22.500 lei fără TVA). Condiție generală:
+  ambele părți înregistrate normal în scopuri de TVA. **La 01.01.2027 măsurile
+  temporare expiră dacă nu sunt prelungite** — vezi tabelul „Modificări cu
+  aplicare viitoare" din `referinte/cadru-legislativ.md`.
 - Ambele conturi 4426/4427 din taxarea inversă intră în închiderea de TVA
   ([NC-001](NC-001-inchiderea-conturilor-de-tva.md)) — efectul net este nul.
 - Cursul valutar: regula generală (BNR din ziua bancară precedentă) — vezi

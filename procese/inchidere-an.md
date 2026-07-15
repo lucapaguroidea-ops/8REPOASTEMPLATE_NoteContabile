@@ -34,7 +34,8 @@
 - **Inventarierea**: cel puțin o dată pe an, de regulă la închiderea
   exercițiului (art. 7 Legea 82/1991; normele: OMFP 2861/2009).
 - Impozitul pe dividendele distribuite dar neplătite până la 31.12: scadent la
-  25 ianuarie a anului următor (vezi NC-011, cu ⚠ de reconfirmat).
+  25 ianuarie a anului următor (art. 97 alin. (7) CF — verificat 2026-07-15;
+  vezi NC-011).
 
 ## Pași fără notă dedicată
 

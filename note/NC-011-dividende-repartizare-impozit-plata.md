@@ -75,9 +75,10 @@ exercițiului 2025; plata are loc în iulie 2026. Cota de impozit: **16%**
   Dividendele distribuite **în 2025** (inclusiv interimare) rămân la 10%, fără
   recalculare la regularizare.
 - Declararea: D100; plata până pe 25 a lunii următoare plății dividendelor.
-  Pentru dividendele distribuite dar **neplătite** până la finele anului,
-  impozitul e scadent până la 25 ianuarie a anului următor — ⚠ de reconfirmat
-  această regulă (art. 97 CF) la prima aplicare.
+  Pentru dividendele distribuite dar **neplătite** până la finele anului în care
+  s-a aprobat distribuirea, impozitul e scadent până la **25 ianuarie a anului
+  următor** (art. 97 alin. (7) CF — verificat 2026-07-15, inclusiv pe
+  [material ANAF](https://static.anaf.ro/static/3/Cluj/20250130125605_cj_dividende_30ian2025.pdf)).
 - Rezerva legală: art. 183 din Legea 31/1990.
 - Scutiri pentru dividende PJ română → PJ română cu deținere ≥10% pe minim 1 an
   (art. 43 CF) — de verificat condițiile la cazul concret.
@@ -89,10 +90,12 @@ exercițiului 2025; plata are loc în iulie 2026. Cota de impozit: **16%**
 - **Cota după data plății, nu a distribuirii**: pentru distribuiri hotărâte în
   2025 dar plătite în 2026, cota rămâne cea de la distribuire (10%) — regimul
   tranzitoriu al Legii 141/2025; documentează data hotărârii AGA.
-- **CASS-ul asociatului**: persoana fizică datorează CASS pentru veniturile din
-  dividende peste plafoanele legale, prin declarația unică — nu e obligația
-  plătitorului, dar merită semnalat asociaților (⚠ plafoanele 2026 de
-  reconfirmat la o notă dedicată).
+- **CASS-ul asociatului** (verificat 2026-07-15): persoana fizică datorează CASS
+  10% dacă totalul veniturilor extrasalariale depășește plafoanele de
+  **6/12/24 salarii minime** raportate la salariul minim de la 1 ianuarie a
+  anului venitului (4.050 lei în 2026 → 24.300/48.600/97.200 lei; CASS datorată
+  2.430/4.860/9.720 lei), prin declarația unică — nu e obligația plătitorului,
+  dar merită semnalat asociaților.
 - **Dividende din 121 curent** — distribuirea curentă se face doar ca dividende
   interimare, pe baza situațiilor financiare interimare, cu regularizare.
 

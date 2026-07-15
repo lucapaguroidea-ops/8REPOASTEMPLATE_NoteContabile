@@ -38,9 +38,16 @@
     exercițiul 2024: microentități ≤ 2.250.000 lei active / 4.500.000 lei CA netă /
     10 salariați; entități mici ≤ 25.000.000 lei / 50.000.000 lei / 50 salariați.
     [Text](https://static.anaf.ro/static/10/Anaf/legislatie/OMF_4164_2024.pdf)
-  - ⚠ de reconfirmat: OMF 255/2025; OMF 1421/2025 (amânarea „stop-the-clock" a
-    raportării de durabilitate); OMF 203/2026 (impozite amânate Pilonul II, opțiunea
-    de trecere la IFRS din exercițiul 2025 pentru entitățile vizate de Legea 431/2023).
+  - **OMF 255/2025** (M.Of. 135/14.02.2025) — funcțiunea contului 697 pentru grupul
+    fiscal (IMCA) și Declarația privind situația de trezorerie pentru ONG-uri, din
+    situațiile financiare 2024 (verificat 2026-07-15).
+  - **OMF 1421/2025** (M.Of. 786/22.08.2025) — „stop-the-clock" (Directiva UE
+    2025/794): raportarea de durabilitate amânată cu 2 ani — valul 2 de la
+    exerciții începând cu 01.01.2027, valul 3 de la 01.01.2028 (verificat 2026-07-15).
+  - **OMF 203/2026** (M.Of. 196/13.03.2026) — entitățile vizate de impozitul minim
+    global (Legea 431/2023, Pilonul II) pot opta pentru IFRS (OMFP 2844/2016);
+    cele rămase pe OMFP 1802/2014 prezintă impozitul amânat în notele explicative
+    din exercițiul 2025 (verificat 2026-07-15).
 - **Planul de conturi general** face parte din reglementările aprobate prin
   OMFP 1802/2014 — versiunea la zi este forma consolidată a ordinului (cu conturile
   adăugate prin OMF 2649/2023 și OMF 981/2024).
@@ -60,9 +67,14 @@
 - **Cine aplică IFRS**: entitățile cu valori mobiliare tranzacționate pe piață
   reglementată (OMFP 2844/2016), instituțiile de credit, societățile de asigurare;
   restul aplică OMFP 1802/2014. ⚠ de reconfirmat în detaliu la prima notă pe subiect.
-- ⚠ de reconfirmat: termenul de păstrare a registrelor și documentelor justificative —
-  5 ani pentru documentele întocmite de la 1 ianuarie 2023 (Legea 36/2023), inclusiv
-  statele de salarii.
+- **Termenele de păstrare** (verificat 2026-07-15): registrele contabile obligatorii
+  și documentele justificative — **5 ani**, calculați de la 1 iulie a anului următor
+  încheierii exercițiului în care au fost întocmite, **inclusiv statele de salarii**
+  (art. 23 alin. (1) și art. 25 din Legea 82/1991, modificate prin **Legea 36/2023**,
+  în vigoare din 15.01.2023; anterior 50 de ani pentru state, 10 ani în rest).
+  **Situațiile financiare anuale: 10 ani** (art. 35 alin. (3), nemodificat).
+  Documentele care atestă proveniența bunurilor cu durată de viață peste 5 ani se
+  păstrează pe durata de viață utilă (OMFP 2634/2015, pct. 40).
 
 ## 2. Fiscalitate în vigoare la 15.07.2026
 
@@ -89,8 +101,13 @@ M.Of. 1203/24.12.2025), **OUG 156/2024**, **OUG 138/2024**.
 - Procente progresive pentru cod 01 (boală obișnuită), din 01.08.2025, cf.
   Legea 141/2025: episoade **≤7 zile → 55%**, **8–14 zile → 65%**, **de la
   15 zile → 75%** din baza de calcul.
-- **CASS 10% se reține din indemnizațiile de concediu medical** din 01.08.2025
-  (anterior exceptate).
+- **CASS 10% se reține din indemnizațiile de concediu medical** — obligație
+  introdusă prin **OUG 115/2023, aplicabilă din 01.01.2024** (corectat 2026-07-15:
+  atribuirea inițială către Legea 141/2025 era greșită).
+- **CAS pe indemnizații**: bază specială = **35% din câștigul salarial mediu brut**
+  (9.192 lei în 2026, cf. Legea 44/2026 → bază lunară max. 3.217,20 lei),
+  proporțional cu zilele lucrătoare de concediu — temei: **art. 139 alin. (1)
+  lit. o) CF** (verificat 2026-07-15).
 - **Prima zi de concediu medical nu se plătește** în perioada
   **01.02.2026–31.12.2027** (măsură temporară).
 
@@ -98,11 +115,46 @@ M.Of. 1203/24.12.2025), **OUG 156/2024**, **OUG 138/2024**.
 2026** ([CECCAR](https://ceccar.ro/ro/?p=24729)); situațiile financiare 2025 —
 31 mai 2026 (OMF 2036/2025), exclusiv electronic.
 
-⚠ de reconfirmat (din sinteza cercetării): plafonul de scutire TVA pentru
-întreprinderi mici **395.000 lei** de la 01.09.2025 (OG 22/2025); impozitul pe
-construcții 0,5% se aplică ultimul an în 2026 (abrogat din 2027); accize majorate
-de la 01.01.2026; impozitare majorată crypto/titluri din 2026 (Legea 239/2025);
-CASS 10% pentru pensiile peste 3.000 lei de la 01.08.2025.
+**Alte elemente fiscale verificate 2026-07-15** (workflow cu contra-verificare):
+
+- **Plafonul de scutire TVA: 395.000 lei** de la 01.09.2025 (**OG 22/2025**,
+  M.Of. 806/29.08.2025). Reguli noi: înregistrarea în scopuri de TVA se solicită
+  **cel târziu la data depășirii plafonului**, iar regimul normal se aplică de la
+  operațiunea care generează depășirea (factura care depășește plafonul se
+  taxează integral) — a dispărut vechiul mecanism „până pe 10 ale lunii
+  următoare". Include și regimul transfrontalier UE pentru întreprinderi mici
+  (plafon UE 100.000 €, cod cu sufix EX).
+  [MF](https://mfinante.gov.ro/en/acasa/-/asset_publisher/uwgr/content/suport-fiscal-pentru-c3-aentreprinderile-mici-prin-modific-c4-83ri-de-legisla-c8-9bie-cre-c8-99te-plafonul-de-scutire-de-tva-de-la-300.000-lei-la-395.000-lei)
+- **Impozitul pe construcții**: 0,5% pe valoarea netă contabilă (0,25% pentru
+  construcțiile statului/UAT în administrare etc.), cf. OUG 156/2024 modificată
+  prin OUG 21/2025; **abrogat din 2027** prin OUG 89/2025 — 2026 e ultimul an.
+- **Capitalul social minim SRL a fost REINTRODUS** (Legea 239/2025, în vigoare
+  din 18.12.2025): **500 lei** pentru SRL nou-înființate; **5.000 lei** pentru
+  SRL cu venituri nete peste 400.000 lei în exercițiul precedent. SRL-urile
+  existente au **2 ani (până ~18.12.2027)** pentru majorare, sub sancțiunea
+  dizolvării judiciare. Detalii: nota NC-025.
+- **Plafonul mijloacelor fixe: 5.000 lei** din 25.02.2026 (**OUG 8/2026** — a
+  înlocuit plafonul de 2.500 lei din HG 276/2013), cu actualizare anuală la IPC;
+  mijloacele fixe de 2.500–5.000 lei existente la 31.12.2025 se amortizează în
+  continuare pe durata rămasă. Detalii: nota NC-006.
+- **Plafoanele de numerar (Legea 70/2015)**: încasări/plăți de la/către PJ —
+  5.000 lei/persoană/zi (plafon total plăți 10.000 lei/zi; 10.000 lei pentru
+  cash & carry); persoane fizice — 10.000 lei/persoană/zi; avansuri spre
+  decontare — 5.000 lei/persoană/zi; **sold maxim de casierie 50.000 lei/zi**
+  (din 2026, per casierie, cf. Legea 239/2025). Sancțiune: 25% din depășire.
+  [Material ANAF](https://static.anaf.ro/static/10/Cluj/cj_discipl_fin_23ian2026.pdf)
+- **CASS pentru veniturile extrasalariale ale PF** (dividende, dobânzi etc.):
+  plafoanele rămân **6/12/24 salarii minime**, raportate la salariul minim de la
+  **1 ianuarie** a anului venitului (4.050 lei pentru 2026 → 24.300/48.600/97.200
+  lei). Majorarea la **72 salarii minime** (Legea 239/2025) privește doar plafonul
+  maxim al bazei CASS pentru **activități independente**, din 2026.
+- **Accize majorate la 01.01.2026** (a doua etapă din calendarul Legii 141/2025);
+  **crypto: 16%** pentru câștigurile realizate din 2026 (anterior 10%), **titluri
+  de valoare prin intermediari rezidenți: 3%/6%** reținere la sursă (Legea
+  239/2025).
+- ⚠ de reconfirmat (singura rămasă din sinteză, neverificată individual):
+  CASS 10% pentru pensiile peste 3.000 lei de la 01.08.2025 — irelevantă pentru
+  monografiile curente ale firmelor.
 
 ## 3. Raportarea digitală ANAF (stadiu iulie 2026)
 
@@ -123,8 +175,19 @@ CASS 10% pentru pensiile peste 3.000 lei de la 01.08.2025.
     [Material ANAF](https://static.anaf.ro/static/10/Brasov/Brasov/facturare_electronica_89.pdf)
   - Amenzi de netransmitere în termen: 5.000–10.000 lei (mari), 2.500–5.000 lei
     (mijlocii), 1.000–2.500 lei (ceilalți).
-  - ⚠ de reconfirmat: modificări aduse prin Legea 88/2026 (material ANAF semnalat
-    în iulie 2026).
+  - **Legea 88/2026** (M.Of. 459/29.05.2026, în vigoare din 01.06.2026 — verificat
+    2026-07-15): persoanele fizice identificate prin **CNP nu mai sunt obligate**
+    să folosească e-Factura (devine opțională, prin Registrul RO e-Factura
+    opțional; radiere prin formularul 082); exceptați agricultorii PF în regim
+    special și institutele culturale străine; trei registre (opțional /
+    obligatoriu / executare silită — art. 10^8 OUG 120/2021); organele de
+    executare silită transmit în sistem facturile emise în numele persoanelor
+    impozabile. [Text](https://legislatie.just.ro/Public/DetaliiDocument/311108)
+  - **Livrările intracomunitare scutite (art. 294 (2)) și exporturile sunt
+    EXCEPTATE** de la e-Factura (art. 10 alin. (1) OUG 120/2021) — verificat
+    2026-07-15; extinderea din 01.01.2026 către persoane impozabile nestabilite
+    dar înregistrate în scop de TVA în România exceptează tot LIC-urile cu cod
+    TVA din alt stat membru.
 - **SAF-T / D406** (OPANAF 1783/2021): mari contribuabili din 2022, mijlocii din
   2023, **mici și nerezidenții înregistrați în scop de TVA din 01.01.2025**.
   Perioadele de grație au expirat (pentru mici: 31.07.2025). **Din 2026, D406 se
@@ -132,17 +195,23 @@ CASS 10% pentru pensiile peste 3.000 lei de la 01.08.2025.
   de raportare (luna/trimestrul, după perioada fiscală de TVA).
   [OPANAF 1783/2021](https://legislatie.just.ro/Public/DetaliiDocument/248326) ·
   [Material ANAF grație](https://static.anaf.ro/static/3/Cluj/20250627121421_cj_saft_27iun2025pdf.pdf)
-- **RO e-TVA**: decontul precompletat (P300) continuă să fie pus la dispoziție;
-  ⚠ de reconfirmat: obligația de răspuns la notificarea de conformare și sancțiunile
-  aferente eliminate de la 01.01.2026 (OUG 89/2025), notificarea abrogată integral
-  prin OUG 13/2026 (în vigoare din 09.03.2026).
-- **RO e-Transport**: ⚠ de reconfirmat: din 01.01.2026 sancțiunile (inclusiv pentru
-  obligațiile GPS) sunt aplicabile integral — suspendarea din OUG 29/2025 a expirat
-  la 31.12.2025; vizate: bunurile cu risc fiscal ridicat pe plan național și toate
-  transporturile rutiere internaționale.
+- **RO e-TVA** (verificat 2026-07-15): decontul precompletat (P300) continuă, dar
+  are caracter exclusiv informativ. Obligația de răspuns la „Notificarea de
+  conformare RO e-TVA", amenzile aferente și condiționarea rambursării au fost
+  **eliminate de la 01.01.2026** (OUG 89/2025, M.Of. 1203/24.12.2025), iar
+  notificarea a fost **abrogată integral** prin **OUG 13/2026** (M.Of.
+  181/09.03.2026 — abrogă art. 5, 8, 16 din OUG 70/2024).
+- **RO e-Transport** (verificat 2026-07-15): din **01.01.2026 sancțiunile se aplică
+  integral**, inclusiv pentru obligațiile GPS (suspendarea din OUG 29/2025 a expirat
+  la 31.12.2025). Vizate: bunurile cu risc fiscal ridicat pe plan național și toate
+  transporturile rutiere internaționale, cu vehicule ≥2,5 t MTMA, încărcătură
+  >500 kg sau >10.000 lei. Amenzi până la 100.000 lei + posibila confiscare a
+  contravalorii bunurilor nedeclarate.
+  [Ghid MF](https://mfinante.gov.ro/en/acasa/-/asset_publisher/uwgr/content/ghidul-e-transport.-ce-trebuie-s-c4-83-c8-99tie-contribuabilii-care-realizeaz-c4-83-transporturi-na-c8-9bionale-cu-risc-fiscal-ridicat-c8-99i-transporturi-interna-c8-9bionale)
 - **Case de marcat (AMEF)**: conectate la ANAF cu transmitere automată; actualizate
-  la cotele 21%/11% de la 01.08.2025. ⚠ de reconfirmat: F4109 pentru aparate
-  neutilizate până pe 20 ale lunii.
+  la cotele 21%/11% de la 01.08.2025. **F4109** pentru aparatele complet neutilizate
+  în perioada de raportare: prin SPV, **până pe 20 a lunii următoare** (OPANAF
+  627/2018) — verificat 2026-07-15.
 
 ## 4. Termenele declarațiilor uzuale (neschimbate la iulie 2026)
 
@@ -176,8 +245,13 @@ următoare (ex.: 25.07.2026 — sâmbătă → 27.07.2026).
 | Data | Modificarea | Acțiune în repo |
 |------|-------------|-----------------|
 | 31.07.2026 | Expiră regimul tranzitoriu TVA 9% pentru locuințe | Notele de vânzări imobiliare (când vor exista) trec pe `de-revizuit` la 01.08.2026 |
-| 01.01.2027 | IMCA eliminat (OUG 89/2025) | Revizuire note impozit pe profit |
-| 01.01.2027 | ⚠ de reconfirmat: abrogarea impozitului pe construcții | Reverificare la închiderea anului 2026 |
+| 31.12.2026 | Expiră măsurile temporare de taxare inversă internă — art. 331 alin. (2) lit. c)–f), i)–l): cereale, certificate GES, energie, certificate verzi, telefoane, microprocesoare, console/tablete/laptopuri, gaze (OUG 85/2022 / Directiva UE 2022/890); rămân permanente deșeurile, masa lemnoasă, construcțiile/terenurile, aurul de investiții | NC-014 pe `de-revizuit` la 01.01.2027 dacă nu apare prelungire |
+| 31.12.2026 | Expiră derogarea UE pentru limitarea de 50% a TVA la vehicule (Decizia UE 2024/1641) — de urmărit prelungirea | NC-015 de reverificat în ianuarie 2027 |
+| 01.01.2027 | IMCA eliminat (OUG 89/2025) | Revizuire NC-009 |
+| 01.01.2027 | Impozitul pe construcții abrogat (OUG 89/2025 — confirmat 2026-07-15) | Eliminarea referințelor la 2026 fiind ultimul an |
+| 01.01.2027 | Clădirile rezidențiale ale PJ trec la impozitare ca nerezidențiale (Legea 239/2025, amânată prin OUG 78/2025) | Revizuire NC-019 |
+| 01.01.2027 | Raportarea de durabilitate valul 2 (amânată prin OMF 1421/2025) | Relevant doar pentru entități mari |
+| ~18.12.2027 | Termenul de conformare la capitalul social minim SRL (500 / 5.000 lei, Legea 239/2025) | NC-025 — de semnalat clienților cu SRL sub prag |
 
 ## Istoric verificări
 
@@ -188,3 +262,4 @@ următoare (ex.: 25.07.2026 — sâmbătă → 27.07.2026).
 | 2026-07-15 | Verificare țintită pentru NC-013 (concedii medicale) și termenele anuale | Confirmate: procente progresive 55/65/75% și CASS pe indemnizații din 01.08.2025 (Legea 141/2025); prima zi neplătită 01.02.2026–31.12.2027; D101 pentru 2025 scadent 25.06.2026 (CECCAR/ANAF) |
 | 2026-07-15 | Verificare țintită pentru NC-017 (ajustări creanțe) | Confirmat pe art. 26 CF: ajustările pentru creanțe sunt deductibile în limita a 30% (lit. c: >270 zile, negarantate, neafiliat) și 100% doar la faliment/insolvență prin hotărâre (lit. j) — regula rămâne în vigoare în 2026 |
 | 2026-07-15 | Verificare țintită pentru NC-023 (import) și NC-024 (OSS) | Confirmate: certificatul de amânare TVA în vamă (art. 326 CF) — condiții cumulative, prag import ≥50 mil. lei/6 luni, procedura DVN prin OAVR 3168/2025 (din 17.11.2025); plafonul OSS de 10.000 EUR (≈46.337 lei) neschimbat pentru 2026 (art. 278^1 CF), decont D398 trimestrial |
+| 2026-07-15 | Workflow de curățare a elementelor „⚠ de reconfirmat": 30 de elemente, 6 agenți + contra-verificare adversarială | 25 confirmate, 5 corectate. Corecții majore: (1) plafonul mijloacelor fixe e 5.000 lei din 25.02.2026 (OUG 8/2026), nu 2.500 lei; (2) dobânda din leasingul financiar NU e scutită de TVA (norme pct. 52 la art. 292(2)(a)); (3) capitalul minim SRL reintrodus (Legea 239/2025: 500/5.000 lei); (4) CASS pe concedii medicale e din 01.01.2024 (OUG 115/2023), nu 01.08.2025; (5) impozitul pe câștigul din lichidare 16% vine din Legea 239/2025, nu 141/2025. Un singur element rămas „⚠": CASS pensii >3.000 lei (irelevant pentru monografii). Notă: contra-verificarea elementului „diurnă" a eșuat tehnic — concluzia (57,50 lei/zi intern) e susținută de surse multiple concordante, dar fără contra-verificare adversarială |

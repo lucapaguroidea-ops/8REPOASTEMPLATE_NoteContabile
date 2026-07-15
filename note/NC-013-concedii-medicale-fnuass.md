@@ -70,12 +70,15 @@ Reguli în vigoare la 15.07.2026, verificate pe surse la zi:
 - **Prima zi de concediu medical NU se plătește** în perioada
   **01.02.2026–31.12.2027** (măsură temporară; indemnizația se calculează pe
   zilele diminuate cu una).
-- **CASS 10% se reține din indemnizații** din 01.08.2025 (Legea 141/2025) —
-  anterior erau exceptate.
-- **CAS**: indemnizațiile de incapacitate au o **bază specială de calcul**
-  (art. 143 CF — raportare la 35% din câștigul salarial mediu brut pe zilele de
-  concediu) — ⚠ de reconfirmat formula exactă la implementare; calculul curent
-  îl face programul de salarizare, contabilitatea preia statul.
+- **CASS 10% se reține din indemnizații** — obligație introdusă prin
+  **OUG 115/2023, aplicabilă din 01.01.2024** (corectat 2026-07-15; atribuirea
+  inițială către Legea 141/2025 era greșită).
+- **CAS**: bază specială de calcul — **35% din câștigul salarial mediu brut**,
+  proporțional cu zilele lucrătoare de concediu (temei: **art. 139 alin. (1)
+  lit. o) CF**, introdus prin OUG 3/2018 — corectat 2026-07-15, nu art. 143).
+  Câștigul mediu brut 2026: 9.192 lei (Legea 44/2026) → bază lunară maximă
+  35% × 9.192 = 3.217,20 lei. Calculul curent îl face programul de salarizare;
+  contabilitatea preia statul.
 - **Suportare**: angajatorul plătește primele **5 zile lucrătoare** (cod 01);
   restul se suportă din FNUASS și se recuperează pe bază de cerere.
 - Baza de calcul: media veniturilor brute din ultimele **6 luni** de stagiu,
@@ -87,7 +90,7 @@ Reguli în vigoare la 15.07.2026, verificate pe surse la zi:
   01.08.2025 procentul depinde de durata episodului (55/65/75%).
 - **Neplata primei zile omisă** pentru concediile începute după 01.02.2026 —
   verifică data de început a certificatului.
-- **CASS nereținut** pe indemnizații după 01.08.2025.
+- **CASS nereținut** pe indemnizații (obligatoriu din 01.01.2024).
 - **4382 neurmărit** — sumele de recuperat de la FNUASS trebuie cerute și
   încasate; soldul se inventariază la închiderea anului.
 - **Compensarea „din condei" cu contribuțiile din D112** fără cerere aprobată —
@@ -97,4 +100,5 @@ Reguli în vigoare la 15.07.2026, verificate pe surse la zi:
 
 | Data | Modificare | Motiv / act normativ |
 |------|------------|----------------------|
-| 2026-07-15 | Creare notă; procente 55/65/75% și CASS cf. Legea 141/2025; prima zi neplătită 01.02.2026–31.12.2027 | — |
+| 2026-07-15 | Creare notă; procente 55/65/75% cf. Legea 141/2025; prima zi neplătită 01.02.2026–31.12.2027 | — |
+| 2026-07-15 | Corectat: CASS pe indemnizații e din 01.01.2024 (OUG 115/2023, nu Legea 141/2025); temeiul CAS 35% e art. 139(1) lit. o) CF (nu art. 143); adăugat câștigul mediu brut 2026 (9.192 lei) | Workflow verificare adversarială |

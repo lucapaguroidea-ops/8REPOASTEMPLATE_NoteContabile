@@ -47,9 +47,9 @@ folosește și la majorările ulterioare de capital.
 
 ## 4. Exemplu cifric
 
-SRL cu capital social 1.000 lei, un asociat, aport integral în numerar vărsat în
-contul de capital la constituire; taxe și onorarii de constituire 800 lei,
-tratate drept cheltuială curentă.
+SRL nou-înființat cu capital social 1.000 lei (peste minimul legal de 500 lei —
+vezi secțiunea 5), un asociat, aport integral în numerar vărsat la constituire;
+taxe și onorarii de constituire 800 lei, tratate drept cheltuială curentă.
 
 | Nr. | Cont debit | Cont credit | Sumă | Explicație |
 |-----|-----------|-------------|------|------------|
@@ -60,10 +60,24 @@ tratate drept cheltuială curentă.
 
 ## 5. Temei legal și conformitate
 
-- Capitalul social al SRL: Legea 31/1990 — ⚠ în curs de verificare (workflow):
-  nivelul minim legal la 2026 (după Legea 223/2020, care a eliminat pragul de
-  200 lei) și regulile de vărsare la înmatriculare; se actualizează aici la
-  finalizarea verificării.
+- **Capitalul social minim al SRL — REINTRODUS** (verificat 2026-07-15): după o
+  perioadă fără prag minim (Legea 223/2020, valabilă 05.11.2020–17.12.2025),
+  **Legea 239/2025** (M.Of. 1160/15.12.2025, în vigoare din 18.12.2025) a stabilit:
+  - **500 lei** capital minim pentru SRL **nou-înființate**;
+  - **5.000 lei** pentru SRL cu **venituri nete peste 400.000 lei** în situațiile
+    financiare ale exercițiului precedent (pragul nu se reduce dacă veniturile
+    scad ulterior);
+  - SRL-urile deja înmatriculate au **2 ani (până ~18.12.2027)** pentru majorare
+    și modificarea actului constitutiv, sub sancțiunea **dizolvării judiciare**;
+    pentru majorările făcute până la 31.12.2026, taxa de publicare în M.Of. se
+    reduce cu 50%.
+- **Vărsarea** (SRL): minimum **30% din capitalul subscris în cel mult 3 luni de
+  la înmatriculare**, dar înainte de a începe operațiuni în numele societății;
+  diferența — 12 luni de la înmatriculare pentru aportul în numerar, 2 ani pentru
+  aportul în natură. SA: capital minim 90.000 lei, vărsare 30% la constituire
+  (art. 9–10, Legea 31/1990).
+- Legea 239/2025 a introdus și obligația notificării ANAF în 15 zile a cesiunii
+  părților sociale ale asociatului care deține controlul, cu dovada depusă la ONRC.
 - Funcțiunea conturilor 1011/1012/456/201: OMFP 1802/2014. Dacă se optează
   pentru capitalizare, cheltuielile de constituire (201) se amortizează în
   cel mult 5 ani, iar până la amortizarea lor completă distribuirea de dividende
@@ -82,9 +96,12 @@ tratate drept cheltuială curentă.
   susținută.
 - **Cheltuieli personale ale asociatului „băgate" la constituire** — doar
   costurile legate direct de înființare (taxe, onorarii, publicare).
+- **SRL existent sub pragul nou de capital** — nu uita termenul de conformare
+  ~18.12.2027 (Legea 239/2025); sancțiunea e dizolvarea judiciară.
 
 ## 7. Istoric actualizări
 
 | Data | Modificare | Motiv / act normativ |
 |------|------------|----------------------|
-| 2026-07-15 | Creare notă; minimul legal al capitalului — în curs de verificare pe surse | — |
+| 2026-07-15 | Creare notă | — |
+| 2026-07-15 | Verificat și documentat: capital minim SRL reintrodus (500 lei nou-înființate / 5.000 lei la venituri >400.000 lei; conformare până ~18.12.2027); reguli de vărsare 30%/3 luni | Legea 239/2025 |

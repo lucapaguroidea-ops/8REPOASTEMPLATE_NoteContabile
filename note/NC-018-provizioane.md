@@ -68,9 +68,13 @@ avocatul estimează pierdere probabilă de 25.000 lei.
   OMFP 1802/2014, secțiunea „Provizioane".
 - **Fiscal (art. 26 CF)**: provizioanele pentru **litigii sunt nedeductibile**;
   deductibile sunt doar cele enumerate la art. 26 — în practică cel mai des
-  **provizioanele pentru garanții de bună execuție acordate clienților**
-  (constituite trimestrial în limita cotei de garanție din contracte) — ⚠ de
-  reconfirmat condițiile exacte din normele art. 26 la prima constituire.
+  **provizioanele pentru garanții de bună execuție acordate clienților**,
+  **integral deductibile** (art. 26 alin. (1) lit. b), verificat 2026-07-15):
+  se constituie trimestrial/anual **doar pentru livrările/lucrările/serviciile
+  perioadei curente** cu garanție acordată în perioadele următoare, la nivelul
+  cotelor din contracte sau al procentelor de garantare din tarif (norme
+  HG 1/2016, pct. 16); reluarea la venituri se face la efectuarea remedierilor
+  sau la expirarea garanției.
 - Reluarea unui provizion nedeductibil la constituire este venit **neimpozabil**
   (simetrie fiscală) — se urmărește în registrul de evidență fiscală.
 

@@ -58,16 +58,18 @@ LIC de mărfuri către un client din Ungaria (cod HU valid în VIES), factură
 |-----|-----------|-------------|------|------------|
 | 1 | 4111 | 707 | 25.000 lei | LIC scutită cu drept de deducere |
 
-Raportare: D300 (rândul de LIC), **D390 simbol L** până pe 25.08.2026;
-transmitere în e-Factura conform regulilor în vigoare pentru operațiunea
-respectivă (⚠ LIC-urile au fost printre excepțiile e-Factura B2B — de verificat
-regimul curent la prima speță, cf. `referinte/cadru-legislativ.md`).
+Raportare: D300 (rândul de LIC), **D390 simbol L** până pe 25.08.2026.
+**E-Factura: LIC-urile scutite (art. 294 alin. (2)) și exporturile sunt
+EXCEPTATE** de la obligația de transmitere (art. 10 alin. (1) OUG 120/2021 —
+verificat 2026-07-15, valabil și după extinderile din 01.01.2026).
 
 ## 5. Temei legal și conformitate
 
-- Scutirile: art. 294 CF; instrucțiunile de aplicare (ordinul MF privind
-  justificarea scutirilor) — ⚠ de reconfirmat numărul ordinului în vigoare la
-  prima speță (istoric: OMFP 103/2016, cu modificări).
+- Scutirile: art. 294 CF; instrucțiunile de aplicare: **OMFP 103/2016, modificat
+  prin OMFP 2148/2020 — în vigoare la iulie 2026, neînlocuit** (verificat
+  2026-07-15). Termenul de prezentare a documentelor justificative pentru
+  scutire: **maximum 150 de zile calendaristice** de la faptul generator.
+  [OMFP 2148/2020](https://static.anaf.ro/static/10/Anaf/legislatie/OMFP_2148_2020.pdf)
 - **Quick fixes** (din 2020): codul valid de TVA al clientului și înscrierea în
   D390 sunt **condiții de fond** ale scutirii LIC; prezumțiile de transport din
   Reg. (UE) 2018/1912.

@@ -62,10 +62,13 @@ Sold 4551 la 31.07.2026: 30.000 lei (de confirmat cu asociatul la închidere).
 ## 5. Temei legal și conformitate
 
 - Funcțiunea conturilor 455/461/462: OMFP 1802/2014.
-- Dacă împrumutul este purtător de dobândă: dobânda plătită asociatului persoană
-  fizică este venit impozabil al acestuia (impozit 10% reținut la sursă, cf.
-  art. 97 CF) — ⚠ de reconfirmat cota și mecanismul la primul caz concret;
-  deductibilitatea dobânzii la firmă intră sub regulile costurilor excedentare
+- Dacă împrumutul este purtător de dobândă (verificat 2026-07-15): dobânda
+  plătită asociatului persoană fizică se impozitează cu **10%, impozit final
+  reținut la sursă la momentul plății** (art. 97 alin. (1)–(2) CF — cota NU a
+  fost majorată de Legea 141/2025, care a vizat doar dividendele), virat până pe
+  25 a lunii următoare reținerii și declarat în D100 (+ D205 anual); dobânda
+  intră în plafoanele CASS ale asociatului (6/12/24 salarii minime).
+  Deductibilitatea dobânzii la firmă intră sub regulile costurilor excedentare
   ale îndatorării (art. 402 CF).
 - Împrumuturile în valută de la asociați se reevaluează lunar
   ([NC-008](NC-008-reevaluarea-elementelor-monetare-in-valuta.md)).

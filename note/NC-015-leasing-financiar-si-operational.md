@@ -81,13 +81,18 @@ dobândă 400 lei, TVA 21% aplicată cf. facturii pe 2.400 lei = 504 lei.
 - Recunoașterea după natura contractului: OMFP 1802/2014 (secțiunea privind
   contractele de leasing); definiții fiscale: art. 7 pct. 7–8 CF.
 - Amortizarea bunului în leasing financiar o face **utilizatorul** (art. 28 CF).
-- **Deductibilitate auto** (art. 25 alin. (3) și art. 298 CF): pentru
-  autoturismele folosite și personal, limitarea de **50%** la deducerea TVA și
-  a cheltuielilor (inclusiv dobânzi și amortizare, cu plafonul de amortizare
-  fiscală de 1.500 lei/lună) — ⚠ de reconfirmat plafoanele la speță.
-- TVA pe rate: cf. facturii locatorului (dobânda la leasingul financiar este de
-  regulă scutită dacă e facturată distinct — ⚠ de verificat practica locatorului
-  pe contractul concret; exemplul de mai sus presupune TVA pe întreaga rată).
+- **Deductibilitate auto** (verificat 2026-07-15): pentru vehiculele ≤3,5 t /
+  ≤9 locuri cu folosință mixtă — **50%** la deducerea TVA (art. 298 CF, acoperită
+  de derogarea UE — Decizia 2024/1641, valabilă până la **31.12.2026**) și **50%**
+  la cheltuieli (art. 25 alin. (3) lit. l) CF, fără amortizare); **plafonul de
+  amortizare fiscală: 1.500 lei/lună/vehicul** (art. 28 alin. (14) CF). Toate
+  nemodificate de pachetele fiscale 2025–2026.
+- **TVA pe rate — corectat 2026-07-15**: componenta de dobândă/finanțare din
+  leasingul financiar **NU este scutită de TVA**, nici dacă e facturată distinct —
+  normele metodologice (HG 1/2016, pct. 52 la art. 292 alin. (2) lit. a) CF)
+  exclud expres componentele de finanțare din leasing din sfera scutirii
+  (jurisprudența CJUE C-425/06 Part Service). **Întreaga rată (capital + dobândă)
+  se supune cotei standard de 21%** — cum arată exemplul de mai sus.
 
 ## 6. Erori frecvente și atenționări
 
@@ -107,3 +112,4 @@ dobândă 400 lei, TVA 21% aplicată cf. facturii pe 2.400 lei = 504 lei.
 | Data | Modificare | Motiv / act normativ |
 |------|------------|----------------------|
 | 2026-07-15 | Creare notă | — |
+| 2026-07-15 | Corectat: dobânda din leasingul financiar nu e scutită de TVA (afirmația inițială „de regulă scutită" era greșită); confirmate limitarea 50% și plafonul 1.500 lei/lună | HG 1/2016 pct. 52; art. 298, 25(3)l), 28(14) CF |

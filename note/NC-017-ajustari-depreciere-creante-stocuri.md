@@ -78,10 +78,16 @@ deductibilitatea devine 100% (lit. j).
   - lit. j): **100%** pentru creanțe asupra debitorilor în **faliment** (PJ) sau
     **insolvență** (PF), atestat prin hotărâre judecătorească.
 - Ajustările pentru deprecierea **stocurilor** sunt, de regulă, **nedeductibile**
-  fiscal (nu figurează la art. 26) — ⚠ de reconfirmat pe cazuri particulare.
-- La scoaterea din evidență a creanțelor (654): ajustarea TVA colectate este
-  posibilă în cazul falimentului clientului (art. 287 CF) — ⚠ de reconfirmat
-  condițiile și termenul la prima aplicare.
+  fiscal (nu figurează la art. 26).
+- **Ajustarea TVA colectate pentru creanțe neîncasate** (art. 287 lit. d) CF —
+  verificat 2026-07-15): permisă **de la data sentinței de intrare în faliment**
+  a clientului (nu mai e nevoie de închiderea procedurii — regulă din 2019) sau
+  de la confirmarea planului de reorganizare care modifică/elimină creanța;
+  termen: **5 ani de la 1 ianuarie a anului următor** hotărârii. Pentru clienți
+  **persoane fizice**: după **12 luni** de la termenul de plată (neafiliate), cu
+  dovada demersurilor comerciale (creanțe ≤1.000 lei) sau a procedurilor
+  judiciare (>1.000 lei). Ajustarea se face prin **factură de corecție cu semnul
+  minus** (art. 330 alin. (2) CF), transmisă și beneficiarului.
 
 ## 6. Erori frecvente și atenționări
 
