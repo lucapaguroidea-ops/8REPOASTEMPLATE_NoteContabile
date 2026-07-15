@@ -56,9 +56,11 @@ prioritate (fiecare cu temei legal citat și exemplu cifric):
 
 ## Faza 3 — Mentenanța legislativă (permanentă)
 
-- [ ] Revizuire periodică: la fiecare modificare legislativă majoră și cel puțin
-      trimestrial, se reverifică `referinte/cadru-legislativ.md` pe sursele din
-      `referinte/surse-oficiale.md`
+- [x] Revizuire periodică **automatizată**: rutină lunară activă (ziua 1 a
+      fiecărei luni) care verifică sursele din `referinte/surse-oficiale.md`,
+      actualizează `referinte/cadru-legislativ.md` și notele afectate —
+      scopul, funcționarea și pașii de modificare a recurenței sunt documentați
+      în `referinte/rutina-mentenanta.md`
 - [ ] La orice modificare relevantă: notele afectate trec pe starea `de-revizuit`,
       se actualizează, se consemnează modificarea în „Istoric actualizări" și se
       reîmprospătează `verificata_la`
