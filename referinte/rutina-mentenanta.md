@@ -20,6 +20,7 @@ afectate și publică modificările pe branch. Astfel promisiunea repo-ului —
 | Tip | Routine (trigger programat) Claude Code Remote |
 | Recurență (cron) | `0 4 1 * *` — ziua 1 a fiecărei luni, ora 04:00 UTC (≈ 06:00 iarna / 07:00 vara, ora României) |
 | Țintă | Sesiunea Claude Code a acestui repo (reia conversația existentă, cu context) |
+| Model | `claude-opus-4-8` (Opus 4.8) |
 | Trigger ID | `trig_01JQhv3xDMWRSaVcPUgnRbSW` |
 | Stare | **ACTIVĂ** (creată la 15.07.2026; prima rulare programată: 01.08.2026, 04:00 UTC) |
 
@@ -76,6 +77,12 @@ Ce face Claude în spate (pașii tehnici, ca să fie reproductibili):
 4. Pentru **rulare imediată**, în afara programului: `fire_trigger`.
 5. Pentru **ștergere definitivă**: `delete_trigger`.
 
+**Modelul** rutinei (`claude-opus-4-8` în prezent) nu se schimbă prin
+`update_trigger` (care acoperă doar nume/cron/enabled) — se modifică din
+interfața de rutine de pe claude.ai. După o astfel de schimbare, cere-i lui
+Claude „resincronizează documentația rutinei" ca tabelul de mai sus și istoricul
+să reflecte noul model.
+
 La orice schimbare, **actualizează și acest fișier** (tabelul „Configurație")
 în același commit — documentația și realitatea trebuie să rămână sincrone.
 
@@ -100,3 +107,4 @@ La orice schimbare, **actualizează și acest fișier** (tabelul „Configurați
 |------|------------|
 | 2026-07-15 | Creare rutină, cron `0 7 1 * *` (lunar, 07:00 UTC) |
 | 2026-07-15 | Ora de rulare schimbată la 04:00 UTC — cron `0 4 1 * *` (lunar, ziua 1) |
+| 2026-07-15 | Model schimbat la `claude-opus-4-8` (Opus 4.8) |
