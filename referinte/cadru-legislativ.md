@@ -84,6 +84,20 @@ M.Of. 1203/24.12.2025), **OUG 156/2024**, **OUG 138/2024**.
 | **Impozit pe venit (salarii)** | **10%** (nemodificat în 2026) | art. 78 Cod fiscal | Verificat 2026-07-15 |
 | Suma neimpozabilă la salariul minim | 300 lei/lună (01.01–30.06.2026), **200 lei/lună (01.07–31.12.2026)** | art. III OUG 89/2025 | Scutită de impozit și contribuții; doar pentru salariul de bază = minimul pe economie. [Material ANAF](https://static.anaf.ro/static/3/Galati/20260123122801_suma%20neimpozabila%20in%202026.pdf) |
 
+**Concedii medicale** (verificat 2026-07-15, pentru NC-013):
+
+- Procente progresive pentru cod 01 (boală obișnuită), din 01.08.2025, cf.
+  Legea 141/2025: episoade **≤7 zile → 55%**, **8–14 zile → 65%**, **de la
+  15 zile → 75%** din baza de calcul.
+- **CASS 10% se reține din indemnizațiile de concediu medical** din 01.08.2025
+  (anterior exceptate).
+- **Prima zi de concediu medical nu se plătește** în perioada
+  **01.02.2026–31.12.2027** (măsură temporară).
+
+**Termene anuale** (verificat 2026-07-15): D101 pentru anul 2025 — **25 iunie
+2026** ([CECCAR](https://ceccar.ro/ro/?p=24729)); situațiile financiare 2025 —
+31 mai 2026 (OMF 2036/2025), exclusiv electronic.
+
 ⚠ de reconfirmat (din sinteza cercetării): plafonul de scutire TVA pentru
 întreprinderi mici **395.000 lei** de la 01.09.2025 (OG 22/2025); impozitul pe
 construcții 0,5% se aplică ultimul an în 2026 (abrogat din 2027); accize majorate
@@ -171,3 +185,4 @@ următoare (ex.: 25.07.2026 — sâmbătă → 27.07.2026).
 |------|--------|----------|
 | 2026-07-15 | Cercetare multi-agent pe surse oficiale + verificare adversarială încrucișată a 32 de afirmații-cheie | 31 confirmate, 1 corectată (data sancțiunilor e-Factura B2B: 01.06.2024, nu 01.07.2024); afirmațiile doar din sinteză marcate „⚠ de reconfirmat" |
 | 2026-07-15 | Verificare țintită (căutări web pe surse oficiale) pentru nota de salarii NC-007 | Rezolvate două elemente „⚠": impozit pe salarii rămâne 10% în 2026; suma neimpozabilă 300→200 lei de la 01.07.2026 (art. III OUG 89/2025, material ANAF). Notat și: plafonul CASS pentru alte venituri crește la 72 salarii minime din 2026 (⚠ de reconfirmat la o notă dedicată) |
+| 2026-07-15 | Verificare țintită pentru NC-013 (concedii medicale) și termenele anuale | Confirmate: procente progresive 55/65/75% și CASS pe indemnizații din 01.08.2025 (Legea 141/2025); prima zi neplătită 01.02.2026–31.12.2027; D101 pentru 2025 scadent 25.06.2026 (CECCAR/ANAF) |

@@ -6,6 +6,8 @@ etichete: [valuta, curs-bnr, diferente-de-curs, reevaluare]
 procese:
   - proces: inchidere-luna
     pas: 6
+  - proces: inchidere-an
+    pas: 5
 stare: valida
 verificata_la: 2026-07-15
 temei_legal:

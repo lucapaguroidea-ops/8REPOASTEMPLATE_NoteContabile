@@ -6,6 +6,8 @@ etichete: [impozit-profit, microintreprinderi, imca, d100, d101]
 procese:
   - proces: inchidere-luna
     pas: 8
+  - proces: inchidere-an
+    pas: 7
 stare: valida
 verificata_la: 2026-07-15
 temei_legal:
@@ -83,9 +85,9 @@ sâmbătă).
   `referinte/cadru-legislativ.md`, secțiunea 2.
 - IMCA 0,5% pentru anul fiscal 2026, eliminat din 2027 (OUG 89/2025).
 - Termen D100 trimestrial: 25 a lunii următoare trimestrului; definitivarea
-  impozitului pe profit prin **D101** — ⚠ de reconfirmat termenul curent
-  (25 iunie a anului următor pentru majoritatea contribuabililor) la închiderea
-  anuală.
+  impozitului pe profit prin **D101 până la 25 iunie a anului următor** (pentru
+  anul 2025: 25.06.2026 — verificat 2026-07-15 pe
+  [CECCAR](https://ceccar.ro/ro/?p=24729); excepții: fuziuni, lichidări).
 
 ## 6. Erori frecvente și atenționări
 

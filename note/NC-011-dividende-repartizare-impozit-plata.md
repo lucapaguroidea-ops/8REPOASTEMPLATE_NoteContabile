@@ -3,7 +3,11 @@ id: NC-011
 titlu: "Dividende: repartizarea profitului, impozitul pe dividende (16%) și plata"
 categorie: capitaluri
 etichete: [dividende, repartizare-profit, rezerva-legala, impozit-dividende]
-procese: []
+procese:
+  - proces: inchidere-an
+    pas: 9
+  - proces: inchidere-an
+    pas: 12
 stare: valida
 verificata_la: 2026-07-15
 temei_legal:

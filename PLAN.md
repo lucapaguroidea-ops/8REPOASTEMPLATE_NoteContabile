@@ -31,17 +31,24 @@ prioritate (fiecare cu temei legal citat și exemplu cifric):
 - [x] Impozitul pe profit / impozitul pe veniturile microîntreprinderilor — NC-009
 - [x] Operațiuni de trezorerie (încasări, plăți, viramente interne, comisioane) — NC-004
 - [x] Dividende: repartizarea profitului, impozit, plată — NC-011
-- [ ] Avansuri și decontări cu asociații (455, 461, 462)
-- [ ] Concedii medicale (FNUASS) și particularități salariale
-- [ ] Achiziții/livrări intracomunitare, taxare inversă, import-export
-- [ ] Leasing financiar și operațional
+- [x] Decontări cu asociații (455, 461, 462) — NC-012
+- [x] Concedii medicale (FNUASS) — NC-013
+- [x] Achiziții intracomunitare și taxare inversă — NC-014
+- [x] Leasing financiar și operațional — NC-015
+- [ ] Livrări intracomunitare, export/import (extindere NC-014)
+- [ ] Avansuri de trezorerie și deconturi (542, 461)
 
 ## Faza 2 — Procesele ordonate
 
-- [ ] Completarea procesului `procese/inchidere-luna.md` cu toate notele din Faza 1,
+- [x] Completarea procesului `procese/inchidere-luna.md` cu toate notele din Faza 1,
       în ordinea corectă de execuție, cu condiții de trecere între pași
-- [ ] Procesul de închidere de an (inventariere, reevaluări, repartizarea
-      profitului, situații financiare anuale)
+      (pașii 10–11 sunt pași de verificare/declarare, fără monografie proprie)
+- [x] Procesul de închidere de an — definit în `procese/inchidere-an.md`,
+      pașii 1–12 în ordine, cu notele existente legate
+- [ ] Notele dedicate pașilor din închiderea de an: inventarierea și
+      înregistrarea diferențelor, ajustări de depreciere (491/39x),
+      provizioane (151x), reevaluarea imobilizărilor (105), întocmirea
+      situațiilor financiare
 - [ ] Alte procese pe măsură ce apar nevoi (ex.: înființare firmă, lichidare,
       trecere micro → profit)
 
