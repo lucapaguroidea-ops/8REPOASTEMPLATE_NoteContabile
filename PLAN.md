@@ -35,8 +35,10 @@ prioritate (fiecare cu temei legal citat și exemplu cifric):
 - [x] Concedii medicale (FNUASS) — NC-013
 - [x] Achiziții intracomunitare și taxare inversă — NC-014
 - [x] Leasing financiar și operațional — NC-015
-- [ ] Livrări intracomunitare, export/import (extindere NC-014)
-- [ ] Avansuri de trezorerie și deconturi (542, 461)
+- [x] Livrări intracomunitare și export — NC-021
+- [x] Avansuri de trezorerie și deconturi — NC-022
+- [ ] Importul de bunuri (TVA în vamă / taxare inversă cu certificat)
+- [ ] Vânzări la distanță intracomunitare B2C (regimul OSS)
 
 ## Faza 2 — Procesele ordonate
 
@@ -45,10 +47,10 @@ prioritate (fiecare cu temei legal citat și exemplu cifric):
       (pașii 10–11 sunt pași de verificare/declarare, fără monografie proprie)
 - [x] Procesul de închidere de an — definit în `procese/inchidere-an.md`,
       pașii 1–12 în ordine, cu notele existente legate
-- [ ] Notele dedicate pașilor din închiderea de an: inventarierea și
-      înregistrarea diferențelor, ajustări de depreciere (491/39x),
-      provizioane (151x), reevaluarea imobilizărilor (105), întocmirea
-      situațiilor financiare
+- [x] Notele dedicate pașilor din închiderea de an: inventarierea și
+      diferențele (NC-016), ajustări de depreciere (NC-017), provizioane
+      (NC-018), reevaluarea imobilizărilor (NC-019), situațiile financiare
+      (NC-020)
 - [ ] Alte procese pe măsură ce apar nevoi (ex.: înființare firmă, lichidare,
       trecere micro → profit)
 
