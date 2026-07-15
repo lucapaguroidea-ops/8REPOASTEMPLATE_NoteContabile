@@ -173,9 +173,13 @@ secțiunea `note/salarii-specializare/`):
   **crypto: 16%** pentru câștigurile realizate din 2026 (anterior 10%), **titluri
   de valoare prin intermediari rezidenți: 3%/6%** reținere la sursă (Legea
   239/2025).
-- ⚠ de reconfirmat (singura rămasă din sinteză, neverificată individual):
-  CASS 10% pentru pensiile peste 3.000 lei de la 01.08.2025 — irelevantă pentru
-  monografiile curente ale firmelor.
+- **CASS 10% pe pensiile peste 3.000 lei** (verificat 2026-07-15, se rezolvă
+  ultimul element „⚠ de reconfirmat"): reținere de 10% doar din partea care
+  depășește 3.000 lei, aplicată de casele de pensii de la 01.08.2025, **măsură
+  temporară până la 31.12.2026** (art. din Legea 141/2025). Contestată la CCR
+  (sesizare a Tribunalului București, în curs la iulie 2026) — de urmărit
+  soluția. **Irelevantă pentru monografiile firmelor** (reținerea o fac casele
+  de pensii, nu angajatorul). [Semnal avocatnet](https://www.avocatnet.ro/articol_69948/Pensionarii-care-au-pensii-de-peste-3000-lei-datoreaz%C4%83-CASS-pan%C4%83-la-final-de-2027-Re%C8%9Binerea-e-f%C4%83cut%C4%83-direct-de-casele-de-pensii.html)
 
 ## 3. Raportarea digitală ANAF (stadiu iulie 2026)
 
@@ -262,7 +266,7 @@ pe prima zi lucrătoare următoare (ex.: 25.07.2026 — sâmbătă → 27.07.202
 
 | Data | Modificarea | Acțiune în repo |
 |------|-------------|-----------------|
-| 31.07.2026 | Expiră regimul tranzitoriu TVA 9% pentru locuințe | Notele de vânzări imobiliare (când vor exista) trec pe `de-revizuit` la 01.08.2026 |
+| 31.07.2026 | Expiră regimul tranzitoriu TVA 9% pentru locuințe. **La 15.07.2026 circulă doar o propunere (PACT) de prelungire a termenului de livrare până la 31.07.2027 — NEadoptată**; termenul legal rămâne 31.07.2026 | Notele de vânzări imobiliare (când vor exista) trec pe `de-revizuit` la 01.08.2026; dacă apare act normativ de prelungire, se actualizează rândul |
 | 31.12.2026 | Expiră măsurile temporare de taxare inversă internă — art. 331 alin. (2) lit. c)–f), i)–l): cereale, certificate GES, energie, certificate verzi, telefoane, microprocesoare, console/tablete/laptopuri, gaze (OUG 85/2022 / Directiva UE 2022/890); rămân permanente deșeurile, masa lemnoasă, construcțiile/terenurile, aurul de investiții | NC-014 pe `de-revizuit` la 01.01.2027 dacă nu apare prelungire |
 | 31.12.2026 | Expiră derogarea UE pentru limitarea de 50% a TVA la vehicule (Decizia UE 2024/1641) — de urmărit prelungirea | NC-015 de reverificat în ianuarie 2027 |
 | 01.01.2027 | IMCA eliminat (OUG 89/2025) | Revizuire NC-009 |
@@ -289,3 +293,4 @@ dosarul 3. Rundele viitoare își adaugă propriul dosar.
 | 2026-07-15 | Verificare țintită pentru NC-031/NC-032 și procesele speciale noi | Confirmate: zilieri — impozit 10% + CAS 25% reținute de beneficiar, fără CASS/CAM, tarif minim orar 25,949 lei din 01.07.2026; DDA — forfetară 40%, impozit final 10% la sursă, plafoane CAS 12 / CASS 6-12-24 salarii minime, scutiri CASS salariați/pensionari (material ANAF feb. 2026); suspendare activitate — max. 3 ani ONRC, regim derogatoriu de declarare 12 luni–3 ani (precizări ANAF); OMFP 897/2015 (fuziuni/divizări) în vigoare |
 | 2026-07-15 | Verificare țintită pentru secțiunea salarii-specializare (NC-026 → NC-030) | Confirmate: plafonul 33% cu limitele proprii (400€/400€/100€/1.500 lei), tichete max. 45 lei (Legea 201/2025, până în sept. 2026), avantaj auto 1,7%/lună + neimpozabil la regim 50% (art. 76(4) ț)), deducerea personală recalculată la minimul din iulie (plafon 6.325 lei, tineri 648,75 lei), part-time bază minimă 4.125 lei din 01.07.2026 |
 | 2026-07-15 | Workflow de curățare a elementelor „⚠ de reconfirmat": 30 de elemente, 6 agenți + contra-verificare adversarială | 25 confirmate, 5 corectate. Corecții majore: (1) plafonul mijloacelor fixe e 5.000 lei din 25.02.2026 (OUG 8/2026), nu 2.500 lei; (2) dobânda din leasingul financiar NU e scutită de TVA (norme pct. 52 la art. 292(2)(a)); (3) capitalul minim SRL reintrodus (Legea 239/2025: 500/5.000 lei); (4) CASS pe concedii medicale e din 01.01.2024 (OUG 115/2023), nu 01.08.2025; (5) impozitul pe câștigul din lichidare 16% vine din Legea 239/2025, nu 141/2025. Un singur element rămas „⚠": CASS pensii >3.000 lei (irelevant pentru monografii). Notă: contra-verificarea elementului „diurnă" a eșuat tehnic — concluzia (57,50 lei/zi intern) e susținută de surse multiple concordante, dar fără contra-verificare adversarială |
+| 2026-07-15 | **Rutina lunară — rulare manuală de test** (aceeași zi cu verificările inițiale). Recontrol pe surse oficiale al cotelor/plafoanelor/termenelor și al raportării digitale; inventar complet al notelor. [Dosar 4](../arhiva-cercetare/2026-07-15-dosar-4-rutina-manuala.md) | **Fără modificări legislative** de la verificarea de dimineață: TVA 21%/11%, salariu minim 4.325 lei (01.07), sumă neimpozabilă 200 lei (01.07), dividende 16%, e-Factura (5 zile lucrătoare), SAF-T D406 (toate categoriile, fără grație) — toate confirmate neschimbate. Rezolvat ultimul „⚠": CASS 10% pe pensii >3.000 lei confirmat (temporar până la 31.12.2026, reținut de casele de pensii, contestat la CCR; irelevant pentru monografii). Semnalat (fără impact în repo): propunere PACT de prelungire a TVA 9% locuințe la 31.07.2027 — NEadoptată, termenul rămâne 31.07.2026; acte procedurale noi (OPANAF 174/2026 model D300, model D112 nou din iulie 2026) fără efect asupra monografiilor. **Inventar: 32/32 note parcurse, 0 afectate**, toate rămân `valida`/2026-07-15 |
