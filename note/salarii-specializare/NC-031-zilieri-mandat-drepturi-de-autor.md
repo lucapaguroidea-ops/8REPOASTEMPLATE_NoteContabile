@@ -15,6 +15,7 @@ temei_legal:
   - act: "Material ANAF (feb. 2026) — tratamentul fiscal al veniturilor din drepturi de proprietate intelectuală"
     url: "https://static.anaf.ro/static/10/Cluj/cj_prop_intelect_12feb2026.pdf"
 conturi: [421, 4315, 4316, 436, 444, 462, 616, 621, 641]
+declaratii: [D112, D100, D205]
 ---
 
 # NC-031 — Zilieri, contract de mandat, drepturi de autor

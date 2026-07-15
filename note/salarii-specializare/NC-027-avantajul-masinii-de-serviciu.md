@@ -15,6 +15,7 @@ temei_legal:
   - act: "Material ANAF — deductibilitatea cheltuielilor auto"
     url: "https://static.anaf.ro/static/10/Galati/Vrancea/Deduct-ch-auto.pdf"
 conturi: [421, 4315, 4316, 436, 444]
+declaratii: [D112]
 ---
 
 # NC-027 — Avantajul mașinii de serviciu folosite personal

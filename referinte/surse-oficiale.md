@@ -30,9 +30,12 @@ firmelor mari de consultanță (PwC, KPMG, EY, Deloitte, Crowe). Utile pentru a 
 ## Procedura de monitorizare (Faza 3 din PLAN.md)
 
 1. **Trimestrial** (sau la orice pachet fiscal anunțat): se parcurg noutățile MF/ANAF
-   și se compară cu `cadru-legislativ.md`.
-2. Orice divergență: se actualizează `cadru-legislativ.md`, se identifică notele
-   afectate (căutare după conturi/etichete), acestea trec pe `stare: de-revizuit`.
+   și se compară cu `cadru-legislativ.md` **și cu registrul declarațiilor**
+   (`declaratii.md` — termene, formulare, OPANAF-uri noi).
+2. Orice divergență: se actualizează `cadru-legislativ.md` (și `declaratii.md`
+   pentru scadențe/formulare), se identifică notele afectate (căutare după
+   `conturi`, `etichete` și `declaratii` din frontmatter), acestea trec pe
+   `stare: de-revizuit`.
 3. După actualizarea fiecărei note: rând nou în „Istoric actualizări" al notei,
    `verificata_la` reîmprospătat, `stare: valida`.
 4. Elementele „⚠ de reconfirmat" din `cadru-legislativ.md` se verifică cu prioritate

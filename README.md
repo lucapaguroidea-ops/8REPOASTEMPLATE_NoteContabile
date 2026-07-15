@@ -36,7 +36,9 @@ procese/
   inchidere-luna.md        — procesul de închidere de lună, pașii în ordine
 referinte/
   cadru-legislativ.md      — starea la zi a cadrului legislativ relevant, cu surse
+  declaratii.md            — registrul declarațiilor: scadențe, formulare, legături cu notele
   surse-oficiale.md        — sursele oficiale de monitorizat pentru actualizări
+  rutina-mentenanta.md     — automatizarea lunară de mentenanță, documentată
 ```
 
 ## Reguli de lucru

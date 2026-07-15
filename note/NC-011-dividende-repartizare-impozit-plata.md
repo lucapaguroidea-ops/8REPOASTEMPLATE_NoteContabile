@@ -18,6 +18,7 @@ temei_legal:
   - act: "OMFP 1802/2014 — funcțiunea conturilor 117, 121, 129, 1061, 446, 457"
     url: "https://static.anaf.ro/static/10/Anaf/legislatie/OMFP_1802_2014.pdf"
 conturi: [1061, 117, 121, 129, 446, 457]
+declaratii: [D100, D205]
 ---
 
 # NC-011 — Dividende: repartizare, impozit și plată

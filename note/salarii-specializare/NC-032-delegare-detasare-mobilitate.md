@@ -13,6 +13,7 @@ temei_legal:
   - act: "Codul fiscal, art. 76 alin. (2) lit. k) și alin. (4) lit. h) — plafonul neimpozabil (2,5 × diurna legală + 3 salarii de bază prorata); art. 76^1 (mobilitatea în coșul de 33%)"
     url: "https://www.noulcodfiscal.ro/titlu-4/capitol-3/articol-76.html"
 conturi: [421, 542, 625]
+declaratii: [D112]
 ---
 
 # NC-032 — Delegare, detașare și clauza de mobilitate

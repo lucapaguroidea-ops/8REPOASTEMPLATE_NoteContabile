@@ -16,6 +16,7 @@ temei_legal:
   - act: "OUG 89/2025 — termen de transmitere în RO e-Factura: 5 zile lucrătoare (din 01.01.2026)"
     url: "https://static.anaf.ro/static/10/Brasov/Brasov/facturare_electronica_89.pdf"
 conturi: [4111, 419, 4427, 4428, 704, 707, 708]
+declaratii: [D300, D394, F4109]
 ---
 
 # NC-003 — Vânzări de bunuri și servicii cu TVA (facturi clienți)

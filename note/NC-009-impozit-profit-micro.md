@@ -18,6 +18,7 @@ temei_legal:
   - act: "OMFP 1802/2014 — funcțiunea conturilor 441x, 691, 697, 698"
     url: "https://static.anaf.ro/static/10/Anaf/legislatie/OMFP_1802_2014.pdf"
 conturi: [4411, 4417, 4418, 691, 697, 698]
+declaratii: [D100, D101, D700]
 ---
 
 # NC-009 — Impozitul pe profit / impozitul micro

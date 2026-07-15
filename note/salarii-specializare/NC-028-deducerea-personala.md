@@ -15,6 +15,7 @@ temei_legal:
   - act: "HG 146/2026 — salariul minim 4.325 lei de la 01.07.2026 (referința deducerii)"
     url: "https://mmuncii.gov.ro/salariul-de-baza-minim-brut-pe-tara-garantat-in-plata-se-majoreaza/"
 conturi: [421, 444]
+declaratii: [D112]
 ---
 
 # NC-028 — Deducerea personală

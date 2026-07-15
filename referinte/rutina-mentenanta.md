@@ -50,6 +50,13 @@ Prompt-ul transmis agentului la fiecare declanșare este, în esență:
 Rutinei îi este interzis explicit să modifice scopul repo-ului, formatul
 șablonului sau propria definiție fără cerere explicită a utilizatorului.
 
+**Cum se extinde acoperirea rutinei fără a-i modifica trigger-ul:** prompt-ul
+rutinei deleagă procedura detaliată către `referinte/surse-oficiale.md`, pe care
+o citește la fiecare rulare — extinderile se fac acolo. Exemplu: la 2026-07-15,
+verificarea **registrului declarațiilor** (`referinte/declaratii.md` — termene,
+formulare) a fost adăugată în procedura din `surse-oficiale.md`, fără nicio
+modificare a trigger-ului.
+
 ## Cum se modifică recurența (sau orice altceva la rutină)
 
 Cel mai simplu: **spune-i lui Claude, în sesiunea acestui repo**, ce vrei —

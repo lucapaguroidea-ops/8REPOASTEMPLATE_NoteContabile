@@ -14,6 +14,7 @@ temei_legal:
   - act: "OMFP 1802/2014 — funcțiunea conturilor 4426, 4427"
     url: "https://static.anaf.ro/static/10/Anaf/legislatie/OMFP_1802_2014.pdf"
 conturi: [301, 371, 401, 4426, 4427, 446, 628]
+declaratii: [D300, D390]
 ---
 
 # NC-014 — Achiziții intracomunitare și taxarea inversă

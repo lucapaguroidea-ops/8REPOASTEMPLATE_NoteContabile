@@ -17,6 +17,7 @@ temei_legal:
   - act: "Material ANAF — venituri salariale impozabile limitat"
     url: "https://static.anaf.ro/static/10/Brasov/Brasov/limite_neimpozitare.pdf"
 conturi: [421, 4316, 444, 5328, 642]
+declaratii: [D112]
 ---
 
 # NC-026 — Beneficii extrasalariale: plafonul de 33% și tichetele de masă

@@ -18,6 +18,7 @@ temei_legal:
   - act: "OMFP 1802/2014 — funcțiunea conturilor 421, 425, 427, 4315, 4316, 436, 444, 641, 646"
     url: "https://static.anaf.ro/static/10/Anaf/legislatie/OMFP_1802_2014.pdf"
 conturi: [421, 425, 427, 4315, 4316, 436, 444, 641, 646]
+declaratii: [D112]
 ---
 
 # NC-007 — Salarii: stat de salarii, contribuții și impozit

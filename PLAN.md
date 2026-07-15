@@ -78,6 +78,10 @@ transport internațional.
       **fuziunea/divizarea** (Legea 31/1990 + OMFP 897/2015)
 - [ ] Alte procese speciale pe măsură ce apar nevoi; nota cu monografia
       completă a fuziunii prin absorbție (OMFP 897/2015) — la prima aplicare
+- [x] **Stratul declarațiilor**: registrul `referinte/declaratii.md` (sursa
+      unică pentru scadențe și formulare, cu legături bidirecționale), câmpul
+      `declaratii:` în frontmatter-ul notelor (căutare inversă „ce note
+      alimentează D300?"), procesele trimit la registru pentru termene
 
 ## Faza 3 — Mentenanța legislativă (permanentă)
 
@@ -96,8 +100,11 @@ transport internațional.
 ## Cum lucrăm la o notă nouă (procedură)
 
 1. Copiază `note/_TEMPLATE.md` → `note/NC-###-slug.md` (următorul id liber).
-2. Completează metadatele, inclusiv procesele din care face parte și pasul.
+2. Completează metadatele, inclusiv procesele din care face parte și pasul,
+   plus `declaratii:` dacă nota alimentează o raportare.
 3. Scrie monografia și exemplul cifric; citează temeiul legal cu link oficial.
 4. Verifică pe surse la zi (nu din memorie) cotele/plafoanele/termenele folosite.
 5. Setează `stare: valida` și `verificata_la` cu data verificării.
-6. Dacă nota face parte dintr-un proces, adaug-o și în fișierul procesului.
+6. Dacă nota face parte dintr-un proces, adaug-o și în fișierul procesului;
+   dacă are `declaratii:`, adaug-o și în coloana „Note care o alimentează" din
+   `referinte/declaratii.md` — în același commit.

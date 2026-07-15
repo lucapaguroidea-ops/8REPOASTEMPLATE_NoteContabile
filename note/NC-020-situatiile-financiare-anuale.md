@@ -16,6 +16,7 @@ temei_legal:
   - act: "OMF 2036/2025 — depunerea situațiilor financiare pentru exercițiul 2025 (termen 31.05.2026)"
     url: "https://legislatie.just.ro/Public/DetaliiDocumentAfis/295000"
 conturi: []
+declaratii: [SF]
 ---
 
 # NC-020 — Situațiile financiare anuale

@@ -44,6 +44,7 @@ Id-ul **nu se refolosește niciodată**, nici după abrogarea unei note.
 | `verificata_la` | Data ultimei verificări de conformitate pe surse oficiale |
 | `temei_legal` | Actele normative pe care se sprijină nota, cu link oficial |
 | `conturi` | Conturile implicate, pentru căutare inversă („ce note ating contul 4426?") |
+| `declaratii` | Codurile raportărilor pe care nota le alimentează (ex. `[D300, D394]`), conform [registrului declarațiilor](../referinte/declaratii.md) — pentru căutarea inversă „ce note alimentează D300?"; se omite dacă nota nu alimentează nicio raportare |
 
 ## Structura corpului notei
 

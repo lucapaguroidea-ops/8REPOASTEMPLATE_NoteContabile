@@ -14,6 +14,7 @@ temei_legal:
   - act: "Regulamentul de punere în aplicare (UE) 2018/1912 — prezumțiile privind dovada transportului intracomunitar (quick fixes)"
     url: "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX%3A32018R1912"
 conturi: [4111, 707]
+declaratii: [D300, D390]
 ---
 
 # NC-021 — Livrări intracomunitare și exporturi

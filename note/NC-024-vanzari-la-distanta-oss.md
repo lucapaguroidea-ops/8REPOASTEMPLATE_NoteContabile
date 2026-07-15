@@ -14,6 +14,7 @@ temei_legal:
   - act: "OMFP 1802/2014 — funcțiunea conturilor 4111, 446, 707"
     url: "https://static.anaf.ro/static/10/Anaf/legislatie/OMFP_1802_2014.pdf"
 conturi: [4111, 446, 4427, 707]
+declaratii: [D398]
 ---
 
 # NC-024 — Vânzări la distanță intracomunitare (regimul OSS)

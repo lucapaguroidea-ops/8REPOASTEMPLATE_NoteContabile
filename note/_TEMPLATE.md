@@ -12,6 +12,7 @@ temei_legal:
   - act: "OMFP 1802/2014, pct. ..."
     url: "https://legislatie.just.ro/Public/DetaliiDocument/164546"
 conturi: [000, 000]       # conturile implicate, din Planul de conturi general
+declaratii: [D300]        # raportarile alimentate de nota (coduri din referinte/declaratii.md); se omite daca nu e cazul
 ---
 
 # NC-000 — Titlul notei contabile

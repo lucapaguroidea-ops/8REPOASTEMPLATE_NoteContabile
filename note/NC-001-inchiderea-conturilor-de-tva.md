@@ -16,6 +16,7 @@ temei_legal:
   - act: "Legea 141/2025 — cotele de TVA 21% / 11% de la 01.08.2025"
     url: "https://legislatie.just.ro/Public/DetaliiDocument/300022"
 conturi: [4423, 4424, 4426, 4427, 4428]
+declaratii: [D300]
 ---
 
 # NC-001 — Închiderea conturilor de TVA la finele perioadei fiscale

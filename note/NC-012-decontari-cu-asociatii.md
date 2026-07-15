@@ -12,6 +12,7 @@ temei_legal:
   - act: "Codul fiscal (Legea 227/2015), art. 402 (limitarea deductibilității costurilor îndatorării), art. 114 (venituri din alte surse) / art. 97 (dobânzi PF)"
     url: "https://legislatie.just.ro/Public/DetaliiDocument/171282"
 conturi: [455, 4551, 461, 462, 666, 766]
+declaratii: [D100, D205]
 ---
 
 # NC-012 — Decontări cu asociații

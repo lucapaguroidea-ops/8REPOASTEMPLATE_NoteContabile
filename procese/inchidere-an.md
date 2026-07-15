@@ -22,7 +22,7 @@
 | 11 | [NC-020](../note/NC-020-situatiile-financiare-anuale.md) | Întocmirea și depunerea situațiilor financiare anuale (exclusiv electronic, cf. OUG 138/2024) | Situațiile depuse și validate în termenul legal |
 | 12 | [NC-011](../note/NC-011-dividende-repartizare-impozit-plata.md) | După aprobarea AGA: repartizarea profitului — dividende, report (1171) | Hotărârea AGA înregistrată; impozitul pe dividende reținut la plată |
 
-## Termene legale asociate (starea la zi în `referinte/cadru-legislativ.md`)
+## Termene legale asociate (scadențele: `referinte/declaratii.md`; temeiul: `referinte/cadru-legislativ.md`)
 
 - **Situațiile financiare anuale**: pentru exercițiul 2025, termenul a fost
   **31 mai 2026** (OMF 2036/2025), depunere exclusiv electronică; OUG 138/2024 a

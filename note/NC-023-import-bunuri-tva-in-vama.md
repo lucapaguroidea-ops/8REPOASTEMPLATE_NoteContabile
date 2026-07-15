@@ -16,6 +16,7 @@ temei_legal:
   - act: "OMFP 1802/2014 — funcțiunea conturilor 371, 401, 446, 4426, 4427"
     url: "https://static.anaf.ro/static/10/Anaf/legislatie/OMFP_1802_2014.pdf"
 conturi: [301, 371, 401, 446, 4426, 4427]
+declaratii: [D300]
 ---
 
 # NC-023 — Importul de bunuri: TVA în vamă și certificatul de amânare

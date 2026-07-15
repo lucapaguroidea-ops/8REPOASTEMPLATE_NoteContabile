@@ -14,6 +14,7 @@ temei_legal:
   - act: "OG 51/1997 privind operațiunile de leasing (republicată)"
     url: "https://legislatie.just.ro/Public/DetaliiDocument/12490"
 conturi: [167, 2133, 2813, 404, 4426, 666, 6122, 6811]
+declaratii: [D300]
 ---
 
 # NC-015 — Leasing financiar și leasing operațional

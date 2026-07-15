@@ -16,6 +16,7 @@ temei_legal:
   - act: "OMFP 1802/2014 — funcțiunea conturilor 423, 4315, 4316, 436, 4382, 444, 6458"
     url: "https://static.anaf.ro/static/10/Anaf/legislatie/OMFP_1802_2014.pdf"
 conturi: [423, 4315, 4316, 4382, 444, 6458]
+declaratii: [D112]
 ---
 
 # NC-013 — Concedii medicale: indemnizații și recuperarea din FNUASS

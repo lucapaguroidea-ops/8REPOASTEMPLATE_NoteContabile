@@ -24,17 +24,16 @@ notă sunt planificați, nu opționali.
 | 10 | — | Balanța de verificare lunară | Balanța închisă: egalități verificate, solduri conforme |
 | 11 | — | Declarații și raportări fiscale ale lunii | Declarațiile scadente depuse (vezi termenele de mai jos) |
 
-## Termene legale asociate (de verificat în `referinte/cadru-legislativ.md`)
+## Termene legale asociate
 
-- **Declarațiile fiscale uzuale** (D300 — decont TVA, D390 — declarație
-  recapitulativă, D112 — contribuții și impozit pe salarii, D100): în general
-  **până la data de 25 a lunii următoare**. D394 (livrări/achiziții naționale):
-  până la data de 30 a lunii următoare.
-- **SAF-T (D406)**: până la ultima zi calendaristică a lunii următoare perioadei
-  de raportare (pentru raportare lunară).
+- **Scadențele declarațiilor pasului 11** (D100, D112, D300, D390 — pe 25;
+  D394 — pe 30; D406 — ultima zi a lunii următoare; F4109 — pe 20; D398
+  trimestrial): sursa unică de adevăr este
+  **[registrul declarațiilor](../referinte/declaratii.md)**, cu legăturile
+  către notele care alimentează fiecare raportare.
 - **Balanța de verificare**: **obligatoriu lunară** — art. 22 din Legea 82/1991,
   modificat prin OUG 138/2024 (verificat 2026-07-15). Închiderea de lună nu este
   opțională: legea impune finalizarea ei în fiecare lună.
 
-Detaliile, temeiul legal și eventualele modificări de termene se țin la zi în
-`referinte/cadru-legislativ.md`, nu aici — acest fișier descrie doar ordinea.
+Temeiul legal detaliat se ține la zi în `referinte/cadru-legislativ.md`, iar
+scadențele în `referinte/declaratii.md` — acest fișier descrie doar ordinea.

@@ -14,6 +14,7 @@ temei_legal:
   - act: "Codul fiscal, art. 26 alin. (1) lit. c) — ajustări creanțe deductibile 30%; lit. j) — 100% la faliment/insolvență"
     url: "https://www.noulcodfiscal.ro/titlu-2/capitol-2/articol-26.html"
 conturi: [391, 397, 4118, 491, 654, 6814, 7814]
+declaratii: [D300]
 ---
 
 # NC-017 — Ajustări pentru deprecierea creanțelor și a stocurilor

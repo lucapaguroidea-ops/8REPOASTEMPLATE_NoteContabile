@@ -16,6 +16,7 @@ temei_legal:
   - act: "OUG 120/2021 — RO e-Factura (XML-ul cu sigiliul MF = exemplarul original B2B)"
     url: "https://static.anaf.ro/static/10/Brasov/Brasov/facturare_electronica_89.pdf"
 conturi: [301, 302, 303, 371, 401, 4426, 4428, 605, 611, 6123, 628]
+declaratii: [D300, D394]
 ---
 
 # NC-002 — Achiziții de bunuri și servicii cu TVA (facturi furnizori)

@@ -234,16 +234,13 @@ secțiunea `note/salarii-specializare/`):
   în perioada de raportare: prin SPV, **până pe 20 a lunii următoare** (OPANAF
   627/2018) — verificat 2026-07-15.
 
-## 4. Termenele declarațiilor uzuale (neschimbate la iulie 2026)
+## 4. Termenele declarațiilor
 
-| Declarație | Termen |
-|-----------|--------|
-| D100 (impozite reținute/datorate), D112 (salarii și contribuții), D300 (decont TVA), D390 (recapitulativă UE) | **25** ale lunii următoare perioadei |
-| D394 (livrări/achiziții naționale) | **30** ale lunii următoare |
-| D406 (SAF-T) | **ultima zi calendaristică** a lunii următoare perioadei |
-
-Când termenul cade într-o zi nelucrătoare, se prorogă la prima zi lucrătoare
-următoare (ex.: 25.07.2026 — sâmbătă → 27.07.2026).
+Scadențele, formularele și legăturile cu notele/procesele sunt centralizate în
+**[registrul declarațiilor](declaratii.md)** — sursa unică de adevăr pentru
+acest subiect (mutat acolo la 2026-07-15 pentru a nu exista două locuri de
+întreținut). Regula de prorogare: termenul căzut într-o zi nelucrătoare se mută
+pe prima zi lucrătoare următoare (ex.: 25.07.2026 — sâmbătă → 27.07.2026).
 
 ## 5. Temeiuri specifice închiderii de lună
 
@@ -283,6 +280,7 @@ următoare (ex.: 25.07.2026 — sâmbătă → 27.07.2026).
 | 2026-07-15 | Verificare țintită pentru NC-013 (concedii medicale) și termenele anuale | Confirmate: procente progresive 55/65/75% și CASS pe indemnizații din 01.08.2025 (Legea 141/2025); prima zi neplătită 01.02.2026–31.12.2027; D101 pentru 2025 scadent 25.06.2026 (CECCAR/ANAF) |
 | 2026-07-15 | Verificare țintită pentru NC-017 (ajustări creanțe) | Confirmat pe art. 26 CF: ajustările pentru creanțe sunt deductibile în limita a 30% (lit. c: >270 zile, negarantate, neafiliat) și 100% doar la faliment/insolvență prin hotărâre (lit. j) — regula rămâne în vigoare în 2026 |
 | 2026-07-15 | Verificare țintită pentru NC-023 (import) și NC-024 (OSS) | Confirmate: certificatul de amânare TVA în vamă (art. 326 CF) — condiții cumulative, prag import ≥50 mil. lei/6 luni, procedura DVN prin OAVR 3168/2025 (din 17.11.2025); plafonul OSS de 10.000 EUR (≈46.337 lei) neschimbat pentru 2026 (art. 278^1 CF), decont D398 trimestrial |
+| 2026-07-15 | Crearea registrului declarațiilor (`declaratii.md`) + verificare țintită D205 | Tabelul de termene mutat din secțiunea 4 în registru (sursă unică); D205 confirmată: anuală, ultima zi a lunii februarie (pt. 2025: 02.03.2026, material ANAF); restul scadențelor preluate din verificările anterioare ale sesiunii |
 | 2026-07-15 | Verificare țintită pentru NC-031/NC-032 și procesele speciale noi | Confirmate: zilieri — impozit 10% + CAS 25% reținute de beneficiar, fără CASS/CAM, tarif minim orar 25,949 lei din 01.07.2026; DDA — forfetară 40%, impozit final 10% la sursă, plafoane CAS 12 / CASS 6-12-24 salarii minime, scutiri CASS salariați/pensionari (material ANAF feb. 2026); suspendare activitate — max. 3 ani ONRC, regim derogatoriu de declarare 12 luni–3 ani (precizări ANAF); OMFP 897/2015 (fuziuni/divizări) în vigoare |
 | 2026-07-15 | Verificare țintită pentru secțiunea salarii-specializare (NC-026 → NC-030) | Confirmate: plafonul 33% cu limitele proprii (400€/400€/100€/1.500 lei), tichete max. 45 lei (Legea 201/2025, până în sept. 2026), avantaj auto 1,7%/lună + neimpozabil la regim 50% (art. 76(4) ț)), deducerea personală recalculată la minimul din iulie (plafon 6.325 lei, tineri 648,75 lei), part-time bază minimă 4.125 lei din 01.07.2026 |
 | 2026-07-15 | Workflow de curățare a elementelor „⚠ de reconfirmat": 30 de elemente, 6 agenți + contra-verificare adversarială | 25 confirmate, 5 corectate. Corecții majore: (1) plafonul mijloacelor fixe e 5.000 lei din 25.02.2026 (OUG 8/2026), nu 2.500 lei; (2) dobânda din leasingul financiar NU e scutită de TVA (norme pct. 52 la art. 292(2)(a)); (3) capitalul minim SRL reintrodus (Legea 239/2025: 500/5.000 lei); (4) CASS pe concedii medicale e din 01.01.2024 (OUG 115/2023), nu 01.08.2025; (5) impozitul pe câștigul din lichidare 16% vine din Legea 239/2025, nu 141/2025. Un singur element rămas „⚠": CASS pensii >3.000 lei (irelevant pentru monografii). Notă: contra-verificarea elementului „diurnă" a eșuat tehnic — concluzia (57,50 lei/zi intern) e susținută de surse multiple concordante, dar fără contra-verificare adversarială |

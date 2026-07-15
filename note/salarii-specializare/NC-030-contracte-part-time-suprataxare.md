@@ -13,6 +13,7 @@ temei_legal:
   - act: "Referința din iulie 2026: baza minimă = 4.125 lei (salariul minim 4.325 − 200 lei neimpozabil)"
     url: "https://www.avocatnet.ro/articol_71604/Suprataxarea-la-part-time-Din-iulie-2026-CAS-%C8%99i-CASS-se-pl%C4%83tesc-ca-pentru-un-salariu-minim-de-4125-lei.html"
 conturi: [421, 4315, 4316, 6458]
+declaratii: [D112]
 ---
 
 # NC-030 — Part-time: suprataxarea la nivelul salariului minim
