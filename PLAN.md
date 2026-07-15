@@ -82,6 +82,11 @@ transport internațional.
       unică pentru scadențe și formulare, cu legături bidirecționale), câmpul
       `declaratii:` în frontmatter-ul notelor (căutare inversă „ce note
       alimentează D300?"), procesele trimit la registru pentru termene
+- [x] **Arhitectura pe straturi + disciplina de review**: `CLAUDE.md` (ghid
+      aplicare read-only vs. mentenanță), `arhiva-cercetare/` (dosarele de
+      evidență ale verificărilor — doar-adăugare), `verificari/consistenta.sh`
+      (invariante structurale mecanice, rulate înainte de commit și de rutină),
+      convențiile anti-trunchiere (editare punctuală, review pe inventar complet)
 
 ## Faza 3 — Mentenanța legislativă (permanentă)
 

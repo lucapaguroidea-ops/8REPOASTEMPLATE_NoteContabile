@@ -36,7 +36,16 @@ firmelor mari de consultanță (PwC, KPMG, EY, Deloitte, Crowe). Utile pentru a 
    pentru scadențe/formulare), se identifică notele afectate (căutare după
    `conturi`, `etichete` și `declaratii` din frontmatter), acestea trec pe
    `stare: de-revizuit`.
-3. După actualizarea fiecărei note: rând nou în „Istoric actualizări" al notei,
-   `verificata_la` reîmprospătat, `stare: valida`.
-4. Elementele „⚠ de reconfirmat" din `cadru-legislativ.md` se verifică cu prioritate
+3. **Revizuirea se face pe inventarul complet al notelor** (`find note -name
+   'NC-*.md'`), cu consemnare per notă: neafectată / actualizată / de-revizuit —
+   completitudinea prin enumerare, nu prin eșantion. Rândul din „Istoric
+   verificări" raportează acoperirea (ex. „32/32 parcurse").
+4. După actualizarea fiecărei note: rând nou în „Istoric actualizări" al notei,
+   `verificata_la` reîmprospătat, `stare: valida`; modificările se fac prin
+   editări punctuale, nu rescrieri (vezi `note/README.md`).
+5. **Fiecare rundă de verificare depune un dosar de evidență** în
+   `arhiva-cercetare/` (afirmații, verdicte, corecții, surse) și îl leagă din
+   „Istoric verificări" — dosarele vechi nu se modifică niciodată.
+6. La final se rulează `bash verificari/consistenta.sh` — commit doar pe „OK".
+7. Elementele „⚠ de reconfirmat" din `cadru-legislativ.md` se verifică cu prioritate
    la prima notă care are nevoie de ele.

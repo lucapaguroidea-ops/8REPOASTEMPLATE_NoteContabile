@@ -273,6 +273,11 @@ pe prima zi lucrătoare următoare (ex.: 25.07.2026 — sâmbătă → 27.07.202
 
 ## Istoric verificări
 
+Dovezile complete ale fiecărei runde (afirmațiile, verdictele adversariale,
+corecțiile, sursele) sunt în **[`arhiva-cercetare/`](../arhiva-cercetare/README.md)**:
+rundele workflow din 2026-07-15 → dosarele 1 și 2; verificările țintite →
+dosarul 3. Rundele viitoare își adaugă propriul dosar.
+
 | Data | Metoda | Rezultat |
 |------|--------|----------|
 | 2026-07-15 | Cercetare multi-agent pe surse oficiale + verificare adversarială încrucișată a 32 de afirmații-cheie | 31 confirmate, 1 corectată (data sancțiunilor e-Factura B2B: 01.06.2024, nu 01.07.2024); afirmațiile doar din sinteză marcate „⚠ de reconfirmat" |

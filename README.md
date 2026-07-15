@@ -39,7 +39,18 @@ referinte/
   declaratii.md            — registrul declarațiilor: scadențe, formulare, legături cu notele
   surse-oficiale.md        — sursele oficiale de monitorizat pentru actualizări
   rutina-mentenanta.md     — automatizarea lunară de mentenanță, documentată
+arhiva-cercetare/          — dosarele de evidență ale verificărilor (strat de adâncime, doar-adăugare)
+verificari/consistenta.sh  — invariantele structurale, verificate mecanic înainte de commit
+CLAUDE.md                  — ghidul sesiunilor de lucru: aplicare (read-only) vs. mentenanță
 ```
+
+## Arhitectura pe straturi
+
+| Strat | Unde | Regim |
+|-------|------|-------|
+| **Suprafața** — sinteza citabilă prin id-uri stabile `NC-###` | `note/`, `procese/`, `referinte/` | modificată doar în sesiuni de mentenanță, prin editări punctuale, cu invariantele verificate |
+| **Adâncimea** — dovezile verificărilor (inclusiv afirmațiile respinse) | `arhiva-cercetare/` | doar se adaugă dosare noi; cele vechi nu se rescriu |
+| **Aplicarea** — munca reală pe firme | în afara repo-ului | citează `NC-###`; nu modifică biblioteca (vezi `CLAUDE.md`) |
 
 ## Reguli de lucru
 

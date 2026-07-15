@@ -52,6 +52,17 @@ Secțiunile 1–7 din `_TEMPLATE.md` sunt obligatorii, în această ordine. Dac�
 secțiune nu se aplică, se păstrează titlul cu mențiunea „Nu se aplică" — nu se
 șterge, ca formatul să rămână identic între note.
 
+## Revizuirea notelor (anti-trunchiere)
+
+- Revizuirile se fac prin **editări punctuale**, nu prin rescrierea fișierului —
+  diff-ul mic este auditabil; rescrierea integrală e mecanismul prin care se
+  pierde tăcut conținut.
+- Conținutul depășit legislativ **nu se șterge**: se corectează cu mențiune în
+  „Istoric actualizări" sau se marchează ca abrogat — istoricul rămâne.
+- Înainte de orice commit: `bash verificari/consistenta.sh` trebuie să iasă
+  „OK" (verifică mecanic secțiunile, frontmatter-ul și sincronizarea cu
+  procesele și registrul declarațiilor).
+
 ## Ciclul de viață al unei note
 
 1. **Creare** — din `_TEMPLATE.md`, cu verificare pe surse la zi înainte de
