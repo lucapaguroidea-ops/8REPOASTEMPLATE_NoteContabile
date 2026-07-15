@@ -20,17 +20,21 @@ nu trecem la faza următoare lăsând în urmă note nefinalizate sau neverifica
 Se adaugă notele folosite lunar de aproape orice firmă, în această ordine de
 prioritate (fiecare cu temei legal citat și exemplu cifric):
 
-- [ ] Achiziții de bunuri și servicii cu TVA (facturi furnizori, 4426)
-- [ ] Vânzări de bunuri și servicii cu TVA (facturi clienți, 4427)
-- [ ] Salarii: statul de salarii, contribuții (CAS, CASS, CAM), impozit pe venit
-- [ ] Amortizarea imobilizărilor
-- [ ] Descărcarea de gestiune a stocurilor (metode: FIFO, CMP)
-- [ ] Reevaluarea lunară a elementelor monetare în valută (curs BNR)
-- [ ] Închiderea conturilor de TVA (4426/4427 → 4423/4424)
-- [ ] Închiderea veniturilor și cheltuielilor (clasa 6 și 7 → 121)
-- [ ] Impozitul pe profit / impozitul pe veniturile microîntreprinderilor
-- [ ] Operațiuni de trezorerie (încasări, plăți, viramente interne, comisioane)
-- [ ] Avansuri, decontări cu asociații, dividende (inclusiv impozitul pe dividende)
+- [x] Achiziții de bunuri și servicii cu TVA (facturi furnizori, 4426) — NC-002
+- [x] Vânzări de bunuri și servicii cu TVA (facturi clienți, 4427) — NC-003
+- [x] Salarii: statul de salarii, contribuții (CAS, CASS, CAM), impozit pe venit — NC-007
+- [x] Amortizarea imobilizărilor — NC-006
+- [x] Descărcarea de gestiune a stocurilor (metode: FIFO, CMP) — NC-005
+- [x] Reevaluarea lunară a elementelor monetare în valută (curs BNR) — NC-008
+- [x] Închiderea conturilor de TVA (4426/4427 → 4423/4424) — NC-001
+- [x] Închiderea veniturilor și cheltuielilor (clasa 6 și 7 → 121) — NC-010
+- [x] Impozitul pe profit / impozitul pe veniturile microîntreprinderilor — NC-009
+- [x] Operațiuni de trezorerie (încasări, plăți, viramente interne, comisioane) — NC-004
+- [x] Dividende: repartizarea profitului, impozit, plată — NC-011
+- [ ] Avansuri și decontări cu asociații (455, 461, 462)
+- [ ] Concedii medicale (FNUASS) și particularități salariale
+- [ ] Achiziții/livrări intracomunitare, taxare inversă, import-export
+- [ ] Leasing financiar și operațional
 
 ## Faza 2 — Procesele ordonate
 

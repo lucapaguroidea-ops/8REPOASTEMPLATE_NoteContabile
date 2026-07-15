@@ -80,7 +80,9 @@ M.Of. 1203/24.12.2025), **OUG 156/2024**, **OUG 138/2024**.
 | **IMCA** (impozit minim CA) | **0,5%** pentru anul fiscal 2026 | OUG 89/2025 | Doar CA > 50 mil. €; **se elimină din 2027** |
 | **Microîntreprinderi** | plafon **100.000 €**, cotă unică **1%** | OUG 156/2024 (plafon), OUG 89/2025 (eliminarea cotei de 3%) | Plafonul verificat pe veniturile la 31.12.2025; condiția de salariat menținută |
 | **Salariul minim brut** | **4.325 lei** de la 01.07.2026 | HG 146/2026 (M.Of. 196/13.03.2026) | 4.050 lei în perioada 01.01.2025–30.06.2026 (HG 1506/2024). [MMuncii](https://mmuncii.gov.ro/salariul-de-baza-minim-brut-pe-tara-garantat-in-plata-se-majoreaza/) |
-| Contribuții salarii | CAS 25%, CASS 10%, CAM 2,25% | Cod fiscal | ⚠ de reconfirmat: suma neimpozabilă la salariul minim scade de la 300 la 200 lei de la 01.07.2026 |
+| Contribuții salarii | CAS 25%, CASS 10%, CAM 2,25% | Cod fiscal (art. 138, 156, 220^3) | Neschimbate în 2026 |
+| **Impozit pe venit (salarii)** | **10%** (nemodificat în 2026) | art. 78 Cod fiscal | Verificat 2026-07-15 |
+| Suma neimpozabilă la salariul minim | 300 lei/lună (01.01–30.06.2026), **200 lei/lună (01.07–31.12.2026)** | art. III OUG 89/2025 | Scutită de impozit și contribuții; doar pentru salariul de bază = minimul pe economie. [Material ANAF](https://static.anaf.ro/static/3/Galati/20260123122801_suma%20neimpozabila%20in%202026.pdf) |
 
 ⚠ de reconfirmat (din sinteza cercetării): plafonul de scutire TVA pentru
 întreprinderi mici **395.000 lei** de la 01.09.2025 (OG 22/2025); impozitul pe
@@ -168,3 +170,4 @@ următoare (ex.: 25.07.2026 — sâmbătă → 27.07.2026).
 | Data | Metoda | Rezultat |
 |------|--------|----------|
 | 2026-07-15 | Cercetare multi-agent pe surse oficiale + verificare adversarială încrucișată a 32 de afirmații-cheie | 31 confirmate, 1 corectată (data sancțiunilor e-Factura B2B: 01.06.2024, nu 01.07.2024); afirmațiile doar din sinteză marcate „⚠ de reconfirmat" |
+| 2026-07-15 | Verificare țintită (căutări web pe surse oficiale) pentru nota de salarii NC-007 | Rezolvate două elemente „⚠": impozit pe salarii rămâne 10% în 2026; suma neimpozabilă 300→200 lei de la 01.07.2026 (art. III OUG 89/2025, material ANAF). Notat și: plafonul CASS pentru alte venituri crește la 72 salarii minime din 2026 (⚠ de reconfirmat la o notă dedicată) |

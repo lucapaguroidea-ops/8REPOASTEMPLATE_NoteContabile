@@ -1,0 +1,89 @@
+---
+id: NC-003
+titlu: "Vânzări de bunuri și servicii cu TVA (facturi clienți)"
+categorie: tva
+etichete: [vanzari, clienti, tva-colectata, e-factura]
+procese:
+  - proces: inchidere-luna
+    pas: 1
+stare: valida
+verificata_la: 2026-07-15
+temei_legal:
+  - act: "OMFP 1802/2014 — funcțiunea conturilor 4111, 419, 4427, 4428, clasa 7"
+    url: "https://static.anaf.ro/static/10/Anaf/legislatie/OMFP_1802_2014.pdf"
+  - act: "Codul fiscal (Legea 227/2015), art. 291 (cote), art. 319 (facturarea)"
+    url: "https://legislatie.just.ro/Public/DetaliiDocument/171282"
+  - act: "OUG 89/2025 — termen de transmitere în RO e-Factura: 5 zile lucrătoare (din 01.01.2026)"
+    url: "https://static.anaf.ro/static/10/Brasov/Brasov/facturare_electronica_89.pdf"
+conturi: [4111, 419, 4427, 4428, 704, 707, 708]
+---
+
+# NC-003 — Vânzări de bunuri și servicii cu TVA (facturi clienți)
+
+## 1. Scop și cazuri de utilizare
+
+Înregistrarea facturilor emise către clienți pentru livrări de bunuri și prestări
+de servicii taxabile pe teritoriul României. Livrările intracomunitare, exporturile
+și operațiunile cu taxare inversă vor avea note separate.
+
+## 2. Documente justificative
+
+- Factura emisă (transmisă obligatoriu în RO e-Factura — B2B și B2C — în termen de
+  **5 zile lucrătoare de la emitere**, cf. OUG 89/2025, din 01.01.2026);
+- Aviz de însoțire / contract / deviz, după caz.
+
+## 3. Monografia contabilă
+
+| Nr. | Cont debit | Cont credit | Sumă / formulă | Explicație |
+|-----|-----------|-------------|----------------|------------|
+| 1 | 4111 | 707 (704, 708…) | baza | Venitul după natură (mărfuri / servicii / activități diverse) |
+| 2 | 4111 | 4427 | baza × cota TVA | TVA colectată |
+
+**Avans facturat:** `4111 = % 419, 4427` la facturarea avansului; la livrare se
+stornează avansul și se facturează integral.
+
+**Vânzător în sistemul „TVA la încasare":** taxa se înregistrează în 4428 și
+devine exigibilă la încasare: `4111 = 4428` (componenta de taxă), apoi
+`4428 = 4427` la încasare.
+
+## 4. Exemplu cifric
+
+Factură de vânzare mărfuri, iulie 2026, cota 21%: bază 20.000 lei.
+
+| Nr. | Cont debit | Cont credit | Sumă | Explicație |
+|-----|-----------|-------------|------|------------|
+| 1 | 4111 | 707 | 20.000 lei | Venit din vânzarea mărfurilor |
+| 2 | 4111 | 4427 | 4.200 lei | TVA colectată 21% |
+
+Total creanță client (4111): 24.200 lei. Descărcarea de gestiune a mărfurilor
+vândute se face separat — vezi [NC-005](NC-005-descarcarea-de-gestiune-a-stocurilor.md).
+
+## 5. Temei legal și conformitate
+
+- Emiterea facturii: art. 319 Cod fiscal — cel târziu în a 15-a zi a lunii
+  următoare celei în care ia naștere faptul generator.
+- Transmiterea în RO e-Factura: 5 zile lucrătoare de la emitere, dar nu mai târziu
+  de 5 zile lucrătoare de la termenul-limită de emitere (OUG 89/2025) —
+  [material ANAF](https://static.anaf.ro/static/10/Brasov/Brasov/facturare_electronica_89.pdf).
+  Amenzi de netransmitere: 5.000–10.000 lei (mari), 2.500–5.000 lei (mijlocii),
+  1.000–2.500 lei (ceilalți); transmiterea B2B prin alte canale: 15% din valoare.
+- Cote: 21% / 11% (Legea 141/2025); regim tranzitoriu 9% locuințe doar până la
+  31.07.2026 (vezi `referinte/cadru-legislativ.md`, secțiunile 2 și 6).
+
+## 6. Erori frecvente și atenționări
+
+- **Reducerile comerciale acordate pe factură** diminuează baza (nu se folosește
+  709); reducerile acordate ulterior se înregistrează în 709 cu ajustarea TVA.
+- **Avansurile** facturate și nestornate la livrare dublează venitul și TVA.
+- **B2C**: din 01.01.2025 și facturile către persoane fizice se transmit în
+  e-Factura (fără CNP se folosește codul cu 13 zerouri); bonurile fiscale AMEF
+  cu funcție de factură simplificată sunt exceptate.
+- **Cota corectă pe produs**: lista cotei reduse de 11% este restrânsă (alimente,
+  medicamente, cărți, cazare, restaurant fără alcool etc.) — verifică încadrarea,
+  nu istoricul facturilor vechi (înainte de 01.08.2025 cotele erau 19%/9%/5%).
+
+## 7. Istoric actualizări
+
+| Data | Modificare | Motiv / act normativ |
+|------|------------|----------------------|
+| 2026-07-15 | Creare notă; termen e-Factura 5 zile lucrătoare cf. OUG 89/2025 | — |
