@@ -28,6 +28,8 @@ revizuiri legislative, rulările rutinei lunare): urmezi convențiile de mai jos
   termene; nu căuta termene prin note.
 - **Temeiuri legale la zi**: `referinte/cadru-legislativ.md` (cu istoric de
   verificări) — piesa centrală.
+- **Planul de conturi** (grupe + gradul I, verificat) și **puntea EN↔RO** pe
+  categorii funcționale (Receivables/Payables/…): `referinte/plan-de-conturi/`.
 - **Interogări structurate** pe frontmatter-ul notelor:
   - ce note ating un cont: `grep -rl "conturi:.*4426" note/`
   - ce note alimentează o declarație: `grep -rl "declaratii:.*D300" note/`

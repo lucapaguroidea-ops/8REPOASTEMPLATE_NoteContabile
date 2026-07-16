@@ -37,6 +37,7 @@ procese/
 referinte/
   cadru-legislativ.md      — starea la zi a cadrului legislativ relevant, cu surse
   declaratii.md            — registrul declarațiilor: scadențe, formulare, legături cu notele
+  plan-de-conturi/         — planul de conturi de bază (verificat) + puntea EN↔RO pe categorii
   surse-oficiale.md        — sursele oficiale de monitorizat pentru actualizări
   rutina-mentenanta.md     — automatizarea lunară de mentenanță, documentată
 arhiva-cercetare/          — dosarele de evidență ale verificărilor (strat de adâncime, doar-adăugare)

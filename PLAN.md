@@ -87,6 +87,12 @@ transport internațional.
       evidență ale verificărilor — doar-adăugare), `verificari/consistenta.sh`
       (invariante structurale mecanice, rulate înainte de commit și de rutină),
       convențiile anti-trunchiere (editare punctuală, review pe inventar complet)
+- [x] **Planul de conturi + puntea EN↔RO** (`referinte/plan-de-conturi/`):
+      copia locală de bază (155 conturi gradul I, verificată adversarial —
+      dosar 5) și maparea pe categorii funcționale anglo-saxone (Receivables,
+      Payables, Banks…), engleză întâi, oglindită în română
+- [ ] Extinderea planului de conturi la gradul II (4 cifre), pe categorii,
+      la cerere — aceeași metodă (constructor + contra-verificator)
 
 ## Faza 3 — Mentenanța legislativă (permanentă)
 

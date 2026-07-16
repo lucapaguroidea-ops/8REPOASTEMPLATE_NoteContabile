@@ -48,9 +48,17 @@
     global (Legea 431/2023, Pilonul II) pot opta pentru IFRS (OMFP 2844/2016);
     cele rămase pe OMFP 1802/2014 prezintă impozitul amânat în notele explicative
     din exercițiul 2025 (verificat 2026-07-15).
+  - **OMF 6670/2024** (M.Of. 1303/22.12.2024) — conturile **694** și **794**
+    pentru decontările din **grupul fiscal** în domeniul impozitului pe profit
+    (extinse și la nivelul IMCA), aplicabile decontărilor din grup
+    (descoperit și verificat 2026-07-16, dosarul 5).
 - **Planul de conturi general** face parte din reglementările aprobate prin
   OMFP 1802/2014 — versiunea la zi este forma consolidată a ordinului (cu conturile
-  adăugate prin OMF 2649/2023 și OMF 981/2024).
+  adăugate prin OMF 2649/2023, OMF 981/2024 și OMF 6670/2024). **Copia locală la
+  nivel de bază** (grupe + conturi de gradul I, verificată adversarial):
+  [`plan-de-conturi/plan-de-conturi-sintetic.md`](plan-de-conturi/plan-de-conturi-sintetic.md);
+  puntea către categoriile anglo-saxone:
+  [`plan-de-conturi/punte-en-ro.md`](plan-de-conturi/punte-en-ro.md).
 - **OMFP 2634/2015** (documentele financiar-contabile) — în vigoare din 01.01.2016.
   [Text ANAF](https://static.anaf.ro/static/10/Anaf/legislatie/OMFP_2634_2015.pdf) ·
   [Portal Legislativ](https://legislatie.just.ro/public/detaliidocument/173682)
@@ -288,5 +296,6 @@ dosarul 3. Rundele viitoare își adaugă propriul dosar.
 | 2026-07-15 | Crearea registrului declarațiilor (`declaratii.md`) + verificare țintită D205 | Tabelul de termene mutat din secțiunea 4 în registru (sursă unică); D205 confirmată: anuală, ultima zi a lunii februarie (pt. 2025: 02.03.2026, material ANAF); restul scadențelor preluate din verificările anterioare ale sesiunii |
 | 2026-07-15 | Verificare țintită pentru NC-031/NC-032 și procesele speciale noi | Confirmate: zilieri — impozit 10% + CAS 25% reținute de beneficiar, fără CASS/CAM, tarif minim orar 25,949 lei din 01.07.2026; DDA — forfetară 40%, impozit final 10% la sursă, plafoane CAS 12 / CASS 6-12-24 salarii minime, scutiri CASS salariați/pensionari (material ANAF feb. 2026); suspendare activitate — max. 3 ani ONRC, regim derogatoriu de declarare 12 luni–3 ani (precizări ANAF); OMFP 897/2015 (fuziuni/divizări) în vigoare |
 | 2026-07-15 | Verificare țintită pentru secțiunea salarii-specializare (NC-026 → NC-030) | Confirmate: plafonul 33% cu limitele proprii (400€/400€/100€/1.500 lei), tichete max. 45 lei (Legea 201/2025, până în sept. 2026), avantaj auto 1,7%/lună + neimpozabil la regim 50% (art. 76(4) ț)), deducerea personală recalculată la minimul din iulie (plafon 6.325 lei, tineri 648,75 lei), part-time bază minimă 4.125 lei din 01.07.2026 |
+| 2026-07-16 | **Reconstituirea Planului de conturi (nivel de bază)** — workflow 8 agenți (4 constructori + 4 verificatori adversariali), [dosar 5](../arhiva-cercetare/2026-07-16-dosar-5-plan-de-conturi.md) | 155 conturi gradul I verificate pe surse concordante (1 omisiune prinsă și corectată: 509); **descoperit OMF 6670/2024** (conturi 694/794, grup fiscal) — adăugat în secțiunea 1; respinse conturile-fantomă din surse vechi (763 — doar OMFP 3055; 792 — doar planul IFRS). Livrabile: `plan-de-conturi-sintetic.md` + puntea EN↔RO |
 | 2026-07-15 | **Rulare de mentenanță (test manual al rutinei lunare)** — [dosar 4](../arhiva-cercetare/2026-07-15-dosar-4-rulare-mentenanta.md) | **Fără modificări de fond**: toate cele 32 de note rămân `valida` (inventar complet, nu eșantion); nicio cotă/plafon/termen/tratament schimbat. TVA 9% locuințe: termenul 31.07.2026 confirmat, neintrat încă în vigoare. Minore procedurale, fără impact pe monografii: model nou D112 din veniturile iulie 2026 (OUG 8/2026), OPANAF 808/2026 (Registrul de evidență fiscală). Script invariante: OK |
 | 2026-07-15 | Workflow de curățare a elementelor „⚠ de reconfirmat": 30 de elemente, 6 agenți + contra-verificare adversarială | 25 confirmate, 5 corectate. Corecții majore: (1) plafonul mijloacelor fixe e 5.000 lei din 25.02.2026 (OUG 8/2026), nu 2.500 lei; (2) dobânda din leasingul financiar NU e scutită de TVA (norme pct. 52 la art. 292(2)(a)); (3) capitalul minim SRL reintrodus (Legea 239/2025: 500/5.000 lei); (4) CASS pe concedii medicale e din 01.01.2024 (OUG 115/2023), nu 01.08.2025; (5) impozitul pe câștigul din lichidare 16% vine din Legea 239/2025, nu 141/2025. Un singur element rămas „⚠": CASS pensii >3.000 lei (irelevant pentru monografii). Notă: contra-verificarea elementului „diurnă" a eșuat tehnic — concluzia (57,50 lei/zi intern) e susținută de surse multiple concordante, dar fără contra-verificare adversarială |
