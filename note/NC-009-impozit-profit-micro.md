@@ -9,7 +9,7 @@ procese:
   - proces: inchidere-an
     pas: 7
 stare: valida
-verificata_la: 2026-07-15
+verificata_la: 2026-07-16
 temei_legal:
   - act: "Codul fiscal (Legea 227/2015), art. 17 (cota 16%), titlul III (micro); OUG 156/2024 (plafon micro 100.000 €); OUG 89/2025 (cota unică micro 1%, IMCA 0,5% în 2026)"
     url: "https://legislatie.just.ro/Public/DetaliiDocument/171282"
@@ -83,7 +83,9 @@ sâmbătă).
 - Cota de profit 16%: art. 17 CF, neschimbată în 2026.
 - Micro 2026: plafon 100.000 € (verificat pe veniturile la 31.12.2025), cotă
   unică 1%, condiția de salariat menținută (OUG 156/2024, OUG 89/2025) — vezi
-  `referinte/cadru-legislativ.md`, secțiunea 2.
+  `referinte/cadru-legislativ.md`, secțiunea 2. Echivalentul verificat pentru
+  2026: **509.850 lei** (cursul BNR de la 31.12.2025: 5,0985 lei/€ — diferit de
+  cursul 5,0963 folosit la perioada fiscală de TVA; ambele în cadru-legislativ).
 - IMCA 0,5% pentru anul fiscal 2026, eliminat din 2027 (OUG 89/2025).
 - Termen D100 trimestrial: 25 a lunii următoare trimestrului; definitivarea
   impozitului pe profit prin **D101 până la 25 iunie a anului următor** (pentru
@@ -108,3 +110,4 @@ sâmbătă).
 | Data | Modificare | Motiv / act normativ |
 |------|------------|----------------------|
 | 2026-07-15 | Creare notă; plafon 100.000 € și cotă unică 1% cf. OUG 156/2024 + OUG 89/2025; IMCA 0,5% în 2026 | — |
+| 2026-07-16 | Adăugat echivalentul în lei al plafonului micro pentru 2026 (509.850 lei, curs 5,0985 la 31.12.2025), cu distincția față de cursul perioadei fiscale de TVA (5,0963) — valoare deja verificată în cadru-legislativ (dosar 7); propagat și în procesul trecere-micro-profit | Audit de integritate semantică (dosar 9) |

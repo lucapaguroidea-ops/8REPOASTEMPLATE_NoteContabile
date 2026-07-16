@@ -7,7 +7,7 @@ procese:
   - proces: inchidere-luna
     pas: 2
 stare: valida
-verificata_la: 2026-07-15
+verificata_la: 2026-07-16
 temei_legal:
   - act: "OMFP 1802/2014 — funcțiunea contului 542"
     url: "https://static.anaf.ro/static/10/Anaf/legislatie/OMFP_1802_2014.pdf"
@@ -68,7 +68,13 @@ restituie diferența.
   intern: 23 lei/zi (OMF 1235/2023) → **plafon 57,50 lei/zi**; extern: pe țări,
   cf. HG 518/1995 (majoritatea statelor UE: 35 EUR → **plafon 87,5 EUR/zi**) —
   plafonată suplimentar la **3 salarii de bază** prorata pe zilele de deplasare
-  (art. 76 alin. (2) lit. k) CF). Se aplică limita cea mai mică; depășirea e
+  (art. 76 alin. (2) lit. k) CF). Actele sunt complementare, nu concurente:
+  **nivelul** de 23 lei vine din OMF 1235/2023, **multiplicatorul** 2,5× și
+  plafonul de 3 salarii din Legea 72/2022 (care a introdus art. 76(2) k)),
+  **condițiile** deplasării din HG 714/2018 — regimul indemnizațiilor de
+  delegare/detașare/mobilitate e detaliat în
+  [NC-032](salarii-specializare/NC-032-delegare-detasare-mobilitate.md).
+  Se aplică limita cea mai mică; depășirea e
   venit asimilat salariilor (impozit 10% + CAS + CASS + CAM).
 - Cazarea la 11% (cotă redusă în vigoare, Legea 141/2025) — TVA deductibilă pe
   factura pe numele firmei.
@@ -92,3 +98,4 @@ restituie diferența.
 | Data | Modificare | Motiv / act normativ |
 |------|------------|----------------------|
 | 2026-07-15 | Creare notă | — |
+| 2026-07-16 | Dezambiguizat actele diurnei (complementare, nu concurente: nivel — OMF 1235/2023; multiplicator 2,5× și 3 salarii — Legea 72/2022; condiții — HG 714/2018) + link la NC-032 (legătura era doar în sens invers) | Audit de integritate semantică (dosar 9) |

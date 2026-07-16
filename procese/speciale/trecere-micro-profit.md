@@ -20,7 +20,8 @@ conformare.
 
 - Plafonul de 100.000 € și cota micro 1%: OUG 156/2024, OUG 89/2025 — verificate;
   vezi `referinte/cadru-legislativ.md`, secțiunea 2. Plafonul se calculează la
-  cursul de schimb de la închiderea exercițiului precedent.
+  cursul de schimb de la închiderea exercițiului precedent — pentru 2026:
+  **509.850 lei** (curs 5,0985 lei/€ la 31.12.2025; vezi și NC-009 §5).
 - **Momentul trecerii** (verificat 2026-07-15): impozitul pe profit (16%) se
   datorează **începând cu trimestrul depășirii plafonului** (art. 52 alin. (1)
   CF), pe veniturile și cheltuielile realizate din acel trimestru — fără

@@ -6,7 +6,7 @@ sectiune: salarii-specializare
 etichete: [delegare, detasare, mobilitate, indemnizatii, diurna]
 procese: []
 stare: valida
-verificata_la: 2026-07-15
+verificata_la: 2026-07-16
 temei_legal:
   - act: "Codul muncii (Legea 53/2003), art. 25 (clauza de mobilitate), art. 42–47 (delegarea și detașarea)"
     url: "https://legislatie.just.ro/Public/DetaliiDocument/128647"
@@ -67,8 +67,12 @@ se aplică **limita cea mai mică** dintre cele două plafoane.
   introdus prin Legea 72/2022): **2,5 × diurna legală** pentru instituții
   publice (intern 23 lei → 57,50 lei/zi; extern pe țări cf. HG 518/1995 —
   UE tipic 35 EUR → 87,5 EUR/zi) **și** max. **3 salarii de bază** prorata
-  (3 × salariu / zile lucrătoare din lună × zile de deplasare). Valori
-  verificate 2026-07-15 (vezi și NC-022, cu mențiunea privind contra-verificarea).
+  (3 × salariu / zile lucrătoare din lună × zile de deplasare). Actele sunt
+  complementare: **Legea 72/2022** a introdus mecanismul (2,5× + 3 salarii),
+  **OMF 1235/2023** stabilește nivelul curent de 23 lei, **HG 714/2018**
+  condițiile deplasării. Valori verificate 2026-07-15 (vezi și
+  [NC-022](../NC-022-avansuri-de-trezorerie-si-deconturi.md), cu mențiunea
+  privind contra-verificarea).
 - **Prestațiile din clauza de mobilitate** intră în **coșul de 33%**
   ([NC-026](NC-026-beneficii-extrasalariale-plafon-33.md)) cu limita proprie de
   2,5 × diurna legală — spre deosebire de indemnizația de delegare/detașare,
@@ -99,3 +103,4 @@ se aplică **limita cea mai mică** dintre cele două plafoane.
 | Data | Modificare | Motiv / act normativ |
 |------|------------|----------------------|
 | 2026-07-15 | Creare notă | — |
+| 2026-07-16 | Dezambiguizat actele diurnei (complementare: mecanismul 2,5× + 3 salarii — Legea 72/2022; nivelul 23 lei — OMF 1235/2023; condițiile — HG 714/2018), simetric cu NC-022 | Audit de integritate semantică (dosar 9) |

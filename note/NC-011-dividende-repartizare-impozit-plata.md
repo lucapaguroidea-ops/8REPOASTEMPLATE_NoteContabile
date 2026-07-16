@@ -9,7 +9,7 @@ procese:
   - proces: inchidere-an
     pas: 12
 stare: valida
-verificata_la: 2026-07-15
+verificata_la: 2026-07-16
 temei_legal:
   - act: "Codul fiscal (Legea 227/2015), art. 43 și 97, modificate prin Legea 141/2025 — impozit pe dividende 16% pentru distribuiri începând cu 01.01.2026"
     url: "https://legislatie.just.ro/Public/DetaliiDocument/300022"
@@ -83,6 +83,11 @@ exercițiului 2025; plata are loc în iulie 2026. Cota de impozit: **16%**
 - Rezerva legală: art. 183 din Legea 31/1990.
 - Scutiri pentru dividende PJ română → PJ română cu deținere ≥10% pe minim 1 an
   (art. 43 CF) — de verificat condițiile la cazul concret.
+- **Distribuirea la lichidare — regim distinct**: activul net distribuit
+  asociaților la lichidare nu urmează regimul dividendelor curente, ci
+  **art. 97 alin. (5) CF** — impozit 16% pe **excedentul peste aportul la
+  capital** (cota adusă la 16% prin Legea 239/2025); mecanismul complet e în
+  [procesul de lichidare](../procese/speciale/lichidare-firma.md), pasul 8.
 
 ## 6. Erori frecvente și atenționări
 
@@ -96,7 +101,11 @@ exercițiului 2025; plata are loc în iulie 2026. Cota de impozit: **16%**
   **6/12/24 salarii minime** raportate la salariul minim de la 1 ianuarie a
   anului venitului (4.050 lei în 2026 → 24.300/48.600/97.200 lei; CASS datorată
   2.430/4.860/9.720 lei), prin declarația unică — nu e obligația plătitorului,
-  dar merită semnalat asociaților.
+  dar merită semnalat asociaților. Plafonul se calculează pe **totalul
+  veniturilor extrasalariale** ale persoanei (dividende, dobânzi, DDA, chirii
+  etc., cumulate), nu doar pe dividende — vezi și
+  [NC-012](NC-012-decontari-cu-asociatii.md) §5 și
+  [NC-031](salarii-specializare/NC-031-zilieri-mandat-drepturi-de-autor.md) §5.
 - **Dividende din 121 curent** — distribuirea curentă se face doar ca dividende
   interimare, pe baza situațiilor financiare interimare, cu regularizare.
 
@@ -105,3 +114,4 @@ exercițiului 2025; plata are loc în iulie 2026. Cota de impozit: **16%**
 | Data | Modificare | Motiv / act normativ |
 |------|------------|----------------------|
 | 2026-07-15 | Creare notă; impozit 16% din 2026 cf. Legea 141/2025 (verificat încrucișat) | — |
+| 2026-07-16 | Adăugat: plafonul CASS e pe totalul veniturilor extrasalariale (linkuri NC-012/NC-031); §5 — distribuirea la lichidare ca regim distinct (art. 97(5) CF, Legea 239/2025, link la procesul de lichidare, care se sprijinea pe această notă fără ca ea să documenteze mecanismul) | Audit de integritate semantică (dosar 9) |

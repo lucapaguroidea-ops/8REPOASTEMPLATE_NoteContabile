@@ -7,14 +7,14 @@ procese:
   - proces: inchidere-luna
     pas: 1
 stare: valida
-verificata_la: 2026-07-15
+verificata_la: 2026-07-16
 temei_legal:
   - act: "Codul fiscal (Legea 227/2015): art. 268 (AIC), art. 307–308 (persoana obligată la plată), art. 326 (plata prin decont — taxare inversă), art. 331 (taxare inversă internă)"
     url: "https://legislatie.just.ro/Public/DetaliiDocument/171282"
   - act: "OMFP 1802/2014 — funcțiunea conturilor 4426, 4427"
     url: "https://static.anaf.ro/static/10/Anaf/legislatie/OMFP_1802_2014.pdf"
 conturi: [301, 371, 401, 4426, 4427, 446, 628]
-declaratii: [D300, D390]
+declaratii: [D300, D390, D301]
 ---
 
 # NC-014 — Achiziții intracomunitare și taxarea inversă
@@ -96,8 +96,14 @@ nelucrătoare), D394 nu (doar operațiuni naționale).
 - **Cod VIES invalid al partenerului** — furnizorul ar fi trebuit să factureze
   cu TVA-ul lui; verifică VIES la fiecare partener nou.
 - **Neînregistrarea în ROI/scopuri speciale** la neplătitori: firmele
-  neînregistrate normal în scopuri de TVA au regim special pentru AIC (plafon
-  de 10.000 EUR/an) — nu aplica această notă fără verificarea regimului.
+  neînregistrate normal în scopuri de TVA au regim special pentru AIC — plafon
+  de **34.000 lei/an** (echivalentul a 10.000 EUR, art. 268 alin. (4) CF); la
+  depășire (sau prin opțiune) se cere **codul special de TVA cf. art. 317 CF**,
+  iar TVA-ul AIC se plătește efectiv și se declară prin **decontul special
+  D301** (nu prin D300) — vezi registrul
+  [`referinte/declaratii.md`](../referinte/declaratii.md). Nu aplica această
+  notă (4426=4427) fără verificarea regimului: taxarea inversă prin decont e a
+  plătitorilor înregistrați normal.
 - **D390 nedepusă** într-o lună cu AIC — se depune doar pentru lunile cu
   operațiuni, dar pentru toate acele luni.
 - **Taxare inversă internă aplicată fără verificarea listei art. 331** —
@@ -108,3 +114,4 @@ nelucrătoare), D394 nu (doar operațiuni naționale).
 | Data | Modificare | Motiv / act normativ |
 |------|------------|----------------------|
 | 2026-07-15 | Creare notă; cota 21% cf. Legea 141/2025 | — |
+| 2026-07-16 | Completat §6 cu detaliile promise de cadru-legislativ și de registru: plafonul AIC 34.000 lei (art. 268(4) CF), codul special art. 317 CF, decontul special D301; `declaratii:` extins cu D301 (sincron cu registrul) | Audit de integritate semantică (dosar 9); valorile verificate în dosarul 7 |

@@ -7,7 +7,7 @@ procese:
   - proces: inchidere-luna
     pas: 1
 stare: valida
-verificata_la: 2026-07-15
+verificata_la: 2026-07-16
 temei_legal:
   - act: "Codul fiscal (Legea 227/2015), art. 294 — scutiri pentru exporturi și livrări intracomunitare"
     url: "https://legislatie.just.ro/Public/DetaliiDocument/171282"
@@ -86,7 +86,7 @@ verificat 2026-07-15, valabil și după extinderile din 01.01.2026).
 - **D390 nedepusă sau cu simbol greșit** — condiție de fond post-2020.
 - **Confuzia LIC cu vânzările la distanță B2C** (OSS) — către persoane fizice
   din UE se aplică regimul vânzărilor intracomunitare la distanță, nu scutirea
-  LIC (notă separată la nevoie).
+  LIC — vezi [NC-024](NC-024-vanzari-la-distanta-oss.md).
 - **Transport organizat de client (EXW)** — dovada transportului e mai greu de
   obținut; cere documentele din prezumțiile Reg. 2018/1912 înainte de a scuti.
 
@@ -95,3 +95,4 @@ verificat 2026-07-15, valabil și după extinderile din 01.01.2026).
 | Data | Modificare | Motiv / act normativ |
 |------|------------|----------------------|
 | 2026-07-15 | Creare notă | — |
+| 2026-07-16 | Trimiterea „notă separată la nevoie" despre OSS înlocuită cu linkul direct la NC-024, care există (legătura era doar în sens invers) | Audit de integritate semantică (dosar 9) |

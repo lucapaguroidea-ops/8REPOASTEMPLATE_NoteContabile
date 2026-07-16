@@ -5,7 +5,7 @@ categorie: decontari
 etichete: [asociati, imprumut-asociat, 455, dobanda]
 procese: []
 stare: valida
-verificata_la: 2026-07-15
+verificata_la: 2026-07-16
 temei_legal:
   - act: "OMFP 1802/2014 — funcțiunea conturilor 455, 461, 462, 666, 766"
     url: "https://static.anaf.ro/static/10/Anaf/legislatie/OMFP_1802_2014.pdf"
@@ -45,8 +45,12 @@ diverși). Frecventă la firmele mici pentru acoperirea golurilor de trezorerie.
 
 | Nr. | Cont debit | Cont credit | Sumă / formulă | Explicație |
 |-----|-----------|-------------|----------------|------------|
-| 4 | 461 | 758x | creanța | Creanță față de un terț (ex. imputații, vânzări de imobilizări se fac prin 461) |
+| 4 | 461 | 758x | creanța | Creanță față de un terț (ex. imputații către terți, vânzări de imobilizări se fac prin 461) |
 | 5 | 6588 (alt cont după natură) | 462 | datoria | Datorie diversă față de un terț |
+
+Pentru imputații, contul depinde de cine răspunde: **4282** dacă e salariat,
+**461** dacă e terț — monografia completă (inclusiv TVA colectată la imputare)
+e în [NC-016](NC-016-inventarierea-anuala-si-diferentele.md).
 
 ## 4. Exemplu cifric
 
@@ -68,7 +72,11 @@ Sold 4551 la 31.07.2026: 30.000 lei (de confirmat cu asociatul la închidere).
   reținut la sursă la momentul plății** (art. 97 alin. (1)–(2) CF — cota NU a
   fost majorată de Legea 141/2025, care a vizat doar dividendele), virat până pe
   25 a lunii următoare reținerii și declarat în D100 (+ D205 anual); dobânda
-  intră în plafoanele CASS ale asociatului (6/12/24 salarii minime).
+  intră în plafoanele CASS ale asociatului (6/12/24 salarii minime; plafonul se
+  calculează pe **totalul veniturilor extrasalariale** ale persoanei — dobânzi,
+  dividende, DDA etc., cumulate — vezi și
+  [NC-011](NC-011-dividende-repartizare-impozit-plata.md) §6 și
+  [NC-031](salarii-specializare/NC-031-zilieri-mandat-drepturi-de-autor.md) §5).
   Deductibilitatea dobânzii la firmă intră sub regulile costurilor excedentare
   ale îndatorării (art. 402 CF).
 - Împrumuturile în valută de la asociați se reevaluează lunar
@@ -93,3 +101,4 @@ Sold 4551 la 31.07.2026: 30.000 lei (de confirmat cu asociatul la închidere).
 | Data | Modificare | Motiv / act normativ |
 |------|------------|----------------------|
 | 2026-07-15 | Creare notă | — |
+| 2026-07-16 | Adăugat: plafonul CASS e pe totalul veniturilor extrasalariale (linkuri NC-011/NC-031); dezambiguizarea imputațiilor 4282 (salariat) vs. 461 (terț), cu link la NC-016 | Audit de integritate semantică (dosar 9) |

@@ -6,7 +6,7 @@ sectiune: salarii-specializare
 etichete: [zilieri, mandat, administrator, drepturi-de-autor, retinere-la-sursa]
 procese: []
 stare: valida
-verificata_la: 2026-07-15
+verificata_la: 2026-07-16
 temei_legal:
   - act: "Legea 52/2011 privind zilierii (republicată, actualizată)"
     url: "https://lege5.ro/Gratuit/ha4demjwgy/legea-nr-52-2011-privind-exercitarea-unor-activitati-cu-caracter-ocazional-desfasurate-de-zilieri"
@@ -82,7 +82,11 @@ e sub plafoane sau salariat/pensionar — vezi secț. 5).
 ## 5. Temei legal și conformitate
 
 - **Zilieri**: remunerația minimă = tariful orar al salariului minim
-  (**25,949 lei/oră de la 01.07.2026**; 24,496 lei/oră în sem. I); impozit 10% +
+  (**25,949 lei/oră de la 01.07.2026**; 24,496 lei/oră în sem. I — tarifele
+  provin din actele de stabilire a salariului minim, care folosesc medii lunare
+  de ore ușor diferite: implicit ≈165,33 ore la 4.050 lei, respectiv ≈166,67 ore
+  la 4.325 lei, deci raportul tarifelor nu coincide cu raportul salariilor
+  lunare); impozit 10% +
   CAS 25% reținute și plătite de beneficiar; **nu se datorează CASS și CAM**
   (zilierul se poate asigura opțional la sănătate); limitele de zile pe an și
   domeniile permise — Legea 52/2011 (⚠ verifică domeniul concret la prima
@@ -94,9 +98,15 @@ e sub plafoane sau salariat/pensionar — vezi secț. 5).
   cotă forfetară de cheltuieli **40%**; impozit **10% pe baza netă, final,
   reținut la sursă** de plătitorul PJ. Contribuții: **CAS** dacă venitul net
   anual estimat ≥ **12 salarii minime** (48.600 lei în 2026, la minimul de la
-  1 ianuarie: 4.050 lei), pe baza aleasă; **CASS** la plafoanele **6/12/24
-  salarii minime** (2.430/4.860/9.720 lei) — reținute la sursă de plătitor când
-  venitul de la acel plătitor atinge plafoanele, altfel prin declarația unică.
+  1 ianuarie: 4.050 lei), pe baza aleasă; **CASS** dacă venitul atinge
+  plafoanele de **6/12/24 salarii minime** (24.300/48.600/97.200 lei în 2026),
+  cu CASS datorată de 10% din plafonul atins (2.430/4.860/9.720 lei) — reținută
+  la sursă de plătitor când venitul de la acel plătitor atinge plafoanele,
+  altfel prin declarația unică. Plafonul CASS se calculează pe **totalul
+  veniturilor extrasalariale** ale persoanei (dividende, DDA, cedarea
+  folosinței etc., cumulate) — vezi și
+  [NC-011](../NC-011-dividende-repartizare-impozit-plata.md) și
+  [NC-012](../NC-012-decontari-cu-asociatii.md).
   **Scutiri CASS**: autorii care au și calitatea de salariat sau pensionar nu
   datorează CASS pentru DDA.
 
@@ -118,3 +128,4 @@ e sub plafoane sau salariat/pensionar — vezi secț. 5).
 | Data | Modificare | Motiv / act normativ |
 |------|------------|----------------------|
 | 2026-07-15 | Creare notă; tarif zilieri 25,949 lei/oră din 01.07.2026, regim DDA verificat pe material ANAF | — |
+| 2026-07-16 | Corectat etichetarea plafoanelor CASS: 24.300/48.600/97.200 lei sunt plafoanele de venit, 2.430/4.860/9.720 lei este CASS datorată (fuseseră inversate, greșit de 10×); adăugat: plafonul se calculează pe totalul veniturilor extrasalariale (linkuri NC-011/NC-012); parenteza despre bazele de ore ale tarifului zilier | Audit de integritate semantică (dosar 9) |

@@ -7,12 +7,14 @@ procese:
   - proces: inchidere-luna
     pas: 5
 stare: valida
-verificata_la: 2026-07-15
+verificata_la: 2026-07-16
 temei_legal:
   - act: "OUG 158/2005 privind concediile și indemnizațiile de asigurări sociale de sănătate"
     url: "https://legislatie.just.ro/Public/DetaliiDocument/65699"
-  - act: "Legea 141/2025 — procente progresive (55%/65%/75%) pentru cod 01 și CASS pe indemnizații, din 01.08.2025"
+  - act: "Legea 141/2025 — procente progresive (55%/65%/75%) pentru cod 01, din 01.08.2025"
     url: "https://legislatie.just.ro/Public/DetaliiDocument/300022"
+  - act: "OUG 115/2023 — CASS 10% reținut din indemnizațiile de concediu medical, din 01.01.2024"
+    url: "https://legislatie.just.ro/Public/DetaliiDocument/277609"
   - act: "OMFP 1802/2014 — funcțiunea conturilor 423, 4315, 4316, 436, 4382, 444, 6458"
     url: "https://static.anaf.ro/static/10/Anaf/legislatie/OMFP_1802_2014.pdf"
 conturi: [423, 4315, 4316, 4382, 444, 6458]
@@ -41,7 +43,7 @@ schimbat semnificativ în 2025–2026 — vezi secțiunea 5.
 | 1 | 6458 | 423 | indemnizația zilelor angajatorului | Indemnizația suportată de angajator (primele 5 zile lucrătoare, cod 01) |
 | 2 | 4382 | 423 | indemnizația zilelor din FNUASS | Indemnizația suportată din FNUASS (din a 6-a zi lucrătoare) |
 | 3 | 423 | 4315 | cf. stat (bază specială — vezi secț. 5) | CAS reținut din indemnizație |
-| 4 | 423 | 4316 | indemnizație × 10% | CASS reținut (din 01.08.2025) |
+| 4 | 423 | 4316 | indemnizație × 10% | CASS reținut (din 01.01.2024, OUG 115/2023) |
 | 5 | 423 | 444 | bază × 10% | Impozit pe venit reținut |
 | 6 | 423 | 5121 | netul | Plata indemnizației nete |
 | 7 | 5121 | 4382 | suma aprobată | Recuperarea efectivă de la FNUASS |
@@ -103,3 +105,4 @@ Reguli în vigoare la 15.07.2026, verificate pe surse la zi:
 |------|------------|----------------------|
 | 2026-07-15 | Creare notă; procente 55/65/75% cf. Legea 141/2025; prima zi neplătită 01.02.2026–31.12.2027 | — |
 | 2026-07-15 | Corectat: CASS pe indemnizații e din 01.01.2024 (OUG 115/2023, nu Legea 141/2025); temeiul CAS 35% e art. 139(1) lit. o) CF (nu art. 143); adăugat câștigul mediu brut 2026 (9.192 lei) | Workflow verificare adversarială |
+| 2026-07-16 | Corecția CASS din 15.07 propagată și în metadate + monografie: frontmatter `temei_legal` despărțit (Legea 141/2025 doar procentele; OUG 115/2023 pentru CASS), rândul 4 al monografiei „(din 01.01.2024)" în loc de „(din 01.08.2025)" — proza fusese corectată, metadatele nu | Audit de integritate semantică (dosar 9) |
