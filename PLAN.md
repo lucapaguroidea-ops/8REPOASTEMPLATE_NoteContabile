@@ -96,6 +96,34 @@ transport internațional.
       (dosar 6), cu 12 corecții aplicate (inclusiv două propagate în fișierul
       de gradul I: +751, 786 redenumit)
 
+### Plan de urmat — extinderile în lucru (plan-de-conturi)
+
+Două extinderi naturale, fiecare cu domeniu, metodă și criteriu de acceptare
+clare, ca să fie un plan de urmat, nu o intenție vagă:
+
+- [ ] **Extinderea A — glose EN pentru conturile de gradul II în punte.**
+      *Domeniu:* `punte-en-ro.md` acoperă azi gradul I; se adaugă gloss EN și
+      pentru subconturile de gradul II, **pe categorie** (Receivables, Payables,
+      Banks…), incremental — o categorie odată, la nevoie dovedită (regula lui
+      trei), nu tot planul deodată.
+      *Metodă:* pentru fiecare categorie, workflow constructor + contra-verificator
+      (ca la gradul I/II) sau inline dacă e mică; fiecare gloss verificat pe sens,
+      nu doar tradus.
+      *Criteriu de acceptare:* fiecare cont de gradul II al categoriei are gloss
+      EN corect; `consistenta.sh` iese OK; dosar nou în `arhiva-cercetare/`.
+
+- [ ] **Extinderea B — confruntarea planului cu textul oficial (M.Of.).**
+      *Domeniu:* `plan-de-conturi-sintetic.md` și `plan-de-conturi-detaliat.md`
+      au fost reconstituite din surse concordante (fetch-ul oficial e blocat de
+      rețeaua acestui mediu); se confruntă cu textul oficial al OMFP 1802/2014.
+      *Declanșator:* o sesiune (sau o rulare a rutinei) într-un mediu **cu acces
+      de rețea** la static.anaf.ro / legislatie.just.ro / mfinante.gov.ro.
+      *Metodă:* descărcare text oficial → diff pe denumiri și funcții → corecții
+      punctuale (editare, nu rescriere) cu trimitere la M.Of.
+      *Criteriu de acceptare:* închise toate elementele „de confruntat cu M.Of."
+      din dosarele 5 și 6 (formularea exactă 694/794 — OMF 6670/2024; virgula din
+      6462; denumirea 6351); fiecare divergență rezolvată cu sursă; dosar nou.
+
 ## Faza 3 — Mentenanța legislativă (permanentă)
 
 - [x] Revizuire periodică **automatizată**: rutină lunară activă (ziua 1 a
@@ -109,6 +137,35 @@ transport internațional.
 - [ ] Atenție specială la datele cunoscute de intrare în vigoare a unor modificări
       deja adoptate (vezi secțiunea „Modificări cu aplicare viitoare" din
       `referinte/cadru-legislativ.md`)
+
+## Revizuire după fiecare acțiune (ca planul să fie urmat și la zi)
+
+După **fiecare** acțiune care schimbă repo-ul (notă nouă, corecție, extindere,
+rulare de mentenanță), înainte de commit se parcurge lista de mai jos. Scopul e
+dublu: **planul rămâne urmat** (nimic nu se pierde pe drum) și **planul rămâne
+la zi** (reflectă realitatea, nu intenția de ieri).
+
+1. **Bifează și crește planul.** Marchează în acest fișier ce s-a terminat;
+   dacă acțiunea a scos la iveală muncă nouă (ex. un „de confruntat cu M.Of."),
+   adaug-o ca item `[ ]`, cu domeniu și criteriu de acceptare — nu o lăsa doar
+   în dosar sau în minte.
+2. **Rulează invariantele.** `bash verificari/consistenta.sh` trebuie să iasă
+   „OK" — confirmă sincronizarea note ↔ procese ↔ registrul declarațiilor și
+   integritatea structurii. Commit doar pe „OK".
+3. **Depune dovada.** Dacă acțiunea a implicat verificare pe surse, adaugă un
+   dosar în `arhiva-cercetare/` (doar-adăugare) și un rând în „Istoric
+   verificări" din `cadru-legislativ.md`.
+4. **Propagă corecțiile în ambele sensuri.** O corecție la un nivel atinge
+   adesea altul (gradul II → gradul I, o notă → registru, o cotă → toate notele
+   care o folosesc); caută consumatorii prin frontmatter (`conturi`,
+   `declaratii`) și adu-i la zi în același commit.
+5. **Verifică calendarul.** Uită-te la „Modificări cu aplicare viitoare" din
+   `cadru-legislativ.md`: a intrat ceva în vigoare de la ultima acțiune? Dacă
+   da, declanșează acțiunea prevăzută (note pe `de-revizuit`) — așa planul
+   rămâne aliniat cu timpul, nu doar cu ultima cerere.
+6. **Închide bucla.** `verificata_la` reîmprospătat pe ce s-a atins; commit +
+   push; niciun item rămas „în aer" (o promisiune fără fișier). Ce nu e comis
+   nu există — mediul e efemer.
 
 ## Cum lucrăm la o notă nouă (procedură)
 

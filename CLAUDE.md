@@ -52,7 +52,9 @@ revizuiri legislative, rulările rutinei lunare): urmezi convențiile de mai jos
 4. **Sincronizare în același commit**: frontmatter `procese:` ↔ tabelele din
    `procese/`; frontmatter `declaratii:` ↔ registrul; nota nouă ↔ PLAN.md.
 5. **Înainte de commit rulează** `bash verificari/consistenta.sh` — trebuie să
-   iasă „OK". Scriptul face trunchierea și desincronizarea detectabile.
+   iasă „OK". Scriptul face trunchierea și desincronizarea detectabile. După
+   fiecare acțiune parcurge și lista „Revizuire după fiecare acțiune" din
+   `PLAN.md` (ca planul să rămână urmat și la zi).
 6. Revizuirile legislative se fac **pe inventarul complet** al notelor (vezi
    procedura din `referinte/surse-oficiale.md`), cu dosar de evidență depus în
    `arhiva-cercetare/` și rând în istoricul verificărilor.
