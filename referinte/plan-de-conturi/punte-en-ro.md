@@ -46,7 +46,7 @@ naturi**, fără linie de COGS, și se închide **în ledger** prin 121.
 
 | EN category | Categoria RO | Accounts / Conturi (grade I) |
 |-------------|--------------|------------------------------|
-| Cash & Banks | Casa și conturi la bănci | 512, 531, 511, 532, 541, 542, 581 |
+| Cash & Banks | Casa și conturi la bănci | 512, 531, 511, 532, 541, 542, 581, 518 (accrued interest on current accounts, A/P) |
 | Short-term investments | Investiții pe termen scurt | 501, 505–509 (contra: 59x) |
 | Accounts Receivable (AR) | Creanțe comerciale | 411, 413, 418, 409 (contra: 491) |
 | Other receivables | Alte creanțe | 425, 428D, 438D, 445, 448D, 461, 463, 451D/453D, 456D, 267 |
@@ -60,18 +60,19 @@ naturi**, fără linie de COGS, și se închide **în ledger** prin 121.
 | Payroll liabilities | Datorii salariale și sociale | 421, 423, 424, 426, 427, 428C; 431, 436, 437, 438C |
 | Tax liabilities | Datorii fiscale | 441, 442 (VAT control), 444, 446, 447, 448C |
 | Loans & borrowings | Împrumuturi și datorii asimilate | 161, 162, 166, 167 (incl. leases), 168, 169, 519 |
-| Related-party & shareholder balances | Decontări grup / asociați | 451, 453, 455, 456, 457, 458, 467 |
-| Sundry debtors/creditors | Debitori/creditori diverși | 461 / 462, 466 |
+| Related-party & shareholder balances | Decontări grup / asociați | 451, 453, 455, 456, 457, 458, 467 (contra: 495) |
+| Intra-entity (branch) settlements | Decontări între unitate și subunități | 481, 482 |
+| Sundry debtors/creditors | Debitori/creditori diverși | 461 / 462, 466 (contra: 496) |
 | Suspense account | Decontări în curs de clarificare | 473 |
 | Provisions | Provizioane | 151 |
 | Deferred income & grants | Venituri în avans și subvenții | 472, 475, 478 |
 | Equity | Capitaluri proprii | 101, 103–109, 117, 121, 129, 141/149 |
 | Revenue / Turnover | Cifra de afaceri netă | 701–708 (contra: 709) |
-| Other operating income | Alte venituri din exploatare | 711/712, 721/722/725, 741, 751, 754, 755, 758 |
+| Other operating income | Alte venituri din exploatare | 711/712, 721/722/725, 741, 751, 754, 755, 758, 781 (reversals of operating provisions/impairments) |
 | Operating expenses (by nature) | Cheltuieli de exploatare (pe naturi) | 601–609, 611–618, 621–628, 635, 641–646, 651–658, 681 |
 | Finance income / costs | Venituri / cheltuieli financiare | 761–768, 786 / 663–668, 686 |
-| Income tax expense | Impozitul pe profit/venit | 691, 694, 697, 698 (contra: 794) |
-| Off-balance-sheet (memo) | Conturi în afara bilanțului | 801–809 (partidă simplă) |
+| Income tax expense | Impozitul pe profit/venit | 691, 694, 695 (impozit specific — dormant), 697, 698 (contra: 794) |
+| Off-balance-sheet (memo) | Conturi în afara bilanțului | 801–809 (partidă simplă); 891/892 — bilanț de deschidere/închidere (technical opening/closing accounts) |
 
 ## 3. The main categories, account by account / Categoriile principale, cont cu cont
 
@@ -237,5 +238,7 @@ negative.
 
 *Sources / Surse: reconstruit și verificat adversarial din surse concordante
 (dosarul 5, `arhiva-cercetare/`); lista de bază: [`plan-de-conturi-sintetic.md`](plan-de-conturi-sintetic.md);
-norma: OMFP 1802/2014 cap. 14. Verificat la 2026-07-16. Extinderea la gradul II
-(4 cifre) pe categorii — la cerere, în același format.*
+norma: OMFP 1802/2014 cap. 14. Verificat la 2026-07-16. Harta categoriilor
+completată la 2026-07-16 cu 9 conturi de gradul I omise inițial (518, 781, 695,
+481/482, 495/496, 891/892 — contra-verificarea din dosarul 9). Extinderea la
+gradul II (4 cifre) pe categorii — la cerere, în același format.*

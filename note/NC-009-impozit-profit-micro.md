@@ -84,7 +84,8 @@ sâmbătă).
 - Micro 2026: plafon 100.000 € (verificat pe veniturile la 31.12.2025), cotă
   unică 1%, condiția de salariat menținută (OUG 156/2024, OUG 89/2025) — vezi
   `referinte/cadru-legislativ.md`, secțiunea 2. Echivalentul verificat pentru
-  2026: **509.850 lei** (cursul BNR de la 31.12.2025: 5,0985 lei/€ — diferit de
+  2026: **509.850 lei** (cursul BNR de închidere a exercițiului 2025: 5,0985
+  lei/€ — diferit de
   cursul 5,0963 folosit la perioada fiscală de TVA; ambele în cadru-legislativ).
 - IMCA 0,5% pentru anul fiscal 2026, eliminat din 2027 (OUG 89/2025).
 - Termen D100 trimestrial: 25 a lunii următoare trimestrului; definitivarea

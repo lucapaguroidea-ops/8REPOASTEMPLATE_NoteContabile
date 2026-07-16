@@ -93,6 +93,13 @@ transport internațional.
       (protocol în 5 pași, începând cu revizuirea lucrului existent; regula de
       sens unic pentru erorile de bibliotecă) și (2) referință pentru
       clarificări (răspuns = citare `NC-###` + `verificata_la`)
+- [x] **Auditul integrității semantice a corpusului** (2026-07-16, dosar 9):
+      inventar pe corpusul complet (ecouri de valori/acte/date, orbiri,
+      aritmetica exemplelor) + 10 fixuri + contra-verificare cu 3 verificatori
+      + runda 2 (13 constatări noi tratate, inclusiv clasa „proza corectată,
+      metadatele nu" în NC-006/NC-025 și completarea hărții punții EN↔RO);
+      decizie consemnată în dosar: fără invariante grep noi pentru clasa
+      semantică (considerat și respins)
 - [x] **Planul de conturi + puntea EN↔RO** (`referinte/plan-de-conturi/`):
       copia locală de bază (155 conturi gradul I, verificată adversarial —
       dosar 5) și maparea pe categorii funcționale anglo-saxone (Receivables,
@@ -162,6 +169,11 @@ documentului-origine:
 - [ ] Atenție specială la datele cunoscute de intrare în vigoare a unor modificări
       deja adoptate (vezi secțiunea „Modificări cu aplicare viitoare" din
       `referinte/cadru-legislativ.md`)
+- [ ] De confirmat la o verificare web viitoare (semnalat de contra-verificarea
+      din dosarul 9): atribuirea amenzii de 15% (transmitere B2B în afara
+      e-Factura) actului OUG 115/2023, afirmată în NC-002 §5 — cadru-legislativ
+      §3 dă valoarea fără să numească actul, deci atribuirea nu e confruntabilă
+      în interiorul repo-ului
 
 ## Revizuire după fiecare acțiune (ca planul să fie urmat și la zi)
 

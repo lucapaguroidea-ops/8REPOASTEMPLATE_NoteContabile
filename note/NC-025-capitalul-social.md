@@ -9,10 +9,12 @@ procese:
   - proces: infiintare-firma
     pas: 5
 stare: valida
-verificata_la: 2026-07-15
+verificata_la: 2026-07-16
 temei_legal:
   - act: "Legea societăților 31/1990 — capitalul social, subscrierea și vărsarea"
     url: "https://legislatie.just.ro/Public/DetaliiDocument/56732"
+  - act: "Legea 239/2025 — capitalul minim SRL reintrodus (500 lei / 5.000 lei la venituri >400.000 lei), vărsare 30%/3 luni; în vigoare din 18.12.2025"
+    url: "https://legislatie.just.ro/Public/DetaliiDocument/305208"
   - act: "OMFP 1802/2014 — funcțiunea conturilor 1011, 1012, 201, 456"
     url: "https://static.anaf.ro/static/10/Anaf/legislatie/OMFP_1802_2014.pdf"
 conturi: [1011, 1012, 201, 456, 5121, 5311]
@@ -105,3 +107,4 @@ taxe și onorarii de constituire 800 lei, tratate drept cheltuială curentă.
 |------|------------|----------------------|
 | 2026-07-15 | Creare notă | — |
 | 2026-07-15 | Verificat și documentat: capital minim SRL reintrodus (500 lei nou-înființate / 5.000 lei la venituri >400.000 lei; conformare până ~18.12.2027); reguli de vărsare 30%/3 luni | Legea 239/2025 |
+| 2026-07-16 | Legea 239/2025 adăugată în frontmatter `temei_legal` — lipsea, deși §5 își întemeiază valorile centrale pe ea (nota era invizibilă la interogări structurate pe acest act) | Contra-verificare audit semantic (dosar 9), clasa V-1 |

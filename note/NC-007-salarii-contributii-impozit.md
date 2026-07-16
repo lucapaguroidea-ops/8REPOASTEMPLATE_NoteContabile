@@ -7,7 +7,7 @@ procese:
   - proces: inchidere-luna
     pas: 5
 stare: valida
-verificata_la: 2026-07-15
+verificata_la: 2026-07-16
 temei_legal:
   - act: "Codul fiscal (Legea 227/2015): art. 78 (impozit salarii 10%), art. 138 (CAS 25%), art. 156 (CASS 10%), art. 220^3 (CAM 2,25%), art. 77 (deducerea personală)"
     url: "https://legislatie.just.ro/Public/DetaliiDocument/171282"
@@ -103,11 +103,12 @@ salariul minim):
   — tabelul degresiv din art. 77 CF depinde și de persoanele în întreținere.
 - **Sectoare cu facilități** (construcții, agricultură, IT): facilitățile au fost
   eliminate/restrânse din 2023–2024 — nu aplica scutiri istorice fără verificare.
-- Concediile medicale (FNUASS, cont 4370/4382 analitice) au tratament separat —
-  notă viitoare.
+- Concediile medicale (FNUASS, cont 4382) au tratament separat —
+  vezi [NC-013](NC-013-concedii-medicale-fnuass.md).
 
 ## 7. Istoric actualizări
 
 | Data | Modificare | Motiv / act normativ |
 |------|------------|----------------------|
 | 2026-07-15 | Creare notă; verificat pe surse: impozit 10% neschimbat, neimpozabil 200 lei din 01.07.2026 (OUG 89/2025), minim 4.325 lei (HG 146/2026) | — |
+| 2026-07-16 | Promisiunea perimată „notă viitoare" (concedii medicale) înlocuită cu linkul la NC-013, care există; eliminat simbolul de cont inexistent „4370" (planul de conturi are doar 4382) | Contra-verificare audit semantic (dosar 9) |

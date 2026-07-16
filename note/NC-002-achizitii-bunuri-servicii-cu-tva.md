@@ -7,7 +7,7 @@ procese:
   - proces: inchidere-luna
     pas: 1
 stare: valida
-verificata_la: 2026-07-15
+verificata_la: 2026-07-16
 temei_legal:
   - act: "OMFP 1802/2014 — funcțiunea conturilor 3xx, 401, 4426, 4428, clasa 6"
     url: "https://static.anaf.ro/static/10/Anaf/legislatie/OMFP_1802_2014.pdf"
@@ -88,10 +88,11 @@ Total datorie furnizor (401): 12.100 lei.
 - **Facturi nesosite** la închiderea lunii: recepțiile fără factură se înregistrează
   prin 408 „Furnizori — facturi nesosite" cu TVA în 4428.
 - Achizițiile intracomunitare și taxarea inversă **nu** fac obiectul acestei note
-  (vor avea notă separată).
+  — vezi [NC-014](NC-014-achizitii-intracomunitare-taxare-inversa.md).
 
 ## 7. Istoric actualizări
 
 | Data | Modificare | Motiv / act normativ |
 |------|------------|----------------------|
 | 2026-07-15 | Creare notă; cote 21%/11% cf. Legea 141/2025 | — |
+| 2026-07-16 | Promisiunea perimată „vor avea notă separată" (AIC/taxare inversă) înlocuită cu linkul direct la NC-014, care există | Contra-verificare audit semantic (dosar 9) |

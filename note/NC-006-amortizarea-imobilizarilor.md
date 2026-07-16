@@ -7,7 +7,7 @@ procese:
   - proces: inchidere-luna
     pas: 4
 stare: valida
-verificata_la: 2026-07-15
+verificata_la: 2026-07-16
 temei_legal:
   - act: "OMFP 1802/2014 — amortizarea imobilizărilor corporale și necorporale, funcțiunea conturilor 280x/281x, 6811"
     url: "https://static.anaf.ro/static/10/Anaf/legislatie/OMFP_1802_2014.pdf"
@@ -15,6 +15,8 @@ temei_legal:
     url: "https://legislatie.just.ro/Public/DetaliiDocument/171282"
   - act: "HG 2139/2004 — Catalogul privind clasificarea și duratele normale de funcționare a mijloacelor fixe"
     url: "https://legislatie.just.ro/Public/DetaliiDocument/58119"
+  - act: "OUG 8/2026 — plafonul mijloacelor fixe 5.000 lei (înlocuiește 2.500 lei din HG 276/2013), aplicabil din anul fiscal 2026"
+    url: "https://legislatie.just.ro/Public/DetaliiDocumentAfis/307580"
 conturi: [2808, 2813, 2814, 6811]
 ---
 
@@ -92,3 +94,4 @@ utilizare economică 3 ani (36 luni), metoda liniară. Amortizarea începe în i
 | 2026-07-15 | Creare notă | — |
 | 2026-07-15 | Corectat plafonul mijloacelor fixe: 5.000 lei din 25.02.2026 (nu 2.500 lei), cu regula tranzitorie | OUG 8/2026 |
 | 2026-07-16 | Corectată data aplicării plafonului: începând cu anul fiscal 2026 (01.01.2026), nu 25.02.2026 | contra-verificare, dosar 7 |
+| 2026-07-16 | Corecția propagată și în metadate: OUG 8/2026 adăugat în frontmatter `temei_legal` (lipsea, deși §5 stă pe el) + `verificata_la` reîmprospătat (rămăsese 15.07 după corecția din 16.07) | Contra-verificare audit semantic (dosar 9), clasa V-1 |

@@ -7,7 +7,7 @@ procese:
   - proces: inchidere-luna
     pas: 1
 stare: valida
-verificata_la: 2026-07-15
+verificata_la: 2026-07-16
 temei_legal:
   - act: "OMFP 1802/2014 — funcțiunea conturilor 4111, 419, 4427, 4428, clasa 7"
     url: "https://static.anaf.ro/static/10/Anaf/legislatie/OMFP_1802_2014.pdf"
@@ -24,8 +24,10 @@ declaratii: [D300, D394, F4109]
 ## 1. Scop și cazuri de utilizare
 
 Înregistrarea facturilor emise către clienți pentru livrări de bunuri și prestări
-de servicii taxabile pe teritoriul României. Livrările intracomunitare, exporturile
-și operațiunile cu taxare inversă vor avea note separate.
+de servicii taxabile pe teritoriul României. Livrările intracomunitare și
+exporturile sunt în [NC-021](NC-021-livrari-intracomunitare-si-export.md),
+operațiunile cu taxare inversă în
+[NC-014](NC-014-achizitii-intracomunitare-taxare-inversa.md).
 
 ## 2. Documente justificative
 
@@ -88,3 +90,4 @@ vândute se face separat — vezi [NC-005](NC-005-descarcarea-de-gestiune-a-stoc
 | Data | Modificare | Motiv / act normativ |
 |------|------------|----------------------|
 | 2026-07-15 | Creare notă; termen e-Factura 5 zile lucrătoare cf. OUG 89/2025 | — |
+| 2026-07-16 | Promisiunea perimată „vor avea note separate" (LIC/export/taxare inversă) înlocuită cu linkurile directe la NC-021 și NC-014, care există | Contra-verificare audit semantic (dosar 9) |

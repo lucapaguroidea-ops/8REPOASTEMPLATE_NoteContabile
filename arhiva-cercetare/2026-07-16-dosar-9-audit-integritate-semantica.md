@@ -56,7 +56,65 @@ dosar 7; 509.850 lei — dosar 7; OUG 115/2023 — dosar 2; art. 97(5) / Legea
 
 ## Verdictele contra-verificării
 
-*(se completează la finalul rundei de contra-verificare)*
+Workflow cu 3 verificatori independenți (3 agenți, ~438k tokeni, 108 apeluri de
+unelte), rulat DUPĂ aplicarea fixurilor:
+
+**(i) Re-verificarea fixurilor** (adversarial, ambele capete citite):
+**10/10 REZOLVAT** — fiecare fix a închis divergența fără să creeze alta;
+căile tuturor linkurilor noi rezolvă; rândurile de istoric și `verificata_la`
+prezente. Două constatări noi:
+
+- *(mediu)* rândul din „Istoric verificări" (verificarea țintită NC-013 din
+  15.07) încă afirma neanotat „CASS din 01.08.2025 (Legea 141/2025)" — aceeași
+  convenție de adnotare datată aplicată rândului mijloacelor fixe trebuia
+  aplicată și aici → **corectat în runda 2** (adnotare cu trimitere la
+  corecția (4) a workflow-ului de curățare).
+- *(minor)* formularea „cursul BNR de la 31.12.2025" pentru 5,0985 putea fi
+  citită în tensiune cu descrierea cursului TVA (5,0963, „comunicat la
+  30.12.2025, valabil pentru 31.12.2025") → **reformulat în runda 2**:
+  „cursul de închidere a exercițiului 2025".
+
+**(ii) Criticul de completitudine** (re-eșantionare adversarială pe 6 zone
+declarate concordante de inventar): **5/6 confirmate concordante** — cotele TVA
+21%/11% (9 note vs. cadru, aritmetică inclusă), salariul minim 4.325/4.050 lei
+cu toate valorile derivate (baza part-time, deducerile, tarifele zilierilor,
+plafoanele CASS), e-Factura (termene, excepții LIC/export, amenzi — note vs.
+cadru vs. cadre/), plafonul 395.000 lei (5 apariții, aceeași valoare/temei/dată),
+acoperirea reală a pașilor din procese de către notele citate (6 pași citiți
+integral). **1/6 PROBLEMA**: harta categoriilor din `punte-en-ro.md` omitea
+**9 conturi de gradul I** existente în planul sintetic (518, 781 — cu
+contradicție internă față de propria proză „reversals sit in income (781/786)",
+695, 481/482, 495/496, 891/892) → **corectat în runda 2** (conturile adăugate
+în rândurile categoriilor potrivite + rând nou „Intra-entity (branch)
+settlements"). Notă marginală consemnată, fără fix: NC-002 §5 atribuie amenda
+de 15% actului OUG 115/2023 — atribuire neconfruntabilă în interiorul
+repo-ului (cadru §3 nu numește actul); de confirmat la o verificare web
+viitoare a secțiunii e-Factura.
+
+**(iii) Măturarea clasei V-1 pe tot corpusul** (frontmatter vs. §5 vs. §7, în
+toate cele 32 de note): **30/32 curate, 2 cu exact clasa vânată**:
+
+- **NC-006**: §5 corectat pe 16.07 (data aplicării plafonului 5.000 lei), dar
+  `verificata_la` rămas 15.07 și **OUG 8/2026 lipsea din frontmatter** — actul
+  pe care stă plafonul corectat de două ori → **corectat în runda 2**.
+- **NC-025**: §5 își întemeiază valorile centrale (500/5.000 lei, conformare
+  ~18.12.2027) pe Legea 239/2025, consemnată în §7, dar **absentă din
+  frontmatter** — nota era invizibilă la interogări pe act → **corectat în
+  runda 2**.
+
+Plus trei „promisiuni perimate" de tipul reparat la NC-021 (minore):
+NC-002 §6 și NC-003 §1 promiteau „note separate" pentru AIC/LIC/taxare inversă
+(NC-014 și NC-021 există), NC-007 §6 promitea „notă viitoare" pentru concedii
+medicale (NC-013 există) și cita contul inexistent „4370" → **toate corectate
+în runda 2** (linkuri directe; 4382).
+
+## Runda 2 (fixurile constatărilor noi) și verificarea finală
+
+Cele 8 fixuri de mai sus (adnotarea din istoric, reformularea cursului,
+harta punții, NC-006, NC-025, NC-002, NC-003, NC-007) au fost aplicate cu
+aceeași disciplină (editare punctuală + rând de istoric + `verificata_la`) și
+re-verificate printr-o trecere finală (verificator unic pe ambele capete ale
+fiecărui fix). `consistenta.sh`: OK.
 
 ## Lecția de clasă (V-1) și decizia privind invariantele
 
