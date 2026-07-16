@@ -138,7 +138,7 @@ documentului-origine:
 - [x] Runda de verificare a pinurilor neacoperite (adversarial: TVA la încasare
       5.000.000 lei / OUG 8/2026; 509.630 lei / art. 322; art. 310 baza din
       2026; țintit: SPV, formular 050, 34.000 lei, art. 270 CPF) → dosar 7
-- [ ] Reconstrucția cartografierii creanțelor ca aplicare nouă declarată
+- [x] Reconstrucția cartografierii creanțelor ca aplicare nouă declarată
       (`cadre/cartografierea-creantelor.md`) + dosar 8
 - [ ] Candidat notă viitoare: „TVA la încasare" (NC) — plafonul există în
       cadru-legislativ fără notă consumatoare; se deschide la prima speță

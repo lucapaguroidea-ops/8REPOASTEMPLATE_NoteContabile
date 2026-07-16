@@ -90,7 +90,7 @@ fi
 grep -q "^\*\*Re-pinuit la: " cadre/README.md || err "cadre/README.md: lipseste antetul 'Re-pinuit la:'"
 STARI_INVALIDE=$(grep -o '| `[a-zăâîșț-]*` |' cadre/README.md | sed 's/| `//; s/` |//' | grep -vE '^(verificat-repo|de-verificat|slab|închis|istoric)$' || true)
 [ -n "$STARI_INVALIDE" ] && err "cadre/README.md: stari necunoscute in inventar: $STARI_INVALIDE"
-NR_DEVERIF=$(grep -c 'de-verificat' cadre/README.md || true)
+NR_DEVERIF=$(grep -c '| `de-verificat`' cadre/README.md || true)
 
 echo "---"
 echo "Note verificate: $NR_NOTE | Pinuri 'de-verificat' in cadre: ${NR_DEVERIF:-0} | Erori: $ERORI"
