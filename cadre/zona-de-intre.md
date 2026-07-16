@@ -67,9 +67,9 @@ Obligațiile reprezentative ale zonei, cu purtătorul numit de lege, purtătorul
 | Instrument / obligație | Purtător de drept (L2) | Purtător de fapt tipic | Ruta | Pin |
 |---|---|---|---|---|
 | Monitorizarea SPV și preluarea actelor | Contribuabilul (art. 47 CPF) | Împuternicitul cu certificat | Q5 | SPV obligatoriu PJ din 03.2022 (OG 11/2021) |
-| Transmiterea facturilor în RO e-Factura | Emitentul facturii | — nealocat în fereastra utilă | Q5 | 5 zile lucrătoare de la emitere; B2B 07.2024, B2C 01.2025 (OUG 120/2021, modif.) |
-| Răspunsul la notificarea de conformare RO e-TVA | Contribuabilul | Contabilul — singurul care poate reconcilia | Q4+Q5 | 20 de zile per modelul formularului (OPANAF 6.234/2024, actualizat 2.394/2025); obligativitatea și sancțiunile suspendate până la 31.12.2025 (OG 22/2025); surse din 2026 raportează abrogarea prevederilor prin OUG 89/2025 — **stadiu contestat între surse; de re-pinuit pe textul consolidat al OUG 70/2024 înainte de utilizare** |
-| Urmărirea plafonului de scutire de TVA | — (mărime, nu act) | Contabilul o vede primul | Q4 | 395.000 lei, art. 310 CF (OG 22/2025); din 2026, fără operațiunile cu locul în afara României |
+| Transmiterea facturilor în RO e-Factura | Emitentul facturii | — nealocat în fereastra utilă | Q5 | 5 zile lucrătoare de la emitere; B2B 07.2024, B2C 01.2025 (OUG 120/2021, modif.) *(re-pinuit 16.07.2026: „5 zile lucrătoare" e regimul din 01.01.2026, OUG 89/2025 — verificat; „B2B 07.2024" comprimă istoria: transmitere obligatorie din 01.01.2024, sancțiuni pentru fapte din 01.06.2024, canal unic cu amenda de 15% din 01.07.2024 — [cadru-legislativ §3](../referinte/cadru-legislativ.md))* |
+| Răspunsul la notificarea de conformare RO e-TVA | Contribuabilul | Contabilul — singurul care poate reconcilia | Q4+Q5 | 20 de zile per modelul formularului (OPANAF 6.234/2024, actualizat 2.394/2025); obligativitatea și sancțiunile suspendate până la 31.12.2025 (OG 22/2025); surse din 2026 raportează abrogarea prevederilor prin OUG 89/2025 — **stadiu contestat între surse; de re-pinuit pe textul consolidat al OUG 70/2024 înainte de utilizare**. *Închis 16.07.2026, pe evidența verificată adversarial a bibliotecii-gazdă: obligația de răspuns, amenzile și condiționarea rambursării — eliminate de la 01.01.2026 (OUG 89/2025, M.Of. 1203/24.12.2025); notificarea de conformare — abrogată integral prin OUG 13/2026 (M.Of. 181/09.03.2026, abrogă art. 5, 8 și 16 din OUG 70/2024); decontul precompletat P300 rămâne, exclusiv informativ. Vezi [cadru-legislativ §3](../referinte/cadru-legislativ.md) și [dosarul 2](../arhiva-cercetare/2026-07-15-dosar-2-curatare-de-reconfirmat.md) (elementul `etva-oug13`). Valorile istorice din pin (20 zile, OPANAF-urile) rămân consemnate ca istorie a celulei.* |
+| Urmărirea plafonului de scutire de TVA | — (mărime, nu act) | Contabilul o vede primul | Q4 | 395.000 lei, art. 310 CF (OG 22/2025); din 2026, fără operațiunile cu locul în afara României *(395.000 lei re-pinuit 16.07.2026 pe verificarea bibliotecii-gazdă — [cadru-legislativ §2](../referinte/cadru-legislativ.md); clauza „din 2026" în curs de verificare — inventarul din [README](README.md))* |
 | Cererea de înregistrare în scopuri de TVA / cod special | Administratorul | Contabilul redactează | Q1→Q6 | art. 316–317 CF; formularele 091 / 700 |
 | Acordarea și limitele împuternicirii | Administratorul o acordă | Contabilul o folosește | Q1→Q3 | art. 18 CPF; registrul împuternicirilor din SPV |
 | Depunerea declarațiilor fiscale | Contribuabilul | Împuternicitul semnează electronic | Q3+Q6 | nomenclatorul ciclului curent (D300/D301/D390/D394/D112/D101) |
@@ -77,8 +77,8 @@ Obligațiile reprezentative ale zonei, cu purtătorul numit de lege, purtătorul
 | Valabilitatea sediului social | Administratorul | — nimeni nu o urmărește implicit | Q1 | L31/1990; art. 92 CPF (sediu expirat = caz de inactivitate) |
 | Declarația privind beneficiarul real | Administratorul | Contabilul redactează frecvent | Q1 | L129/2019 |
 | Verificarea codurilor partenerilor | Comerciantul care contractează | Semnalul apare la contabil | Q4 | registrele ANAF; VIES; art. 11 și 294 CF |
-| Generarea și depunerea SAF-T (D406) | Contribuabilul | Prestatorul generează | Q6 | extins la contribuabilii mici din 01.2025 |
-| Predarea arhivei la încetarea mandatului | Entitatea (păstrare 5 ani, L36/2023) | Prestatorul — custodie de fapt | Q5→contract | L82/1991 art. 25 |
+| Generarea și depunerea SAF-T (D406) | Contribuabilul | Prestatorul generează | Q6 | extins la contribuabilii mici din 01.2025 *(re-pinuit 16.07.2026: verificat; din 2026 fără perioade de grație; termenele în [registrul declarațiilor](../referinte/declaratii.md))* |
+| Predarea arhivei la încetarea mandatului | Entitatea (păstrare 5 ani, L36/2023) | Prestatorul — custodie de fapt | Q5→contract | L82/1991 art. 25 *(re-pinuit 16.07.2026: verificat, cu precizarea că L36/2023 a modificat art. 23(1) și 25 — nu art. 26; situațiile financiare: 10 ani, art. 35(3) — [cadru-legislativ §1](../referinte/cadru-legislativ.md))* |
 | Ferestrele de opțiune fiscală | Administratorul optează | Contabilul simulează | Q1+Q4 | perioada fiscală (art. 322 CF); TVA la încasare 5.000.000 lei din 03.2026 (OUG 8/2026); micro 100.000 EUR |
 
 **Legendă — marcajele proprii ale sistemului.** Liniuța „—" în coloana de fapt marchează punctul de dispariție: obligația pe care, în tăcerea contractului, n-o exercită nimeni. Rândurile rutate prin Q4 sunt obligații despicate: detecția la un purtător, acțiunea la altul — analogul alocării pe naturi. Celula îngroșată din rândul e-TVA nu este o lacună de redactare, ci starea reală a sursei la data pinului: se publică marcată, nu netezită.
@@ -171,6 +171,24 @@ Unde transcrierea nu s-a putut închide, documentul o spune: termenul de 20 de z
 
 Tabelul poartă stratul L2↔L3 pentru că acel conținut este pozițional — obligație, purtător, rută, pin — și proza l-ar obliga pe cititor să reconstruiască tabelul mental. Întrebările L1 sunt listă numerotată pentru că ordinea lor este semantică: prima aprinsă câștigă, deci secvența *este* conținut. Restul este proză, pentru că restul este argument, iar argumentul fragmentat în buline pierde exact țesutul conjunctiv — „pentru că", „de aceea", „cu excepția" — pe care documentul există ca să-l consemneze.
 
+## 2.6bis. A patra aplicare — integrarea într-o bibliotecă vie *(16.07.2026)*
+
+La aceeași dată, cadrul și documentul-frate au fost integrate într-o bibliotecă
+de note contabile cu propriul aparat de verificare (dosare de evidență cu
+contra-verificare adversarială, registre cu sursă-unică pentru termene și
+cote, invariante mecanice). Integrarea a produs trei lucruri, consemnate aici
+pentru că schimbă regimul de mentenanță al documentului: **celula contestată
+e-TVA a fost închisă** — nu prin netezire, ci pe evidența pre-existentă a
+bibliotecii (verificată adversarial înaintea importului): eliminarea
+obligației de răspuns de la 01.01.2026 (OUG 89/2025) și abrogarea integrală a
+notificării prin OUG 13/2026 — marcajul de contestare rămâne în celulă ca
+istorie a ei; **pinurile L3 deja acoperite de verificările bibliotecii** au
+primit glose datate cu trimitere, iar valorile operaționale se citesc de acum
+din registrele-gazdă (regula de precedență din companionul de integrare);
+**mentenanța L3 trece la rutina lunară a bibliotecii**, cu inventarul pinurilor
+ținut în companion (`README.md` al familiei). Corecturile de sens ale acestei
+aplicări: niciuna — straturile L0–L2 au trecut integrarea neatinse.
+
 ## 2.6. A doua aplicare — testul de regresie
 
 La aceeași dată, cadrul a fost rulat înapoi peste propria sămânță: cartografierea identificatorilor a fost refăcută prin metoda pe care o generase. Rularea a confirmat straturile, gradientul de stabilitate și rutarea ordonată, dar a cerut două creșteri declarate — registrul propagărilor și rândul de verificare pe registre vii — și a impus o ștergere cu trimitere: secțiunea despre delimitarea răspunderii din documentul-sămânță nu s-a refăcut acolo, pentru că devenise deja acest document, iar duplicarea ar fi creat două texte care pot diverge. Tot prin trimitere s-a rezolvat și celula contestată: stadiul răspunsului la notificarea RO e-TVA rămâne pinuit aici, o singură dată, iar documentul-frate arată spre ea în loc s-o restateze — două copii ale unei celule contestate pot diverge, o trimitere nu poate. Extensiile sunt consemnate la §7, cu data lor; corecțiile de aplicare, la 3.7.
@@ -209,4 +227,4 @@ Secțiunea 3.1 afirmă că modul de eșec al domeniului este tăcerea. A doua ap
 
 ---
 
-*Întocmit la 16 iulie 2026 din Legea 82/1991, Codul fiscal, Codul de procedură fiscală, Legea 31/1990, legile profesiilor reglementate, arhitectura formularelor și sistemelor ANAF (SPV, RO e-Factura, RO e-TVA, SAF-T) și practica contractuală a profesiei. Re-pinuiți coloana L3 pe textele consolidate ale ciclului curent — inclusiv celula marcată drept contestată — înainte de orice utilizare operațională. Revizuit la aceeași dată, după a doua aplicare a cadrului: extensiile de la §7 și secțiunile 2.6 și 3.7. A treia aplicare, aceeași dată: tipologia surselor normative la §9 și completarea scării de la 2.2.*
+*Întocmit la 16 iulie 2026 din Legea 82/1991, Codul fiscal, Codul de procedură fiscală, Legea 31/1990, legile profesiilor reglementate, arhitectura formularelor și sistemelor ANAF (SPV, RO e-Factura, RO e-TVA, SAF-T) și practica contractuală a profesiei. Re-pinuiți coloana L3 pe textele consolidate ale ciclului curent — inclusiv celula marcată drept contestată — înainte de orice utilizare operațională. Revizuit la aceeași dată, după a doua aplicare a cadrului: extensiile de la §7 și secțiunile 2.6 și 3.7. A treia aplicare, aceeași dată: tipologia surselor normative la §9 și completarea scării de la 2.2. A patra aplicare, aceeași dată: integrarea în biblioteca de note contabile — celula e-TVA închisă pe evidența dosarului 2 al bibliotecii, mentenanța L3 preluată de rutina lunară (secțiunea 2.6bis; companionul familiei: README.md).*

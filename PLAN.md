@@ -130,10 +130,10 @@ Integrarea familiei de documente de metodă (alocarea răspunderii +
 identificatorii fiscali), cu re-pinuire completă și reconstrucția
 documentului-origine:
 
-- [ ] Import verbatim (sha256 în companion) + `cadre/README.md` (mapare metodă↔
+- [x] Import verbatim (sha256 în companion) + `cadre/README.md` (mapare metodă↔
       convenții, regula de precedență, inventarul pinurilor) + cablare
       (CLAUDE/README/PLAN/consistenta.sh/surse-oficiale)
-- [ ] „A patra aplicare": închiderea celulei contestate e-TVA pe dosarul 2 +
+- [x] „A patra aplicare": închiderea celulei contestate e-TVA pe dosarul 2 +
       glose datate pe pinurile deja verificate de repo
 - [ ] Runda de verificare a pinurilor neacoperite (adversarial: TVA la încasare
       5.000.000 lei / OUG 8/2026; 509.630 lei / art. 322; art. 310 baza din

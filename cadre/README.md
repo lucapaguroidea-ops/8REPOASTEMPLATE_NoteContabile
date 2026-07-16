@@ -27,9 +27,9 @@ Fără frontmatter adăugat: un singur `verificata_la` ar aplatiza exact
 etichetarea încrederii per strat pe care documentele o argumentează (§3.6).
 Metadatele stau aici.
 
-**Stare la import:** celula e-TVA din `zona-de-intre.md` e publicată drept
-contestată; evidența repo-ului (dosarul 2) o tranșează — închiderea datată se
-operează în commit-ul următor importului („a patra aplicare").
+**Stare la import:** celula e-TVA din `zona-de-intre.md` era publicată drept
+contestată; **închisă la 16.07.2026** („a patra aplicare") pe evidența
+dosarului 2, cu marcajul istoric păstrat în celulă.
 
 ## Statutul straturilor (în regimurile repo-ului)
 
@@ -67,7 +67,7 @@ tranșată) · `istoric` (valoare istorică în celulă închisă — nu se re-p
 
 | # | Document · celulă | Afirmația (pin la import) | Stare | Dosar / trimitere |
 |---|-------------------|---------------------------|-------|-------------------|
-| 1 | zona · e-TVA | obligativitate răspuns 20 zile — „stadiu contestat între surse" | `de-verificat` → de închis pe dosar 2 | dosar 2; `cadru-legislativ.md` §3 |
+| 1 | zona · e-TVA | obligativitate răspuns 20 zile — „stadiu contestat între surse" | `închis` (16.07.2026, pe dosar 2 — marcajul istoric păstrat în celulă) | dosar 2; `cadru-legislativ.md` §3 |
 | 2 | zona · e-TVA | OPANAF 6.234/2024, 2.394/2025; suspendare OG 22/2025 | `istoric` (în celulă închisă) | — |
 | 3 | zona · plafon scutire / ident. · valori-prag | 395.000 lei, art. 310 (OG 22/2025) | `verificat-repo` | dosar 2 (plafon-scutire-tva); `cadru-legislativ.md` §2 |
 | 4 | zona · plafon scutire / ident. · valori-prag | „din 2026, fără operațiunile cu locul în afara României" | `de-verificat` | — |

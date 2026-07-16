@@ -36,6 +36,10 @@
 | **RO e-Transport** | cod UIT + GPS pentru transporturile vizate | înainte de începerea transportului | sancțiuni integrale din 01.01.2026 |
 | **RO e-TVA (P300)** | decont precompletat primit — exclusiv informativ | — (notificarea de conformare abrogată, OUG 13/2026) | [cadru-legislativ.md §3](cadru-legislativ.md) |
 
+*Cine poartă de fapt aceste obligații de canal (SPV, ferestrele e-Factura,
+monitorizarea) — punctul orb al oricărui tabel de termene: alocarea răspunderii
+e cartografiată în [`cadre/zona-de-intre.md`](../cadre/zona-de-intre.md).*
+
 ## Reguli de întreținere
 
 - **Orice modificare de termen/formular se operează ÎNTÂI aici**, apoi se
