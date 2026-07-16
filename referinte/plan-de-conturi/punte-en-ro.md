@@ -67,7 +67,7 @@ naturi**, fără linie de COGS, și se închide **în ledger** prin 121.
 | Deferred income & grants | Venituri în avans și subvenții | 472, 475, 478 |
 | Equity | Capitaluri proprii | 101, 103–109, 117, 121, 129, 141/149 |
 | Revenue / Turnover | Cifra de afaceri netă | 701–708 (contra: 709) |
-| Other operating income | Alte venituri din exploatare | 711/712, 721/722/725, 741, 754, 755, 758 |
+| Other operating income | Alte venituri din exploatare | 711/712, 721/722/725, 741, 751, 754, 755, 758 |
 | Operating expenses (by nature) | Cheltuieli de exploatare (pe naturi) | 601–609, 611–618, 621–628, 635, 641–646, 651–658, 681 |
 | Finance income / costs | Venituri / cheltuieli financiare | 761–768, 786 / 663–668, 686 |
 | Income tax expense | Impozitul pe profit/venit | 691, 694, 697, 698 (contra: 794) |

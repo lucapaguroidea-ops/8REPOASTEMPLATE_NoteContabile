@@ -19,6 +19,10 @@
 > gradul II), iar conturile claselor 6–7 și grupei 80 nu poartă literă —
 > marcajele de aici sunt convenția practică (vezi „Precizări" la final).
 > Puntea către categoriile contabile anglo-saxone: [`punte-en-ro.md`](punte-en-ro.md).
+> Detaliul de gradul II (4 cifre): [`plan-de-conturi-detaliat.md`](plan-de-conturi-detaliat.md).
+>
+> *Corecturi 2026-07-16 (runda de gradul II, dosarul 6): adăugat 751 (lipsea din
+> grupa 75); 786 redenumit conform OMF 166/2017 — total gradul I: 156 de conturi.*
 
 ## Clasa 1 — Conturi de capitaluri, provizioane, împrumuturi și datorii asimilate
 
@@ -265,7 +269,8 @@
 | | 722 | Venituri din producția de imobilizări corporale | P |
 | | 725 | Venituri din producția de investiții imobiliare | P |
 | **74 Venituri din subvenții de exploatare** | 741 | Venituri din subvenții de exploatare | P |
-| **75 Alte venituri din exploatare** | 754 | Venituri din creanțe reactivate și debitori diverși | P |
+| **75 Alte venituri din exploatare** | 751 | Venituri din operațiuni de fiducie | P |
+| | 754 | Venituri din creanțe reactivate și debitori diverși | P |
 | | 755 | Venituri din reevaluarea imobilizărilor corporale | P |
 | | 758 | Alte venituri din exploatare | P |
 | **76 Venituri financiare** | 761 | Venituri din imobilizări financiare | P |
@@ -276,7 +281,7 @@
 | | 767 | Venituri din sconturi obținute | P |
 | | 768 | Alte venituri financiare | P |
 | **78 Venituri din provizioane și ajustări pentru depreciere sau pierdere de valoare** | 781 | Venituri din provizioane și ajustări pentru depreciere privind activitatea de exploatare | P |
-| | 786 | Venituri financiare din ajustări pentru pierdere de valoare | P |
+| | 786 | Venituri financiare din amortizări și ajustări pentru pierdere de valoare | P |
 | **79 Venituri din impozitul pe profit** | 794 | Venituri din impozitul pe profit (…) rezultat din decontările în cadrul grupului fiscal în domeniul impozitului pe profit | P |
 
 ## Clasa 8 — Conturi speciale

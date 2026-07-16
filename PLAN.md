@@ -91,8 +91,10 @@ transport internațional.
       copia locală de bază (155 conturi gradul I, verificată adversarial —
       dosar 5) și maparea pe categorii funcționale anglo-saxone (Receivables,
       Payables, Banks…), engleză întâi, oglindită în română
-- [ ] Extinderea planului de conturi la gradul II (4 cifre), pe categorii,
-      la cerere — aceeași metodă (constructor + contra-verificator)
+- [x] Extinderea planului de conturi la **gradul II** (4 cifre) —
+      `plan-de-conturi-detaliat.md`: 319 conturi verificate adversarial
+      (dosar 6), cu 12 corecții aplicate (inclusiv două propagate în fișierul
+      de gradul I: +751, 786 redenumit)
 
 ## Faza 3 — Mentenanța legislativă (permanentă)
 
