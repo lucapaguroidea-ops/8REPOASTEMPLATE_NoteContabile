@@ -60,8 +60,12 @@ revizuiri legislative, rulările rutinei lunare): urmezi convențiile de mai jos
   termene; nu căuta termene prin note.
 - **Temeiuri legale la zi**: `referinte/cadru-legislativ.md` (cu istoric de
   verificări) — piesa centrală.
-- **Planul de conturi** (grupe + gradul I, verificat) și **puntea EN↔RO** pe
-  categorii funcționale (Receivables/Payables/…): `referinte/plan-de-conturi/`.
+- **Planul de conturi** (gradul I + gradul II, ambele verificate) și
+  **puntea EN↔RO** pe categorii funcționale (Receivables/Payables/…):
+  `referinte/plan-de-conturi/`.
+- **Notele pe secțiuni**: monografiile de bază direct în `note/`, aprofundările
+  salariale în `note/salarii-specializare/` — id-urile `NC-###` rămân globale
+  și unice, secțiunea e doar organizare pe disc (regulile: `note/README.md`).
 - **Cine poartă obligația / ce cere rubrica** (zona de „între", identificatori
   fiscali): `cadre/` — straturile L0–L1 sunt interpretative (**se citează, nu
   se „verifică"**); valorile operaționale se citesc din

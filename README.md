@@ -52,19 +52,22 @@ două feluri (protocolul operațional complet: [`CLAUDE.md`](CLAUDE.md)):
 README.md                  — acest fișier: scopul și regulile repo-ului
 PLAN.md                    — planul de dezvoltare al bibliotecii
 note/
-  README.md                — convenții: denumire, etichetare, stări, ciclu de viață
+  README.md                — convenții: denumire, etichetare, stări, ciclu de viață, secțiuni
   _TEMPLATE.md             — șablonul obligatoriu pentru orice notă nouă
-  NC-###-slug.md           — notele contabile individuale
+  NC-###-slug.md           — notele contabile de bază (NC-001 → NC-025)
+  salarii-specializare/    — secțiunea de aprofundare pe salarii (NC-026 → NC-032)
 procese/
-  README.md                — cum se definește un proces (listă ordonată de note)
+  README.md                — cum se definește un proces (listă ordonată de note); grupele
   inchidere-luna.md        — procesul de închidere de lună, pașii în ordine
+  inchidere-an.md          — procesul de închidere de an, pașii în ordine
+  speciale/                — procesele ocazionale: înființare, trecere micro→profit, suspendare, fuziune/divizare, lichidare
 referinte/
   cadru-legislativ.md      — starea la zi a cadrului legislativ relevant, cu surse
   declaratii.md            — registrul declarațiilor: scadențe, formulare, legături cu notele
-  plan-de-conturi/         — planul de conturi de bază (verificat) + puntea EN↔RO pe categorii
+  plan-de-conturi/         — planul de conturi verificat (gradul I + gradul II) + puntea EN↔RO pe categorii
   surse-oficiale.md        — sursele oficiale de monitorizat pentru actualizări
   rutina-mentenanta.md     — automatizarea lunară de mentenanță, documentată
-cadre/                     — cadrele stratificate: alocarea răspunderii („zona de între"), identificatori fiscali
+cadre/                     — cadrele stratificate: alocarea răspunderii („zona de între"), identificatori fiscali, cartografierea creanțelor
 arhiva-cercetare/          — dosarele de evidență ale verificărilor (strat de adâncime, doar-adăugare)
 verificari/consistenta.sh  — invariantele structurale, verificate mecanic înainte de commit
 CLAUDE.md                  — ghidul sesiunilor de lucru: aplicare (read-only) vs. mentenanță
