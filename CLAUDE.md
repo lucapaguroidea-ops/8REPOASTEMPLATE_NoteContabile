@@ -16,6 +16,38 @@ pentru o firmă. Regim **strict read-only**:
 - Nu te baza pe cifre din memoria ta unde nota are cifra verificată: nota + data
   din `verificata_la` bat memoria modelului.
 
+Sesiunile de aplicare au două forme tipice, cu protocoalele de mai jos.
+
+### Protocolul aplicării pe repo-ul unui client
+
+Când sesiunea are și repo-ul unui client alături de acesta: biblioteca e
+etalonul (read-only), repo-ul clientului e șantierul (acolo se scrie). Pașii,
+în ordine:
+
+1. **Inventariază** lucrul existent în repo-ul clientului: ce înregistrări,
+   ce perioade, ce procese au fost deja atinse.
+2. **Mapează-l pe bibliotecă**: fiecare lucrare ↔ nota (`NC-###`), procesul
+   (`procese/`) sau declarația (`referinte/declaratii.md`) corespunzătoare.
+3. **Revizuiește** ce s-a făcut: monografiile față de note (conturi, cote,
+   tratamente), ordinea lucrărilor față de procese, scadențele față de registrul
+   declarațiilor, alocarea răspunderii și identificatorii față de `cadre/`.
+4. **Raportează divergențele utilizatorului ÎNAINTE de a corecta** în repo-ul
+   clientului — corecturile acolo sunt permise (e șantierul), dar numai după ce
+   utilizatorul le-a văzut; biblioteca nu se atinge.
+5. Abia apoi **execută lucrări noi**, citând `NC-###` la fiecare înregistrare.
+
+Regula de sens unic: dacă revizuirea relevă o **eroare în bibliotecă**, ea se
+semnalează utilizatorului pentru o sesiune de mentenanță — nu se „repară" din
+sesiunea de aplicare.
+
+### Protocolul clarificărilor
+
+Răspunsul la o întrebare = nota/registrul citat (`NC-###` sau
+`referinte/cadru-legislativ.md`/`referinte/declaratii.md`) + data verificării
+(`verificata_la`). Dacă biblioteca nu acoperă întrebarea, spune explicit acest
+lucru și propune extinderea ei (într-o sesiune de mentenanță) — nu improviza
+un răspuns care ar putea fi luat drept conținut verificat al bibliotecii.
+
 **Sesiune de MENTENANȚĂ** (doar la cererea explicită a utilizatorului: note noi,
 revizuiri legislative, rulările rutinei lunare): urmezi convențiile de mai jos.
 

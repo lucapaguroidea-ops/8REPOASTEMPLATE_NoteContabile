@@ -87,6 +87,12 @@ transport internațional.
       evidență ale verificărilor — doar-adăugare), `verificari/consistenta.sh`
       (invariante structurale mecanice, rulate înainte de commit și de rutină),
       convențiile anti-trunchiere (editare punctuală, review pe inventar complet)
+- [x] **Secțiunea de utilitate la root** — cele două utilizări ale repo-ului
+      declarate simplu în `README.md` („Cum se folosește acest repo") și
+      operaționalizate în `CLAUDE.md`: (1) aplicare pe repo-ul unui client
+      (protocol în 5 pași, începând cu revizuirea lucrului existent; regula de
+      sens unic pentru erorile de bibliotecă) și (2) referință pentru
+      clarificări (răspuns = citare `NC-###` + `verificata_la`)
 - [x] **Planul de conturi + puntea EN↔RO** (`referinte/plan-de-conturi/`):
       copia locală de bază (155 conturi gradul I, verificată adversarial —
       dosar 5) și maparea pe categorii funcționale anglo-saxone (Receivables,

@@ -22,6 +22,30 @@ de exemplu **închiderea de lună** — în care pașii au o ordine obligatorie 
 Categorisirea pe procese este parte a structurii fiecărei note (câmpul `procese` din
 metadate) și a fișierelor din [`procese/`](procese/), care listează pașii în ordine.
 
+## Cum se folosește acest repo — două utilizări
+
+O sesiune nouă care pornește cu acest repo la bază îl folosește într-unul din
+două feluri (protocolul operațional complet: [`CLAUDE.md`](CLAUDE.md)):
+
+1. **Aplicare pe repo-ul unui client** — sesiunea are ambele repo-uri deschise:
+   biblioteca de aici este **etalonul**, repo-ul clientului este **șantierul**.
+   Se începe obligatoriu cu **revizuirea lucrului deja făcut** în repo-ul
+   clientului, față de bibliotecă: monografiile față de note (`NC-###`), ordinea
+   lucrărilor față de [`procese/`](procese/), scadențele față de
+   [`referinte/declaratii.md`](referinte/declaratii.md), alocarea răspunderii și
+   identificatorii fiscali față de [`cadre/`](cadre/). Abia după revizuire se
+   execută lucrări noi. Biblioteca rămâne **read-only**; tot ce se scrie în
+   repo-ul clientului citează `NC-###`, nu copiază conținutul.
+
+2. **Referință pentru clarificări** — utilizatorul întreabă, răspunsul se
+   ancorează în bibliotecă: nota sau registrul citat (`NC-###`,
+   `referinte/cadru-legislativ.md`, `referinte/declaratii.md`) plus data
+   verificării (`verificata_la`). Unde biblioteca are fapta verificată, ea bate
+   memoria modelului; unde nu o acoperă, se spune explicit.
+
+În ambele utilizări repo-ul este doar citit — modificarea lui se face exclusiv
+în sesiuni de mentenanță, la cerere explicită (vezi `CLAUDE.md`).
+
 ## Structura repo-ului
 
 ```
