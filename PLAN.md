@@ -197,11 +197,19 @@ la zi** (reflectă realitatea, nu intenția de ieri).
    care o folosesc, o valoare din `cadru-legislativ.md` → celulele L3 din
    `cadre/` + inventarul din `cadre/README.md`); caută consumatorii prin
    frontmatter (`conturi`, `declaratii`) și adu-i la zi în același commit.
-5. **Verifică calendarul.** Uită-te la „Modificări cu aplicare viitoare" din
+5. **Ține harta de navigare la zi.** Dacă acțiunea a schimbat *forma*
+   repo-ului — fișier, director, secțiune, proces sau registru nou (mutat sau
+   redenumit) — verifică dacă documentația de navigare o mai reflectă: arborele
+   „Structura repo-ului" și tabelul de straturi din `README.md`, „Cum navighezi"
+   din `CLAUDE.md`, tabelele de secțiuni/grupe din `note/README.md` și
+   `procese/README.md`. `consistenta.sh` verifică doar *existența* fișierelor-
+   pilon, nu completitudinea hărții lor; documentația de navigare rămasă în urma
+   creșterii corpusului e o „orbire" tăcută.
+6. **Verifică calendarul.** Uită-te la „Modificări cu aplicare viitoare" din
    `cadru-legislativ.md`: a intrat ceva în vigoare de la ultima acțiune? Dacă
    da, declanșează acțiunea prevăzută (note pe `de-revizuit`) — așa planul
    rămâne aliniat cu timpul, nu doar cu ultima cerere.
-6. **Închide bucla.** `verificata_la` reîmprospătat pe ce s-a atins; commit +
+7. **Închide bucla.** `verificata_la` reîmprospătat pe ce s-a atins; commit +
    push; niciun item rămas „în aer" (o promisiune fără fișier). Ce nu e comis
    nu există — mediul e efemer.
 
