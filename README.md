@@ -70,6 +70,7 @@ referinte/
 cadre/                     — cadrele stratificate: alocarea răspunderii („zona de între"), identificatori fiscali, cartografierea creanțelor
 arhiva-cercetare/          — dosarele de evidență ale verificărilor (strat de adâncime, doar-adăugare)
 verificari/consistenta.sh  — invariantele structurale, verificate mecanic înainte de commit
+verificari/impact.sh       — enumerarea consumatorilor unei schimbări (advisory; „mișcarea unică")
 CLAUDE.md                  — ghidul sesiunilor de lucru: aplicare (read-only) vs. mentenanță
 ```
 
