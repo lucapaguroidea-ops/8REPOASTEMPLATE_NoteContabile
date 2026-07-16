@@ -61,5 +61,15 @@ firmelor mari de consultanță (PwC, KPMG, EY, Deloitte, Crowe). Utile pentru a 
    `arhiva-cercetare/` (afirmații, verdicte, corecții, surse) și îl leagă din
    „Istoric verificări" — dosarele vechi nu se modifică niciodată.
 6. La final se rulează `bash verificari/consistenta.sh` — commit doar pe „OK".
+6b. **Raportul rundei se depune ca GitHub issue** (titlu
+   `[rutina-lunara] Runda AAAA-LL`, conținut: ce s-a verificat / ce s-a
+   schimbat / trimiterea la dosar): se **închide pe loc** dacă runda nu a
+   schimbat nimic (rămâne înregistrare vizibilă fără git log); se **lasă
+   deschis** dacă rămân acțiuni. Fiecare schimbare **detectată dar
+   nerezolvată** în rundă primește issue separat
+   (`[schimbare-legislativa] actul/valoarea`), cu consumatorii enumerați de
+   `bash verificari/impact.sh`. Un issue e semnal/raport, nu conținut
+   verificat — citează registrul/`NC-###`, nu duplică. Fără acces GitHub în
+   mediul rulării, raportul rămâne în forma pasului 7.
 7. Elementele „⚠ de reconfirmat" din `cadru-legislativ.md` se verifică cu prioritate
    la prima notă care are nevoie de ele.

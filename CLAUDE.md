@@ -12,7 +12,10 @@ pentru o firmă. Regim **strict read-only**:
   locuri unde s-ar putea perima.
 - **Nu edita nimic din acest repo.** Dacă găsești o eroare sau ceva perimat,
   semnaleaz-o utilizatorului cu propunerea de corecție — modificarea se face
-  într-o sesiune de mentenanță, cu verificare pe surse.
+  într-o sesiune de mentenanță, cu verificare pe surse. Unde sesiunea are
+  acces la GitHub, depune semnalul și ca issue pe repo
+  (titlu `[eroare-biblioteca] …`, cu citarea `NC-###`-ului sau registrului
+  afectat) — deschiderea unui issue NU e o editare a bibliotecii.
 - Nu te baza pe cifre din memoria ta unde nota are cifra verificată: nota + data
   din `verificata_la` bat memoria modelului.
 
@@ -38,7 +41,8 @@ etalonul (read-only), repo-ul clientului e șantierul (acolo se scrie). Pașii,
 
 Regula de sens unic: dacă revizuirea relevă o **eroare în bibliotecă**, ea se
 semnalează utilizatorului pentru o sesiune de mentenanță — nu se „repară" din
-sesiunea de aplicare.
+sesiunea de aplicare. Semnalul se depune și ca issue
+(`[eroare-biblioteca] …`), dacă sesiunea are acces la GitHub.
 
 ### Protocolul clarificărilor
 
@@ -47,9 +51,19 @@ Răspunsul la o întrebare = nota/registrul citat (`NC-###` sau
 (`verificata_la`). Dacă biblioteca nu acoperă întrebarea, spune explicit acest
 lucru și propune extinderea ei (într-o sesiune de mentenanță) — nu improviza
 un răspuns care ar putea fi luat drept conținut verificat al bibliotecii.
+Golul de acoperire se depune ca issue (`[propunere-extindere] …`), dacă
+sesiunea are acces la GitHub.
 
 **Sesiune de MENTENANȚĂ** (doar la cererea explicită a utilizatorului: note noi,
 revizuiri legislative, rulările rutinei lunare): urmezi convențiile de mai jos.
+Primul gest: **citește issue-urile deschise** ale repo-ului — inbox-ul de
+semnalizare. Convențiile canalului: patru tipuri, marcate prin etichetă sau
+prefix în titlu — `eroare-biblioteca`, `propunere-extindere`, `rutina-lunara`
+(raportul rundei lunare), `schimbare-legislativa` (detectată, nerezolvată);
+un issue e SEMNAL sau RAPORT, niciodată conținut verificat (citează `NC-###`/
+registrul, nu duplică); PLAN.md rămâne sursa de adevăr a planului; ce rezolvi
+în sesiune se închide citând commitul + dosarul, iar un semnal ajuns în PLAN
+se închide citând rândul din plan.
 
 ## Cum navighezi (pentru ambele tipuri)
 

@@ -45,7 +45,12 @@ Prompt-ul transmis agentului la fiecare declanșare este, în esență:
    actualizări" și `verificata_la` nou, apoi revin pe `stare: valida`.
 6. Commit + push pe `claude/brave-goodall-jo6j8x`.
 7. Raport scurt: ce s-a schimbat / ce note s-au actualizat / ce rămâne „⚠" —
-   sau confirmarea explicită că nu au fost modificări.
+   sau confirmarea explicită că nu au fost modificări. De la 2026-07-16,
+   raportul se depune și ca GitHub issue (`[rutina-lunara] Runda AAAA-LL`),
+   cf. pasului 6b din procedura din `surse-oficiale.md` — închis pe loc dacă
+   runda nu a schimbat nimic, deschis dacă rămân acțiuni; schimbările
+   detectate dar nerezolvate primesc issue separat
+   (`[schimbare-legislativa] …`). Extindere prin procedură, nu prin trigger.
 
 Rutinei îi este interzis explicit să modifice scopul repo-ului, formatul
 șablonului sau propria definiție fără cerere explicită a utilizatorului.

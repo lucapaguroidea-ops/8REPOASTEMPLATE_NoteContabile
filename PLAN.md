@@ -108,6 +108,14 @@ transport internațional.
       de aici și pasul 1c din `surse-oficiale.md`; considerat și respins:
       ancore de valori în frontmatter (nu se ating cele 32 de note) —
       deciziile în dosarul 10
+- [x] **Canalul GitHub Issues** (2026-07-16): inbox de semnalizare (sesiunile
+      de aplicare/clarificare deschid `[eroare-biblioteca]`/
+      `[propunere-extindere]`) + rapoartele rutinei lunare
+      (`[rutina-lunara]` per rundă, `[schimbare-legislativa]` per schimbare
+      nerezolvată — pasul 6b din `surse-oficiale.md`); garda anti-registru-
+      dublu: issue = semnal/raport, PLAN.md rămâne sursa planului, semnalul
+      ajuns în PLAN/commit se închide citând destinația; oglindirea itemilor
+      din PLAN — considerată și respinsă
 - [x] **Planul de conturi + puntea EN↔RO** (`referinte/plan-de-conturi/`):
       copia locală de bază (155 conturi gradul I, verificată adversarial —
       dosar 5) și maparea pe categorii funcționale anglo-saxone (Receivables,
@@ -223,7 +231,8 @@ la zi** (reflectă realitatea, nu intenția de ieri).
    da, declanșează acțiunea prevăzută (note pe `de-revizuit`) — așa planul
    rămâne aliniat cu timpul, nu doar cu ultima cerere.
 7. **Închide bucla.** `verificata_la` reîmprospătat pe ce s-a atins; commit +
-   push; niciun item rămas „în aer" (o promisiune fără fișier). Ce nu e comis
+   push; niciun item rămas „în aer" (o promisiune fără fișier); issue-urile
+   rezolvate de acțiune se închid citând commitul + dosarul. Ce nu e comis
    nu există — mediul e efemer.
 
 ## Cum lucrăm la o notă nouă (procedură)

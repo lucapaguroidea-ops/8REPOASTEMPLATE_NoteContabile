@@ -44,7 +44,11 @@ două feluri (protocolul operațional complet: [`CLAUDE.md`](CLAUDE.md)):
    memoria modelului; unde nu o acoperă, se spune explicit.
 
 În ambele utilizări repo-ul este doar citit — modificarea lui se face exclusiv
-în sesiuni de mentenanță, la cerere explicită (vezi `CLAUDE.md`).
+în sesiuni de mentenanță, la cerere explicită (vezi `CLAUDE.md`). Erorile și
+golurile de acoperire găsite pe parcurs se depun ca **GitHub issues**
+(`[eroare-biblioteca]` / `[propunere-extindere]`) — inbox-ul pe care sesiunile
+de mentenanță îl triază; rutina lunară își depune și ea raportul acolo
+(convențiile complete: `CLAUDE.md`).
 
 ## Structura repo-ului
 
