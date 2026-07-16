@@ -92,6 +92,55 @@ STARI_INVALIDE=$(grep -o '| `[a-zăâîșț-]*` |' cadre/README.md | sed 's/| `/
 [ -n "$STARI_INVALIDE" ] && err "cadre/README.md: stari necunoscute in inventar: $STARI_INVALIDE"
 NR_DEVERIF=$(grep -c '| `de-verificat`' cadre/README.md || true)
 
+# --- 9. Hartile de navigare: prezenta (nu corectitudinea descrierilor) ---
+# Orice fisier/director nou de suprafata trebuie sa apara in harta lui de
+# navigare. Doar verificari de PREZENTA (sir fix derivat din disc) — zero
+# falsuri posibile; descrierile/formularile raman verificare umana (dosar 10).
+ARBORE=$(awk '/^## Structura repo-ului/{s=1} s&&/^```/{n++; next} s&&n==1{print} s&&n>=2{exit}' README.md)
+if [ -z "$ARBORE" ]; then
+  err "README.md: blocul-arbore de sub '## Structura repo-ului' nu a fost gasit"
+else
+  # 9a. Fiecare director de la radacina apare in arbore (la inceput de rand)
+  for d in $(find . -maxdepth 1 -type d ! -name '.*' ! -name . | sed 's|^\./||' | sort); do
+    echo "$ARBORE" | grep -q "^$d/" || err "README.md: directorul '$d/' lipseste din arborele 'Structura repo-ului'"
+  done
+  # 9c'. Sectiunile din note/ apar si in arbore
+  for d in $(find note -mindepth 1 -maxdepth 1 -type d | sed 's|note/||'); do
+    echo "$ARBORE" | grep -q "$d/" || err "README.md: sectiunea 'note/$d/' lipseste din arbore"
+  done
+  # 9d. Fisierele si subdirectoarele din referinte/ apar in arbore
+  for f in referinte/*.md; do
+    echo "$ARBORE" | grep -q "$(basename "$f")" || err "README.md: '$f' lipseste din arbore"
+  done
+  for d in $(find referinte -mindepth 1 -maxdepth 1 -type d | sed 's|referinte/||'); do
+    echo "$ARBORE" | grep -q "$d/" || err "README.md: 'referinte/$d/' lipseste din arbore"
+  done
+  # 9g. Scripturile din verificari/ apar in arbore
+  for f in verificari/*.sh; do
+    echo "$ARBORE" | grep -q "$f" || err "README.md: '$f' lipseste din arbore"
+  done
+fi
+# 9b. Fiecare proces are rand in procese/README.md
+for pf in procese/*.md procese/speciale/*.md; do
+  [ -f "$pf" ] || continue
+  b=$(basename "$pf"); [ "$b" = "README.md" ] && continue
+  grep -q "$b" procese/README.md || err "procese/README.md: procesul '$pf' lipseste din tabelul grupelor"
+done
+# 9c. Fiecare sectiune din note/ apare in note/README.md
+for d in $(find note -mindepth 1 -maxdepth 1 -type d | sed 's|note/||'); do
+  grep -q "$d" note/README.md || err "note/README.md: sectiunea '$d' lipseste din tabelul sectiunilor"
+done
+# 9e. Fiecare document din cadre/ apare in cadre/README.md (companionul familiei)
+for f in cadre/*.md; do
+  b=$(basename "$f"); [ "$b" = "README.md" ] && continue
+  grep -q "$b" cadre/README.md || err "cadre/README.md: '$b' lipseste din companion (tabelul familiei)"
+done
+# 9f. Fiecare dosar apare in arhiva-cercetare/README.md (tabelul dosarelor)
+for f in arhiva-cercetare/*.md; do
+  b=$(basename "$f"); [ "$b" = "README.md" ] && continue
+  grep -q "$b" arhiva-cercetare/README.md || err "arhiva-cercetare/README.md: dosarul '$b' lipseste din tabel"
+done
+
 echo "---"
 echo "Note verificate: $NR_NOTE | Pinuri 'de-verificat' in cadre: ${NR_DEVERIF:-0} | Erori: $ERORI"
 if [ "$ERORI" -gt 0 ]; then exit 1; else echo "OK — toate invariantele respectate."; fi

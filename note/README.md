@@ -27,7 +27,7 @@ Regulile secțiunilor:
 `NC-###-slug.md` — id numeric unic, incremental, urmat de un slug scurt și
 descriptiv, cu cratime, fără diacritice în numele fișierului.
 
-Exemple: `NC-001-inchiderea-conturilor-de-tva.md`, `NC-002-amortizarea-imobilizarilor.md`
+Exemple: `NC-001-inchiderea-conturilor-de-tva.md`, `NC-006-amortizarea-imobilizarilor.md`
 
 Id-ul **nu se refolosește niciodată**, nici după abrogarea unei note.
 
