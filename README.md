@@ -40,6 +40,7 @@ referinte/
   plan-de-conturi/         — planul de conturi de bază (verificat) + puntea EN↔RO pe categorii
   surse-oficiale.md        — sursele oficiale de monitorizat pentru actualizări
   rutina-mentenanta.md     — automatizarea lunară de mentenanță, documentată
+cadre/                     — cadrele stratificate: alocarea răspunderii („zona de între"), identificatori fiscali
 arhiva-cercetare/          — dosarele de evidență ale verificărilor (strat de adâncime, doar-adăugare)
 verificari/consistenta.sh  — invariantele structurale, verificate mecanic înainte de commit
 CLAUDE.md                  — ghidul sesiunilor de lucru: aplicare (read-only) vs. mentenanță
@@ -49,7 +50,7 @@ CLAUDE.md                  — ghidul sesiunilor de lucru: aplicare (read-only) 
 
 | Strat | Unde | Regim |
 |-------|------|-------|
-| **Suprafața** — sinteza citabilă prin id-uri stabile `NC-###` | `note/`, `procese/`, `referinte/` | modificată doar în sesiuni de mentenanță, prin editări punctuale, cu invariantele verificate |
+| **Suprafața** — sinteza citabilă prin id-uri stabile `NC-###` | `note/`, `procese/`, `referinte/`, `cadre/` | modificată doar în sesiuni de mentenanță, prin editări punctuale, cu invariantele verificate; în `cadre/`, L0–L1 sunt interpretative, iar L3 se re-pinuiește lunar |
 | **Adâncimea** — dovezile verificărilor (inclusiv afirmațiile respinse) | `arhiva-cercetare/` | doar se adaugă dosare noi; cele vechi nu se rescriu |
 | **Aplicarea** — munca reală pe firme | în afara repo-ului | citează `NC-###`; nu modifică biblioteca (vezi `CLAUDE.md`) |
 

@@ -69,10 +69,29 @@ done
 # --- 7. Fisierele-pilon exista ---
 for p in README.md PLAN.md CLAUDE.md note/_TEMPLATE.md note/README.md procese/README.md \
          referinte/cadru-legislativ.md referinte/declaratii.md referinte/surse-oficiale.md \
-         referinte/rutina-mentenanta.md arhiva-cercetare/README.md; do
+         referinte/rutina-mentenanta.md arhiva-cercetare/README.md \
+         cadre/README.md cadre/zona-de-intre.md cadre/identificatori-fiscali.md; do
   [ -f "$p" ] || err "fisier-pilon lipsa: $p"
 done
 
+# --- 8. Cadrele din cadre/: anti-trunchiere pe titluri + inventarul companion ---
+# O rescriere care pierde meta-partile sau registrele devine detectabila aici.
+for h in "# Partea II" "# Partea III" "## 6. Registrul divergențelor" "## 9."; do
+  grep -q "^$h" cadre/zona-de-intre.md || err "cadre/zona-de-intre.md: titlu lipsa '$h' (trunchiere?)"
+done
+for h in "# Partea II" "# Partea III" "## 6. Registrul divergențelor" "## 7. Registrul propagărilor"; do
+  grep -q "^$h" cadre/identificatori-fiscali.md || err "cadre/identificatori-fiscali.md: titlu lipsa '$h' (trunchiere?)"
+done
+if [ -f cadre/cartografierea-creantelor.md ]; then
+  for h in "## 6. Registrul divergențelor" "## 7. Registrul propagărilor"; do
+    grep -q "^$h" cadre/cartografierea-creantelor.md || err "cadre/cartografierea-creantelor.md: titlu lipsa '$h' (trunchiere?)"
+  done
+fi
+grep -q "^\*\*Re-pinuit la: " cadre/README.md || err "cadre/README.md: lipseste antetul 'Re-pinuit la:'"
+STARI_INVALIDE=$(grep -o '| `[a-zăâîșț-]*` |' cadre/README.md | sed 's/| `//; s/` |//' | grep -vE '^(verificat-repo|de-verificat|slab|închis|istoric)$' || true)
+[ -n "$STARI_INVALIDE" ] && err "cadre/README.md: stari necunoscute in inventar: $STARI_INVALIDE"
+NR_DEVERIF=$(grep -c 'de-verificat' cadre/README.md || true)
+
 echo "---"
-echo "Note verificate: $NR_NOTE | Erori: $ERORI"
+echo "Note verificate: $NR_NOTE | Pinuri 'de-verificat' in cadre: ${NR_DEVERIF:-0} | Erori: $ERORI"
 if [ "$ERORI" -gt 0 ]; then exit 1; else echo "OK — toate invariantele respectate."; fi

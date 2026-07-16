@@ -30,6 +30,11 @@ revizuiri legislative, rulările rutinei lunare): urmezi convențiile de mai jos
   verificări) — piesa centrală.
 - **Planul de conturi** (grupe + gradul I, verificat) și **puntea EN↔RO** pe
   categorii funcționale (Receivables/Payables/…): `referinte/plan-de-conturi/`.
+- **Cine poartă obligația / ce cere rubrica** (zona de „între", identificatori
+  fiscali): `cadre/` — straturile L0–L1 sunt interpretative (**se citează, nu
+  se „verifică"**); valorile operaționale se citesc din
+  `referinte/cadru-legislativ.md`/`referinte/declaratii.md`, NU din celulele L3
+  ale cadrelor (regula de precedență din `cadre/README.md`).
 - **Interogări structurate** pe frontmatter-ul notelor:
   - ce note ating un cont: `grep -rl "conturi:.*4426" note/`
   - ce note alimentează o declarație: `grep -rl "declaratii:.*D300" note/`

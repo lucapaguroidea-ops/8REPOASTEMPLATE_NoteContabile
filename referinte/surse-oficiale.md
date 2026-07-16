@@ -32,6 +32,13 @@ firmelor mari de consultanță (PwC, KPMG, EY, Deloitte, Crowe). Utile pentru a 
 1. **Trimestrial** (sau la orice pachet fiscal anunțat): se parcurg noutățile MF/ANAF
    și se compară cu `cadru-legislativ.md` **și cu registrul declarațiilor**
    (`declaratii.md` — termene, formulare, OPANAF-uri noi).
+1b. **Re-pinuirea cadrelor**: după actualizarea registrelor, se compară coloana
+   L3 a documentelor din `cadre/` cu registrele (inventarul din
+   `cadre/README.md`); la divergență — re-pinuire punctuală datată în celulă +
+   actualizarea inventarului și a antetului „Re-pinuit la", cu destinația
+   corecturilor per tipologia din `cadre/zona-de-intre.md` §9 (lege → L2 +
+   cascadă; OPANAF → doar celulele cu pinul lui). **Straturile L0–L1 NU intră
+   în verificare** — sunt interpretative.
 2. Orice divergență: se actualizează `cadru-legislativ.md` (și `declaratii.md`
    pentru scadențe/formulare), se identifică notele afectate (căutare după
    `conturi`, `etichete` și `declaratii` din frontmatter), acestea trec pe

@@ -124,6 +124,25 @@ clare, ca să fie un plan de urmat, nu o intenție vagă:
       din dosarele 5 și 6 (formularea exactă 694/794 — OMF 6670/2024; virgula din
       6462; denumirea 6351); fiecare divergență rezolvată cu sursă; dosar nou.
 
+## Faza 2c — Cadrele zonei de „între" (`cadre/`)
+
+Integrarea familiei de documente de metodă (alocarea răspunderii +
+identificatorii fiscali), cu re-pinuire completă și reconstrucția
+documentului-origine:
+
+- [ ] Import verbatim (sha256 în companion) + `cadre/README.md` (mapare metodă↔
+      convenții, regula de precedență, inventarul pinurilor) + cablare
+      (CLAUDE/README/PLAN/consistenta.sh/surse-oficiale)
+- [ ] „A patra aplicare": închiderea celulei contestate e-TVA pe dosarul 2 +
+      glose datate pe pinurile deja verificate de repo
+- [ ] Runda de verificare a pinurilor neacoperite (adversarial: TVA la încasare
+      5.000.000 lei / OUG 8/2026; 509.630 lei / art. 322; art. 310 baza din
+      2026; țintit: SPV, formular 050, 34.000 lei, art. 270 CPF) → dosar 7
+- [ ] Reconstrucția cartografierii creanțelor ca aplicare nouă declarată
+      (`cadre/cartografierea-creantelor.md`) + dosar 8
+- [ ] Candidat notă viitoare: „TVA la încasare" (NC) — plafonul există în
+      cadru-legislativ fără notă consumatoare; se deschide la prima speță
+
 ## Faza 3 — Mentenanța legislativă (permanentă)
 
 - [x] Revizuire periodică **automatizată**: rutină lunară activă (ziua 1 a
@@ -157,8 +176,9 @@ la zi** (reflectă realitatea, nu intenția de ieri).
    verificări" din `cadru-legislativ.md`.
 4. **Propagă corecțiile în ambele sensuri.** O corecție la un nivel atinge
    adesea altul (gradul II → gradul I, o notă → registru, o cotă → toate notele
-   care o folosesc); caută consumatorii prin frontmatter (`conturi`,
-   `declaratii`) și adu-i la zi în același commit.
+   care o folosesc, o valoare din `cadru-legislativ.md` → celulele L3 din
+   `cadre/` + inventarul din `cadre/README.md`); caută consumatorii prin
+   frontmatter (`conturi`, `declaratii`) și adu-i la zi în același commit.
 5. **Verifică calendarul.** Uită-te la „Modificări cu aplicare viitoare" din
    `cadru-legislativ.md`: a intrat ceva în vigoare de la ultima acțiune? Dacă
    da, declanșează acțiunea prevăzută (note pe `de-revizuit`) — așa planul
