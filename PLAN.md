@@ -135,7 +135,7 @@ documentului-origine:
       (CLAUDE/README/PLAN/consistenta.sh/surse-oficiale)
 - [x] „A patra aplicare": închiderea celulei contestate e-TVA pe dosarul 2 +
       glose datate pe pinurile deja verificate de repo
-- [ ] Runda de verificare a pinurilor neacoperite (adversarial: TVA la încasare
+- [x] Runda de verificare a pinurilor neacoperite (adversarial: TVA la încasare
       5.000.000 lei / OUG 8/2026; 509.630 lei / art. 322; art. 310 baza din
       2026; țintit: SPV, formular 050, 34.000 lei, art. 270 CPF) → dosar 7
 - [ ] Reconstrucția cartografierii creanțelor ca aplicare nouă declarată

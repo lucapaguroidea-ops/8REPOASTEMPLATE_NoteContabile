@@ -1,7 +1,8 @@
 # Cadrele zonei de „între" — companionul de integrare
 
-**Re-pinuit la: 2026-07-16** (importul inițial; stările din inventar se
-actualizează la fiecare re-pinuire).
+**Re-pinuit la: 2026-07-16** (runda completă post-import: celula contestată
+închisă pe dosar 2; toate pinurile portante și țintite tranșate — dosar 7;
+niciun pin `de-verificat` rămas).
 
 Familia documentelor de metodă: cadre stratificate (L0→L3) pentru ce nu e
 materie contabilă dar gravitează spre contabil. Acest companion e **harta de
@@ -70,20 +71,20 @@ tranșată) · `istoric` (valoare istorică în celulă închisă — nu se re-p
 | 1 | zona · e-TVA | obligativitate răspuns 20 zile — „stadiu contestat între surse" | `închis` (16.07.2026, pe dosar 2 — marcajul istoric păstrat în celulă) | dosar 2; `cadru-legislativ.md` §3 |
 | 2 | zona · e-TVA | OPANAF 6.234/2024, 2.394/2025; suspendare OG 22/2025 | `istoric` (în celulă închisă) | — |
 | 3 | zona · plafon scutire / ident. · valori-prag | 395.000 lei, art. 310 (OG 22/2025) | `verificat-repo` | dosar 2 (plafon-scutire-tva); `cadru-legislativ.md` §2 |
-| 4 | zona · plafon scutire / ident. · valori-prag | „din 2026, fără operațiunile cu locul în afara României" | `de-verificat` | — |
+| 4 | zona · plafon scutire / ident. · valori-prag | „din 2026, fără operațiunile cu locul în afara României" | `verificat-repo` — corectat: regula se aplică de la **01.09.2025** (OG 22/2025), nu „din 2026" | dosar 7; `cadru-legislativ.md` §2 |
 | 5 | zona · e-Factura / ident. · e-Factura | 5 zile lucrătoare (OUG 89/2025); B2C 01.2025 | `verificat-repo` | dosar 1; `cadru-legislativ.md` §3 |
 | 6 | zona · e-Factura | „B2B 07.2024" (comprimat: canal unic 07.2024; obligația din 01.01.2024, sancțiuni 01.06.2024) | `verificat-repo` (cu glosă) | dosar 1 (corecția e-Factura) |
-| 7 | zona · SPV / ident. · adresa de comunicare | SPV obligatoriu PJ din 03.2022 (OG 11/2021) | `de-verificat` | — |
-| 8 | zona · ferestre opțiune / ident. · valori-prag | TVA la încasare 5.000.000 lei din 03.2026 (OUG 8/2026) | `de-verificat` (portant!) | — |
-| 9 | ident. · valori-prag | perioada fiscală 100.000 EUR = 509.630 lei pt. 2026 (art. 322) | `de-verificat` (portant) | — |
-| 10 | ident. · valori-prag | achiziții IC: 10.000 EUR / 34.000 lei | `de-verificat` | — |
+| 7 | zona · SPV / ident. · adresa de comunicare | SPV obligatoriu PJ din 03.2022 (OG 11/2021) | `verificat-repo` (+ PF cu activități economice/liberale) | dosar 7; `cadru-legislativ.md` §3 |
+| 8 | zona · ferestre opțiune / ident. · valori-prag | TVA la încasare 5.000.000 lei din 03.2026 (OUG 8/2026) | `verificat-repo` — completat: treapta 01.03–31.12.2026; de la 01.01.2027 → 5.500.000 lei | dosar 7; `cadru-legislativ.md` §2 |
+| 9 | ident. · valori-prag | perioada fiscală 100.000 EUR = 509.630 lei pt. 2026 (art. 322) | `verificat-repo` (curs 5,0963/30.12.2025 — diferit de cursul micro 5,0985) | dosar 7; `cadru-legislativ.md` §2 |
+| 10 | ident. · valori-prag | achiziții IC: 10.000 EUR / 34.000 lei | `verificat-repo` (echivalent fixat la cursul aderării, art. 268(4)) | dosar 7; `cadru-legislativ.md` §2 |
 | 11 | ident. · valori-prag | cote 21%/11% din 08.2025; 9% tranzitoriu locuințe până 31.07.2026 | `verificat-repo` | dosar 1; `cadru-legislativ.md` §2 |
 | 12 | zona · ferestre opțiune / ident. · valori-prag | micro 100.000 EUR | `verificat-repo` | dosar 1; `cadru-legislativ.md` §2 |
 | 13 | ident. · cod regim UE | sufix „EX" (OG 22/2025, art. 310¹–310²) | `verificat-repo` | dosar 2 (plafon-scutire-tva — regimul transfrontalier); `cadru-legislativ.md` §2 |
 | 14 | zona · SAF-T | D406 extins la contribuabilii mici din 01.2025 | `verificat-repo` | dosar 1; `declaratii.md` |
 | 15 | zona · arhivă | păstrare 5 ani (L36/2023) | `verificat-repo` | dosar 2 (pastrare-5-ani, cu corecția articolelor); `cadru-legislativ.md` §1 |
-| 16 | ident. · domiciliul fiscal | formularul 050 (pin declarat slab de document) | `slab` → de tranșat | — |
-| 17 | zona · SPV (divergența 1) | termen contestație 45 zile (art. 270 CPF) | `de-verificat` | — |
+| 16 | ident. · domiciliul fiscal | formularul 050 (pin declarat slab de document) | `verificat-repo` — 050 în vigoare 2026 (080 pentru asocieri; 15 zile), urma pinului slab păstrată | dosar 7 |
+| 17 | zona · SPV (divergența 1) | termen contestație 45 zile (art. 270 CPF) | `verificat-repo` (+ excepția: 3 luni dacă actul nu conține elementele obligatorii) | dosar 7 |
 | 18 | ident. · cod partener | VIES condiție de fond din 01.2020 (art. 294 CF) | `verificat-repo` (de mapat) | dosar 3 (NC-021 — quick fixes) |
 | 19 | ident. · TVA la încasare | Registrul persoanelor care aplică TVA la încasare (art. 282) | `verificat-repo` (registru viu — trimitere, nu copie) | — |
 

@@ -62,12 +62,16 @@ utilizare economică 3 ani (36 luni), metoda liniară. Amortizarea începe în i
   Catalogul aprobat prin HG 2139/2004 (cu intervale min–max); metodele fiscale:
   liniară, degresivă, accelerată (după categorie). Diferențele contabil–fiscal se
   gestionează extracontabil (registrul de evidență fiscală).
-- **Plafonul mijloacelor fixe: 5.000 lei din 25.02.2026** (OUG 8/2026, care a
-  înlocuit plafonul de 2.500 lei din HG 276/2013; actualizare anuală la indicele
-  prețurilor de consum) — sub plafon, bunurile se pot trece direct pe cheltuieli
-  (obiecte de inventar, 603). **Tranzitoriu**: mijloacele fixe cu valori între
-  2.500 și 5.000 lei existente în patrimoniu la 31.12.2025 continuă să se
-  amortizeze pe durata normală rămasă (verificat 2026-07-15).
+- **Plafonul mijloacelor fixe: 5.000 lei, aplicabil începând cu anul fiscal
+  2026** — de la 01.01.2026 pentru anul fiscal calendaristic (OUG 8/2026,
+  M.Of. 147/25.02.2026, care a înlocuit plafonul de 2.500 lei din HG 276/2013;
+  actualizare anuală la indicele prețurilor de consum) — sub plafon, bunurile se
+  pot trece direct pe cheltuieli (obiecte de inventar, 603). Practic: și un
+  activ de 2.500–5.000 lei achiziționat în ianuarie–februarie 2026 intră sub
+  plafonul nou. **Tranzitoriu**: mijloacele fixe cu valori între 2.500 și
+  5.000 lei existente în patrimoniu la 31.12.2025 continuă să se amortizeze pe
+  durata normală rămasă (corectat 2026-07-16 — data de aplicare; verificat
+  adversarial, dosar 7).
   [OUG 8/2026](https://legislatie.just.ro/Public/DetaliiDocumentAfis/307580)
 
 ## 6. Erori frecvente și atenționări
@@ -87,3 +91,4 @@ utilizare economică 3 ani (36 luni), metoda liniară. Amortizarea începe în i
 |------|------------|----------------------|
 | 2026-07-15 | Creare notă | — |
 | 2026-07-15 | Corectat plafonul mijloacelor fixe: 5.000 lei din 25.02.2026 (nu 2.500 lei), cu regula tranzitorie | OUG 8/2026 |
+| 2026-07-16 | Corectată data aplicării plafonului: începând cu anul fiscal 2026 (01.01.2026), nu 25.02.2026 | contra-verificare, dosar 7 |

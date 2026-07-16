@@ -151,8 +151,12 @@ secțiunea `note/salarii-specializare/`):
   **cel târziu la data depășirii plafonului**, iar regimul normal se aplică de la
   operațiunea care generează depășirea (factura care depășește plafonul se
   taxează integral) — a dispărut vechiul mecanism „până pe 10 ale lunii
-  următoare". Include și regimul transfrontalier UE pentru întreprinderi mici
-  (plafon UE 100.000 €, cod cu sufix EX).
+  următoare". **Baza de calcul** (verificat adversarial 2026-07-16): tot de la
+  **01.09.2025**, cifra de afaceri-referință cuprinde **numai operațiunile cu
+  locul livrării/prestării în România** (art. 310 alin. (2) rescris — atenție:
+  unele ghiduri o prezintă greșit ca noutate „din 2026"). Include și regimul
+  transfrontalier UE pentru întreprinderi mici (plafon UE 100.000 €, cod cu
+  sufix EX).
   [MF](https://mfinante.gov.ro/en/acasa/-/asset_publisher/uwgr/content/suport-fiscal-pentru-c3-aentreprinderile-mici-prin-modific-c4-83ri-de-legisla-c8-9bie-cre-c8-99te-plafonul-de-scutire-de-tva-de-la-300.000-lei-la-395.000-lei)
 - **Impozitul pe construcții**: 0,5% pe valoarea netă contabilă (0,25% pentru
   construcțiile statului/UAT în administrare etc.), cf. OUG 156/2024 modificată
@@ -162,10 +166,25 @@ secțiunea `note/salarii-specializare/`):
   SRL cu venituri nete peste 400.000 lei în exercițiul precedent. SRL-urile
   existente au **2 ani (până ~18.12.2027)** pentru majorare, sub sancțiunea
   dizolvării judiciare. Detalii: nota NC-025.
-- **Plafonul mijloacelor fixe: 5.000 lei** din 25.02.2026 (**OUG 8/2026** — a
-  înlocuit plafonul de 2.500 lei din HG 276/2013), cu actualizare anuală la IPC;
-  mijloacele fixe de 2.500–5.000 lei existente la 31.12.2025 se amortizează în
-  continuare pe durata rămasă. Detalii: nota NC-006.
+- **Plafonul mijloacelor fixe: 5.000 lei, aplicabil începând cu anul fiscal
+  2026** — adică de la 01.01.2026 pentru anul fiscal calendaristic (**OUG 8/2026**,
+  M.Of. 147/25.02.2026, care a înlocuit plafonul de 2.500 lei din HG 276/2013;
+  corectat 2026-07-16 — formularea anterioară „din 25.02.2026" era imprecisă:
+  un activ de 2.500–5.000 lei achiziționat în ianuarie–februarie 2026 intră
+  deja sub plafonul nou), cu actualizare anuală la IPC; mijloacele fixe de
+  2.500–5.000 lei existente la 31.12.2025 se amortizează pe durata rămasă.
+  Detalii: nota NC-006. [PwC](https://blog.pwc.ro/2026/04/08/de-la-1-ianuarie-2026-pragul-fiscal-pentru-mijloace-fixe-a-crescut-la-5-000-lei-ce-inseamna-in-practica-pentru-companii/)
+- **TVA la încasare (art. 282 CF)** — plafon **etapizat prin OUG 8/2026**
+  (verificat adversarial 2026-07-16): **5.000.000 lei pentru 01.03–31.12.2026**
+  (anterior 4.500.000 lei), apoi **5.500.000 lei de la 01.01.2027**; tranzitoriu:
+  depășirile de 4.500.000 lei din ianuarie–februarie 2026 (fără a depăși
+  5.000.000) nu duc la radierea din registru și nu cer notificare.
+  [Material ANAF](https://static.anaf.ro/static/10/Brasov/Brasov/TVA_incasare_2026.pdf)
+- **Perioada fiscală de TVA (art. 322 CF)**: plafonul de **100.000 € =
+  509.630 lei pentru 2026** (cursul BNR 5,0963 comunicat la 30.12.2025, „valabil
+  pentru 31.12.2025" — pct. 103 alin. (2) din norme; verificat adversarial
+  2026-07-16). **Atenție la cursuri diferite**: plafonul micro folosește cursul
+  de închidere 5,0985 (509.850 lei) — indicatori diferiți, cursuri diferite.
 - **Plafoanele de numerar (Legea 70/2015)**: încasări/plăți de la/către PJ —
   5.000 lei/persoană/zi (plafon total plăți 10.000 lei/zi; 10.000 lei pentru
   cash & carry); persoane fizice — 10.000 lei/persoană/zi; avansuri spre
@@ -177,6 +196,11 @@ secțiunea `note/salarii-specializare/`):
   **1 ianuarie** a anului venitului (4.050 lei pentru 2026 → 24.300/48.600/97.200
   lei). Majorarea la **72 salarii minime** (Legea 239/2025) privește doar plafonul
   maxim al bazei CASS pentru **activități independente**, din 2026.
+- **Plafonul achizițiilor intracomunitare** pentru neînregistrații normal în
+  scopuri de TVA: **10.000 EUR = 34.000 lei** (echivalent fixat la cursul BNR de
+  la data aderării, rotunjit la mii — art. 268 alin. (4) CF; verificat
+  2026-07-16); peste plafon — cod special de TVA (art. 317) și decont special
+  D301. Detalii de aplicare: NC-014 §6.
 - **Accize majorate la 01.01.2026** (a doua etapă din calendarul Legii 141/2025);
   **crypto: 16%** pentru câștigurile realizate din 2026 (anterior 10%), **titluri
   de valoare prin intermediari rezidenți: 3%/6%** reținere la sursă (Legea
@@ -243,6 +267,14 @@ secțiunea `note/salarii-specializare/`):
   la cotele 21%/11% de la 01.08.2025. **F4109** pentru aparatele complet neutilizate
   în perioada de raportare: prin SPV, **până pe 20 a lunii următoare** (OPANAF
   627/2018) — verificat 2026-07-15.
+- **SPV** (verificat 2026-07-16): înregistrarea și utilizarea SPV sunt
+  **obligatorii de la 01.03.2022** pentru persoanele juridice și pentru
+  persoanele fizice cu activități economice/profesii liberale (OG 11/2021, care
+  a modificat Codul de procedură fiscală); comunicarea actelor administrative
+  fiscale se face prin SPV, iar actul pus la dispoziție se consideră comunicat —
+  termenele curg indiferent dacă e deschis (art. 47 CPF). Alocarea răspunderii
+  pentru monitorizarea canalului: [cadre/zona-de-intre.md](../cadre/zona-de-intre.md).
+  [Material ANAF](https://static.anaf.ro/static/3/Galati/20210914105042_spv2022.pdf)
 
 ## 4. Termenele declarațiilor
 
@@ -275,6 +307,7 @@ pe prima zi lucrătoare următoare (ex.: 25.07.2026 — sâmbătă → 27.07.202
 | 31.07.2026 | Expiră regimul tranzitoriu TVA 9% pentru locuințe | Notele de vânzări imobiliare (când vor exista) trec pe `de-revizuit` la 01.08.2026 |
 | 31.12.2026 | Expiră măsurile temporare de taxare inversă internă — art. 331 alin. (2) lit. c)–f), i)–l): cereale, certificate GES, energie, certificate verzi, telefoane, microprocesoare, console/tablete/laptopuri, gaze (OUG 85/2022 / Directiva UE 2022/890); rămân permanente deșeurile, masa lemnoasă, construcțiile/terenurile, aurul de investiții | NC-014 pe `de-revizuit` la 01.01.2027 dacă nu apare prelungire |
 | 31.12.2026 | Expiră derogarea UE pentru limitarea de 50% a TVA la vehicule (Decizia UE 2024/1641) — de urmărit prelungirea | NC-015 de reverificat în ianuarie 2027 |
+| 01.01.2027 | Plafonul TVA la încasare urcă la 5.500.000 lei (OUG 8/2026, treapta a doua) | Actualizarea §2 + celulele L3 din cadre/ |
 | 01.01.2027 | IMCA eliminat (OUG 89/2025) | Revizuire NC-009 |
 | 01.01.2027 | Impozitul pe construcții abrogat (OUG 89/2025 — confirmat 2026-07-15) | Eliminarea referințelor la 2026 fiind ultimul an |
 | 01.01.2027 | Clădirile rezidențiale ale PJ trec la impozitare ca nerezidențiale (Legea 239/2025, amânată prin OUG 78/2025) | Revizuire NC-019 |
@@ -298,6 +331,7 @@ dosarul 3. Rundele viitoare își adaugă propriul dosar.
 | 2026-07-15 | Crearea registrului declarațiilor (`declaratii.md`) + verificare țintită D205 | Tabelul de termene mutat din secțiunea 4 în registru (sursă unică); D205 confirmată: anuală, ultima zi a lunii februarie (pt. 2025: 02.03.2026, material ANAF); restul scadențelor preluate din verificările anterioare ale sesiunii |
 | 2026-07-15 | Verificare țintită pentru NC-031/NC-032 și procesele speciale noi | Confirmate: zilieri — impozit 10% + CAS 25% reținute de beneficiar, fără CASS/CAM, tarif minim orar 25,949 lei din 01.07.2026; DDA — forfetară 40%, impozit final 10% la sursă, plafoane CAS 12 / CASS 6-12-24 salarii minime, scutiri CASS salariați/pensionari (material ANAF feb. 2026); suspendare activitate — max. 3 ani ONRC, regim derogatoriu de declarare 12 luni–3 ani (precizări ANAF); OMFP 897/2015 (fuziuni/divizări) în vigoare |
 | 2026-07-15 | Verificare țintită pentru secțiunea salarii-specializare (NC-026 → NC-030) | Confirmate: plafonul 33% cu limitele proprii (400€/400€/100€/1.500 lei), tichete max. 45 lei (Legea 201/2025, până în sept. 2026), avantaj auto 1,7%/lună + neimpozabil la regim 50% (art. 76(4) ț)), deducerea personală recalculată la minimul din iulie (plafon 6.325 lei, tineri 648,75 lei), part-time bază minimă 4.125 lei din 01.07.2026 |
+| 2026-07-16 | **Re-pinuirea cadrelor (runda pinurilor neacoperite)** — workflow adversarial (3 pinuri portante) + căutări țintite, [dosar 7](../arhiva-cercetare/2026-07-16-dosar-7-pinuri-cadre.md) | Fapte noi în §2: TVA la încasare etapizat (5.000.000 lei 01.03–31.12.2026 → 5.500.000 lei din 01.01.2027, OUG 8/2026), perioada fiscală 100.000 € = 509.630 lei pt. 2026 (curs 5,0963 — diferit de cursul micro 5,0985), plafonul AIC 34.000 lei; **2 corecții la conținut propriu**: data aplicării plafonului mijloacelor fixe (anul fiscal 2026, nu 25.02.2026 — propagat în NC-006) și baza art. 310 (de la 01.09.2025); §3: SPV; D301 în registrul declarațiilor; toate pinurile cadrelor tranșate — 0 rămase |
 | 2026-07-16 | **„A patra aplicare" a cadrelor zonei de „între"** — re-pinuire pe evidență existentă, fără verificare web nouă | Celula contestată e-TVA din `cadre/zona-de-intre.md` închisă pe dosarul 2 (OUG 89/2025 + OUG 13/2026), cu marcajul istoric păstrat; glose datate pe pinurile L3 deja verificate (395.000 lei, cote, micro, EX, SAF-T, 5 zile lucrătoare, L36/2023, VIES/quick fixes); 8 pinuri rămase `de-verificat` — runda următoare (dosar 7) |
 | 2026-07-16 | **Extinderea Planului de conturi la gradul II** — workflow 14 agenți (7 constructori + 7 contra-verificatori), [dosar 6](../arhiva-cercetare/2026-07-16-dosar-6-plan-de-conturi-gradul-2.md) | **319 conturi de gradul II**, cu 12 corecții din contra-verificare: +2907, +3541/3545/3546, +751 cu 7511–7513 (**corecție și la gradul I** — lipsea din grupa 75), +7651/7652, −5126/−5127 (eliminate prin OMF 58/2021, deși unele listări le mai afișează); 786 redenumit cf. OMF 166/2017. Livrabil: `plan-de-conturi-detaliat.md` |
 | 2026-07-16 | **Reconstituirea Planului de conturi (nivel de bază)** — workflow 8 agenți (4 constructori + 4 verificatori adversariali), [dosar 5](../arhiva-cercetare/2026-07-16-dosar-5-plan-de-conturi.md) | 155 conturi gradul I verificate pe surse concordante (1 omisiune prinsă și corectată: 509); **descoperit OMF 6670/2024** (conturi 694/794, grup fiscal) — adăugat în secțiunea 1; respinse conturile-fantomă din surse vechi (763 — doar OMFP 3055; 792 — doar planul IFRS). Livrabile: `plan-de-conturi-sintetic.md` + puntea EN↔RO |
