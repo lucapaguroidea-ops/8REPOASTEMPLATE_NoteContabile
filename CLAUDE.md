@@ -76,6 +76,8 @@ revizuiri legislative, rulările rutinei lunare): urmezi convențiile de mai jos
   - ce note alimentează o declarație: `grep -rl "declaratii:.*D300" note/`
   - notele unui proces: `grep -rl "proces: inchidere-luna" note/`
   - note nesigure: `grep -rl "stare: de-revizuit" note/`
+  - consumatorii unei schimbări (act, valoare, articol, fișier):
+    `bash verificari/impact.sh "OUG 8/2026"`
 - **De ce credem ce scrie** (dovezile verificărilor, inclusiv afirmațiile
   respinse): `arhiva-cercetare/` — strat de adâncime, ignorabil la consum.
 
@@ -92,6 +94,13 @@ revizuiri legislative, rulările rutinei lunare): urmezi convențiile de mai jos
    `referinte/declaratii.md`.
 4. **Sincronizare în același commit**: frontmatter `procese:` ↔ tabelele din
    `procese/`; frontmatter `declaratii:` ↔ registrul; nota nouă ↔ PLAN.md.
+   Închiderea unei schimbări se enumeră mecanic, nu din memorie:
+   `bash verificari/impact.sh "actul/valoarea schimbată"` listează toți
+   consumatorii pe straturi (note — cu frontmatter separat de corp, procese,
+   referințe, cadre, PLAN); lista se închide integral în același commit.
+   Scriptul e advisory — corectitudinea atribuirilor rămâne verificare umană
+   (dosar 9); prezența în hărțile de navigare e singura impusă la nivel de
+   eroare (`consistenta.sh`, secțiunea 9).
 5. **Înainte de commit rulează** `bash verificari/consistenta.sh` — trebuie să
    iasă „OK". Scriptul face trunchierea și desincronizarea detectabile. După
    fiecare acțiune parcurge și lista „Revizuire după fiecare acțiune" din

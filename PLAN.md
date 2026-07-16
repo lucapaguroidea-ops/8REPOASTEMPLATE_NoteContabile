@@ -100,6 +100,14 @@ transport internațional.
       metadatele nu" în NC-006/NC-025 și completarea hărții punții EN↔RO);
       decizie consemnată în dosar: fără invariante grep noi pentru clasa
       semantică (considerat și respins)
+- [x] **Mecanismul „mișcării unice"** (2026-07-16, dosar 10): intenția se
+      declară o dată, închiderea se compilează — `verificari/impact.sh`
+      (advisory: enumerarea consumatorilor pe straturi, frontmatter separat
+      de corp) + secțiunea 9 din `consistenta.sh` (error-level: prezența în
+      hărțile de navigare) + protocolul în `CLAUDE.md` (regula 4), pașii 4–5
+      de aici și pasul 1c din `surse-oficiale.md`; considerat și respins:
+      ancore de valori în frontmatter (nu se ating cele 32 de note) —
+      deciziile în dosarul 10
 - [x] **Planul de conturi + puntea EN↔RO** (`referinte/plan-de-conturi/`):
       copia locală de bază (155 conturi gradul I, verificată adversarial —
       dosar 5) și maparea pe categorii funcționale anglo-saxone (Receivables,
@@ -196,15 +204,20 @@ la zi** (reflectă realitatea, nu intenția de ieri).
    adesea altul (gradul II → gradul I, o notă → registru, o cotă → toate notele
    care o folosesc, o valoare din `cadru-legislativ.md` → celulele L3 din
    `cadre/` + inventarul din `cadre/README.md`); caută consumatorii prin
-   frontmatter (`conturi`, `declaratii`) și adu-i la zi în același commit.
+   frontmatter (`conturi`, `declaratii`) și **enumeră-i mecanic cu
+   `bash verificari/impact.sh "șirul schimbat"`** (advisory: note cu
+   frontmatter separat de corp, procese, referințe, cadre, PLAN — inclusiv
+   blocul „frontmatter vs corp diferă", clasa V-1 din dosarul 9), apoi
+   adu-i la zi în același commit.
 5. **Ține harta de navigare la zi.** Dacă acțiunea a schimbat *forma*
    repo-ului — fișier, director, secțiune, proces sau registru nou (mutat sau
    redenumit) — verifică dacă documentația de navigare o mai reflectă: arborele
    „Structura repo-ului" și tabelul de straturi din `README.md`, „Cum navighezi"
    din `CLAUDE.md`, tabelele de secțiuni/grupe din `note/README.md` și
-   `procese/README.md`. `consistenta.sh` verifică doar *existența* fișierelor-
-   pilon, nu completitudinea hărții lor; documentația de navigare rămasă în urma
-   creșterii corpusului e o „orbire" tăcută.
+   `procese/README.md`. `consistenta.sh` (secțiunea 9) verifică mecanic, la
+   nivel de eroare, *prezența* fiecărui fișier și director în aceste hărți;
+   pe om rămân doar descrierile și formulările — o descriere rămasă în urma
+   creșterii corpusului e în continuare o „orbire" tăcută.
 6. **Verifică calendarul.** Uită-te la „Modificări cu aplicare viitoare" din
    `cadru-legislativ.md`: a intrat ceva în vigoare de la ultima acțiune? Dacă
    da, declanșează acțiunea prevăzută (note pe `de-revizuit`) — așa planul

@@ -39,6 +39,13 @@ firmelor mari de consultanță (PwC, KPMG, EY, Deloitte, Crowe). Utile pentru a 
    corecturilor per tipologia din `cadre/zona-de-intre.md` §9 (lege → L2 +
    cascadă; OPANAF → doar celulele cu pinul lui). **Straturile L0–L1 NU intră
    în verificare** — sunt interpretative.
+1c. **Enumerarea impactului**: pentru fiecare schimbare găsită la pașii 1/1b,
+   consumatorii se enumeră mecanic — `bash verificari/impact.sh "actul sau
+   valoarea schimbată"` (advisory; listează pe straturi: note cu frontmatter
+   separat de corp, procese, referințe, cadre, PLAN.md, plus blocul
+   „frontmatter vs corp diferă"). Lista devine inventarul de propagare al
+   pasului 2 — nu se reconstituie din memorie; corectitudinea atribuirilor
+   rămâne verificare umană (dosar 9).
 2. Orice divergență: se actualizează `cadru-legislativ.md` (și `declaratii.md`
    pentru scadențe/formulare), se identifică notele afectate (căutare după
    `conturi`, `etichete` și `declaratii` din frontmatter), acestea trec pe
