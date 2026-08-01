@@ -7,7 +7,7 @@ procese:
   - proces: inchidere-luna
     pas: 1
 stare: valida
-verificata_la: 2026-07-16
+verificata_la: 2026-08-01
 temei_legal:
   - act: "OMFP 1802/2014 — funcțiunea conturilor 4111, 419, 4427, 4428, clasa 7"
     url: "https://static.anaf.ro/static/10/Anaf/legislatie/OMFP_1802_2014.pdf"
@@ -70,8 +70,11 @@ vândute se face separat — vezi [NC-005](NC-005-descarcarea-de-gestiune-a-stoc
   [material ANAF](https://static.anaf.ro/static/10/Brasov/Brasov/facturare_electronica_89.pdf).
   Amenzi de netransmitere: 5.000–10.000 lei (mari), 2.500–5.000 lei (mijlocii),
   1.000–2.500 lei (ceilalți); transmiterea B2B prin alte canale: 15% din valoare.
-- Cote: 21% / 11% (Legea 141/2025); regim tranzitoriu 9% locuințe doar până la
-  31.07.2026 (vezi `referinte/cadru-legislativ.md`, secțiunile 2 și 6).
+- Cote: 21% / 11% (Legea 141/2025). Regimul tranzitoriu de 9% pentru locuințe
+  **a expirat la 31.07.2026** — livrările de locuințe se facturează cu 21%;
+  o prelungire până la 01.10.2026 a trecut de Parlament la 29.07.2026, dar la
+  01.08.2026 nu era promulgată/publicată, deci nu se aplică — urmărește starea
+  în `referinte/cadru-legislativ.md`, secțiunile 2 și 6.
 
 ## 6. Erori frecvente și atenționări
 
@@ -91,3 +94,4 @@ vândute se face separat — vezi [NC-005](NC-005-descarcarea-de-gestiune-a-stoc
 |------|------------|----------------------|
 | 2026-07-15 | Creare notă; termen e-Factura 5 zile lucrătoare cf. OUG 89/2025 | — |
 | 2026-07-16 | Promisiunea perimată „vor avea note separate" (LIC/export/taxare inversă) înlocuită cu linkurile directe la NC-021 și NC-014, care există | Contra-verificare audit semantic (dosar 9) |
+| 2026-08-01 | §5: regimul tranzitoriu 9% locuințe consemnat ca EXPIRAT la 31.07.2026 (livrările de locuințe → 21%); prelungirea (01.10.2026, PL-x 525/2026) votată 29.07.2026, nepromulgată la data verificării — neintrată în vigoare | Rutina lunară 2026-08 (dosar 11); Legea 141/2025 |

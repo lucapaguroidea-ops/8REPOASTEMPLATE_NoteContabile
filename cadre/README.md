@@ -1,8 +1,10 @@
 # Cadrele zonei de „între" — companionul de integrare
 
-**Re-pinuit la: 2026-07-16** (runda completă post-import: celula contestată
-închisă pe dosar 2; toate pinurile portante și țintite tranșate — dosar 7;
-niciun pin `de-verificat` rămas).
+**Re-pinuit la: 2026-08-01** (rundă parțială — rutina lunară: pinul 11, cotele/
+9% tranzitoriu, actualizat la expirarea regimului de la 31.07.2026, dosar 11;
+runda completă anterioară: 2026-07-16 — celula contestată închisă pe dosar 2,
+toate pinurile portante și țintite tranșate, dosar 7; niciun pin `de-verificat`
+rămas).
 
 Familia documentelor de metodă: cadre stratificate (L0→L3) pentru ce nu e
 materie contabilă dar gravitează spre contabil. Acest companion e **harta de
@@ -78,7 +80,7 @@ tranșată) · `istoric` (valoare istorică în celulă închisă — nu se re-p
 | 8 | zona · ferestre opțiune / ident. · valori-prag | TVA la încasare 5.000.000 lei din 03.2026 (OUG 8/2026) | `verificat-repo` — completat: treapta 01.03–31.12.2026; de la 01.01.2027 → 5.500.000 lei | dosar 7; `cadru-legislativ.md` §2 |
 | 9 | ident. · valori-prag | perioada fiscală 100.000 EUR = 509.630 lei pt. 2026 (art. 322) | `verificat-repo` (curs 5,0963/30.12.2025 — diferit de cursul micro 5,0985) | dosar 7; `cadru-legislativ.md` §2 |
 | 10 | ident. · valori-prag | achiziții IC: 10.000 EUR / 34.000 lei | `verificat-repo` (echivalent fixat la cursul aderării, art. 268(4)) | dosar 7; `cadru-legislativ.md` §2 |
-| 11 | ident. · valori-prag | cote 21%/11% din 08.2025; 9% tranzitoriu locuințe până 31.07.2026 | `verificat-repo` | dosar 1; `cadru-legislativ.md` §2 |
+| 11 | ident. · valori-prag | cote 21%/11% din 08.2025; 9% tranzitoriu locuințe până 31.07.2026 | `verificat-repo` — pinul s-a consumat: regimul 9% a EXPIRAT la 31.07.2026 (re-pinuit 01.08.2026; prelungirea la promulgare — vezi §2/§6 din registru) | dosar 1; dosar 11; `cadru-legislativ.md` §2 |
 | 12 | zona · ferestre opțiune / ident. · valori-prag | micro 100.000 EUR | `verificat-repo` | dosar 1; `cadru-legislativ.md` §2 |
 | 13 | ident. · cod regim UE | sufix „EX" (OG 22/2025, art. 310¹–310²) | `verificat-repo` | dosar 2 (plafon-scutire-tva — regimul transfrontalier); `cadru-legislativ.md` §2 |
 | 14 | zona · SAF-T | D406 extins la contribuabilii mici din 01.2025 | `verificat-repo` | dosar 1; `declaratii.md` |
