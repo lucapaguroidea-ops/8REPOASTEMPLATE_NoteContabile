@@ -185,11 +185,13 @@ documentului-origine:
 - [ ] Atenție specială la datele cunoscute de intrare în vigoare a unor modificări
       deja adoptate (vezi secțiunea „Modificări cu aplicare viitoare" din
       `referinte/cadru-legislativ.md`)
-- [ ] De confirmat la o verificare web viitoare (semnalat de contra-verificarea
+- [x] De confirmat la o verificare web viitoare (semnalat de contra-verificarea
       din dosarul 9): atribuirea amenzii de 15% (transmitere B2B în afara
-      e-Factura) actului OUG 115/2023, afirmată în NC-002 §5 — cadru-legislativ
-      §3 dă valoarea fără să numească actul, deci atribuirea nu e confruntabilă
-      în interiorul repo-ului
+      e-Factura) actului OUG 115/2023, afirmată în NC-002 §5 — **confirmat
+      2026-11-01** (runda lunară, dosar 12): amenda e la art. 13² OUG 120/2021,
+      introdus prin OUG 115/2023, aplicabil din 01.07.2024 (text ANAF); actul a
+      fost numit acum și în `cadru-legislativ.md` §3, deci atribuirea e
+      confruntabilă în interiorul repo-ului
 
 ## Revizuire după fiecare acțiune (ca planul să fie urmat și la zi)
 

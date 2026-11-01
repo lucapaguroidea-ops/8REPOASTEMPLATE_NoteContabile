@@ -7,7 +7,7 @@ procese:
   - proces: inchidere-luna
     pas: 7
 stare: valida
-verificata_la: 2026-08-01
+verificata_la: 2026-11-01
 temei_legal:
   - act: "OMFP 1802/2014 — Planul de conturi general și funcțiunea conturilor 4423, 4424, 4426, 4427"
     url: "https://static.anaf.ro/static/10/Anaf/legislatie/OMFP_1802_2014.pdf"
@@ -106,10 +106,10 @@ Corelare: D300 pentru iulie 2026 se depune și TVA se plătește până la
   cu jurnalele și cu decontul; diferențele se lămuresc înainte de depunere.
 - **Compensarea 4423/4424** se face la nivelul sumei minime; TVA de recuperat se
   poate solicita la rambursare prin D300 (bifă), altfel se reportează.
-- Regimul tranzitoriu de 9% pentru locuințe **a expirat la 31.07.2026** (o
-  prelungire până la 01.10.2026 era la promulgare la 01.08.2026 — neintrată în
-  vigoare); relevant doar pentru dezvoltatori imobiliari (starea la zi:
-  `referinte/cadru-legislativ.md`, secțiunile 2 și 6).
+- Regimul tranzitoriu de 9% pentru locuințe, prelungit prin **Legea 161/2026**
+  (M.Of. 642/04.08.2026) până la **30.09.2026 inclusiv**, **a expirat** — de la
+  01.10.2026 livrările se facturează cu 21%; relevant doar pentru dezvoltatorii
+  imobiliari (starea la zi: `referinte/cadru-legislativ.md`, secțiunile 2 și 6).
 
 ## 7. Istoric actualizări
 
@@ -117,3 +117,4 @@ Corelare: D300 pentru iulie 2026 se depune și TVA se plătește până la
 |------|------------|----------------------|
 | 2026-07-15 | Creare notă; cote TVA 21%/11% cf. Legea 141/2025, verificate pe ghidul ANAF | — |
 | 2026-08-01 | §6: regimul tranzitoriu 9% locuințe consemnat ca EXPIRAT la 31.07.2026; prelungirea (01.10.2026) votată de Parlament la 29.07.2026 dar nepromulgată la data verificării — neintrată în vigoare | Rutina lunară 2026-08 (dosar 11); Legea 141/2025 |
+| 2026-11-01 | §6: prelungirea 9% locuințe s-a publicat (Legea 161/2026, M.Of. 642/04.08.2026, până la 30.09.2026 inclusiv) și a expirat la 30.09.2026 — de la 01.10.2026 livrările → 21% | Rutina lunară 2026-11 (dosar 12); Legea 161/2026 |
